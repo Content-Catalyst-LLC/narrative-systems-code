@@ -1,0 +1,7 @@
+source,target,relationship
+Protagonist,Guide,receives_guidance
+Guide,Protagonist,offers_witness
+Opponent,Protagonist,creates_conflict
+Community,Protagonist,sets_norms
+Protagonist,Community,returns_to
+Protagonist,Opponent,confronts

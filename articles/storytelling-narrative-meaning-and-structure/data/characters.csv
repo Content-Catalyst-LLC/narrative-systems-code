@@ -1,0 +1,5 @@
+character,initial_state,final_state,role
+Protagonist,0.25,0.82,central_actor
+Guide,0.70,0.76,mentor_or_witness
+Opponent,0.80,0.35,source_of_conflict
+Community,0.40,0.64,social_world

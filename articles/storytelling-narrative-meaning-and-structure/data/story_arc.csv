@@ -1,0 +1,9 @@
+stage,sequence_order,tension,conflict_intensity,transformation_pressure,resolution_pressure
+Ordinary World,1,0.20,0.18,0.10,0.05
+Inciting Event,2,0.42,0.46,0.28,0.10
+Threshold,3,0.55,0.58,0.48,0.18
+Trials,4,0.68,0.72,0.62,0.25
+Crisis,5,0.92,0.95,0.88,0.42
+Recognition,6,0.78,0.70,0.92,0.68
+Transformation,7,0.62,0.50,0.80,0.82
+Return or Aftermath,8,0.38,0.30,0.55,0.90

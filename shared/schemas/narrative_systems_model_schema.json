@@ -1,0 +1,21 @@
+{
+  "schema_name": "narrative_systems_model_schema",
+  "description": "Metadata schema for narrative systems analysis.",
+  "fields": [
+    {"name": "story_id", "type": "integer"},
+    {"name": "title", "type": "string"},
+    {"name": "tradition_or_medium", "type": "string"},
+    {"name": "cultural_context", "type": "string"},
+    {"name": "event_name", "type": "string"},
+    {"name": "sequence_order", "type": "integer"},
+    {"name": "stage", "type": "string"},
+    {"name": "tension", "type": "number"},
+    {"name": "character_name", "type": "string"},
+    {"name": "narrative_role", "type": "string"},
+    {"name": "motif_name", "type": "string"},
+    {"name": "symbolic_function", "type": "string"},
+    {"name": "conflict_type", "type": "string"},
+    {"name": "theme_name", "type": "string"},
+    {"name": "ethical_caution", "type": "string"}
+  ]
+}
