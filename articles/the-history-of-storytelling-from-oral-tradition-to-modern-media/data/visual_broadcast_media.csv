@@ -1,0 +1,6 @@
+medium,visuality,sound,seriality,mass_audience,ethical_risk
+Theater,0.74,0.80,0.52,0.48,medium
+Film,0.94,0.82,0.62,0.86,medium
+Radio,0.00,0.94,0.76,0.88,medium
+Television,0.90,0.86,0.88,0.92,high
+Streaming video,0.92,0.88,0.82,0.90,high

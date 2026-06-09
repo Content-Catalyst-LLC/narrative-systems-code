@@ -1,0 +1,11 @@
+medium,period_label,preservation,participation_score,circulation,repeatability,governance_complexity,archive_durability,context_retention,access_openness,platform_stability,transmission_strength,preservation_risk,review_priority,owner,status,governance_note
+Digital platform,networked media,0.68,0.86,0.96,0.74,0.92,0.54,0.44,0.78,0.38,0.73,0.565,high,platform,review,"Requires archival, cultural, and editorial review before publication or reuse."
+Transmedia system,convergence culture,0.74,0.88,0.92,0.76,0.94,0.58,0.54,0.64,0.5,0.75,0.537,high,platform,review,"Requires archival, cultural, and editorial review before publication or reuse."
+Interactive game,digital interactive,0.7,0.92,0.76,0.7,0.86,0.62,0.6,0.66,0.58,0.695,0.481,medium,interactive,active,"Review preservation, context retention, access, and authority assumptions."
+Broadcast,radio and television,0.72,0.48,0.9,0.76,0.78,0.7,0.58,0.56,0.7,0.77,0.447,medium,media,active,"Review preservation, context retention, access, and authority assumptions."
+Manuscript,ancient and medieval,0.78,0.34,0.38,0.58,0.72,0.74,0.62,0.32,0.76,0.62,0.442,high,archive,review,"Requires archival, cultural, and editorial review before publication or reuse."
+Film,modern visual media,0.8,0.5,0.86,0.82,0.7,0.76,0.64,0.62,0.74,0.81,0.386,medium,media,active,"Review preservation, context retention, access, and authority assumptions."
+Theater,ancient to modern,0.54,0.84,0.5,0.62,0.54,0.48,0.82,0.66,0.72,0.535,0.376,medium,performance,active,"Review preservation, context retention, access, and authority assumptions."
+Oral tradition,pre-writing and continuing,0.62,0.88,0.42,0.7,0.48,0.42,0.9,0.7,0.82,0.54,0.338,standard,archive,active,Standard historical and editorial review.
+Print,early modern onward,0.88,0.42,0.82,0.86,0.64,0.86,0.68,0.58,0.82,0.855,0.333,standard,library,active,Standard historical and editorial review.
+Novel,literary modernity,0.84,0.46,0.78,0.82,0.58,0.82,0.7,0.62,0.8,0.815,0.323,standard,literary,active,Standard historical and editorial review.

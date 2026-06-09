@@ -1,0 +1,14 @@
+{
+  "title": "Story Media History Item",
+  "type": "object",
+  "required": ["medium", "period_label", "preservation", "participation", "circulation"],
+  "properties": {
+    "medium": {"type": "string"},
+    "period_label": {"type": "string"},
+    "preservation": {"type": "number", "minimum": 0, "maximum": 1},
+    "participation": {"type": "number", "minimum": 0, "maximum": 1},
+    "circulation": {"type": "number", "minimum": 0, "maximum": 1},
+    "repeatability": {"type": "number", "minimum": 0, "maximum": 1},
+    "archive_durability": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

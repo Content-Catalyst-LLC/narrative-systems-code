@@ -1,0 +1,11 @@
+medium,period_label,preservation,participation,circulation,repeatability,governance_complexity,archive_durability,context_retention,access_openness,platform_stability,owner,status
+Oral tradition,pre-writing and continuing,0.62,0.88,0.42,0.70,0.48,0.42,0.90,0.70,0.82,archive,active
+Manuscript,ancient and medieval,0.78,0.34,0.38,0.58,0.72,0.74,0.62,0.32,0.76,archive,review
+Print,early modern onward,0.88,0.42,0.82,0.86,0.64,0.86,0.68,0.58,0.82,library,active
+Theater,ancient to modern,0.54,0.84,0.50,0.62,0.54,0.48,0.82,0.66,0.72,performance,active
+Novel,literary modernity,0.84,0.46,0.78,0.82,0.58,0.82,0.70,0.62,0.80,literary,active
+Film,modern visual media,0.80,0.50,0.86,0.82,0.70,0.76,0.64,0.62,0.74,media,active
+Broadcast,radio and television,0.72,0.48,0.90,0.76,0.78,0.70,0.58,0.56,0.70,media,active
+Digital platform,networked media,0.68,0.86,0.96,0.74,0.92,0.54,0.44,0.78,0.38,platform,review
+Interactive game,digital interactive,0.70,0.92,0.76,0.70,0.86,0.62,0.60,0.66,0.58,interactive,active
+Transmedia system,convergence culture,0.74,0.88,0.92,0.76,0.94,0.58,0.54,0.64,0.50,platform,review

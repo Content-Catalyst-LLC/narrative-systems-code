@@ -1,0 +1,10 @@
+medium,risk_type,severity,note
+Oral tradition,context loss,high,Recording or transcription may strip performance and cultural occasion
+Manuscript,access restriction,high,Institutional control may limit access and preservation
+Print,canon formation,medium,Printed survival may privilege dominant languages and markets
+Theater,performance loss,high,Live event may survive only through text or documentation
+Film,format decay,medium,Media format and rights restrictions affect access
+Broadcast,archive incompleteness,medium,Live and early broadcast materials may be lost
+Digital platform,platform instability,high,Platform changes can erase or bury stories
+Interactive game,software dependency,high,Hardware software and licensing affect preservation
+Transmedia system,continuity fragmentation,high,Distributed story worlds require active governance

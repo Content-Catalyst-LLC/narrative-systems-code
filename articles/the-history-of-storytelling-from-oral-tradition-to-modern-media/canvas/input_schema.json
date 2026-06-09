@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Story Media History Canvas Input",
+  "type": "object",
+  "required": ["medium", "period_label", "preservation", "participation", "circulation", "archive_durability"],
+  "properties": {
+    "medium": {"type": "string"},
+    "period_label": {"type": "string"},
+    "preservation": {"type": "number", "minimum": 0, "maximum": 1},
+    "participation": {"type": "number", "minimum": 0, "maximum": 1},
+    "circulation": {"type": "number", "minimum": 0, "maximum": 1},
+    "repeatability": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_complexity": {"type": "number", "minimum": 0, "maximum": 1},
+    "archive_durability": {"type": "number", "minimum": 0, "maximum": 1},
+    "context_retention": {"type": "number", "minimum": 0, "maximum": 1},
+    "access_openness": {"type": "number", "minimum": 0, "maximum": 1},
+    "platform_stability": {"type": "number", "minimum": 0, "maximum": 1},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

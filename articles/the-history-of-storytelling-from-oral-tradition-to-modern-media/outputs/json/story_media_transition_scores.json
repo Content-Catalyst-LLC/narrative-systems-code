@@ -1,0 +1,47 @@
+[
+  {
+    "from_medium": "Oral tradition",
+    "to_medium": "Manuscript",
+    "transition_score": 0.22
+  },
+  {
+    "from_medium": "Manuscript",
+    "to_medium": "Print",
+    "transition_score": 0.196
+  },
+  {
+    "from_medium": "Print",
+    "to_medium": "Theater",
+    "transition_score": 0.284
+  },
+  {
+    "from_medium": "Theater",
+    "to_medium": "Novel",
+    "transition_score": 0.24
+  },
+  {
+    "from_medium": "Novel",
+    "to_medium": "Film",
+    "transition_score": 0.056
+  },
+  {
+    "from_medium": "Film",
+    "to_medium": "Broadcast",
+    "transition_score": 0.056
+  },
+  {
+    "from_medium": "Broadcast",
+    "to_medium": "Digital platform",
+    "transition_score": 0.128
+  },
+  {
+    "from_medium": "Digital platform",
+    "to_medium": "Interactive game",
+    "transition_score": 0.076
+  },
+  {
+    "from_medium": "Interactive game",
+    "to_medium": "Transmedia system",
+    "transition_score": 0.076
+  }
+]

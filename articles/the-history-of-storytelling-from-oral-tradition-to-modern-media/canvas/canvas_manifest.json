@@ -1,0 +1,36 @@
+{
+  "canvas_module": "story_media_history_canvas",
+  "article_title": "The History of Storytelling from Oral Tradition to Modern Media",
+  "article_slug": "the-history-of-storytelling-from-oral-tradition-to-modern-media",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing storytelling media history, transmission strength, audience participation, preservation risk, archive durability, and governance complexity.",
+  "inputs": [
+    "story_media_history",
+    "oral_tradition_features",
+    "manuscript_print_transitions",
+    "visual_broadcast_media",
+    "digital_interactive_media",
+    "preservation_risks"
+  ],
+  "outputs": [
+    "story_media_audit.csv",
+    "story_media_transition_scores.csv",
+    "story_media_preservation_queue.csv",
+    "story_media_canvas_cards.json",
+    "story_media_preservation_queue.json",
+    "story_media_preservation_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "cultural context",
+      "archive durability",
+      "context retention",
+      "access openness",
+      "platform stability",
+      "institutional dependence",
+      "translation and collection risk"
+    ]
+  }
+}

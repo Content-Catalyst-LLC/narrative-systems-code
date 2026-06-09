@@ -1,0 +1,4 @@
+"transition","from_medium","to_medium","preservation_change","circulation_change","authority_change","notes","absolute_media_change"
+"Print to digital","Print","Digital platform",-0.2,0.14,0.28,"Distribution expands while platform instability and context collapse increase",0.206666666666667
+"Manuscript to print","Manuscript","Print",0.1,0.44,-0.08,"Reproducibility and standardization expand circulation",0.206666666666667
+"Oral to manuscript","Oral tradition","Manuscript",0.16,-0.04,0.24,"Performance context may be reduced while textual durability increases",0.146666666666667

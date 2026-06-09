@@ -1,0 +1,4 @@
+transition,from_medium,to_medium,preservation_change,circulation_change,authority_change,notes
+Oral to manuscript,Oral tradition,Manuscript,0.16,-0.04,0.24,Performance context may be reduced while textual durability increases
+Manuscript to print,Manuscript,Print,0.10,0.44,-0.08,Reproducibility and standardization expand circulation
+Print to digital,Print,Digital platform,-0.20,0.14,0.28,Distribution expands while platform instability and context collapse increase
