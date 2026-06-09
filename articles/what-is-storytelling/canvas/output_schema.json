@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Storytelling Canvas Output",
+  "type": "object",
+  "required": ["item", "coherence_score", "craft_score", "governance_risk", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "coherence_score": {"type": "number"},
+    "craft_score": {"type": "number"},
+    "governance_risk": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

@@ -1,0 +1,10 @@
+event_id,item,event_order,event_label,event_function,turning_point
+E1,Origin story article opening,1,founding condition,setup,false
+E2,Origin story article opening,2,public problem,conflict,true
+E3,Origin story article opening,3,purpose statement,transformation,true
+E4,Personal transformation case,1,disruption,inciting incident,true
+E5,Personal transformation case,2,interpretive struggle,development,false
+E6,Personal transformation case,3,reorientation,transformation,true
+E7,Folktale motif inventory,1,threshold crossing,transition,true
+E8,Folktale motif inventory,2,test encounter,trial,true
+E9,Folktale motif inventory,3,recognition,turning point,true

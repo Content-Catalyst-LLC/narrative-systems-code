@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Storytelling Canvas Input",
+  "type": "object",
+  "required": ["item", "story_type", "sequence_clarity", "agency_clarity", "causal_connection", "representation_care"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "description": {"type": "string"},
+    "sequence_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "agency_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "causal_connection": {"type": "number", "minimum": 0, "maximum": 1},
+    "conflict_definition": {"type": "number", "minimum": 0, "maximum": 1},
+    "transformation_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "motif_use": {"type": "number", "minimum": 0, "maximum": 1},
+    "interpretive_relevance": {"type": "number", "minimum": 0, "maximum": 1},
+    "evidence_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "representation_care": {"type": "number", "minimum": 0, "maximum": 1},
+    "persuasive_intensity": {"type": "number", "minimum": 0, "maximum": 1},
+    "audience_consequence": {"type": "number", "minimum": 0, "maximum": 1},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

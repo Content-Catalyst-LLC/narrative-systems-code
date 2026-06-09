@@ -1,0 +1,6 @@
+"motif_id","item","motif","frequency","interpretive_weight","notes","motif_score"
+"M4","Folktale motif inventory","threshold",5,0.9,"Recurring transition marker",4.5
+"M3","Campaign persuasion narrative","urgency",4,0.76,"High persuasive pressure",3.04
+"M5","Folktale motif inventory","recognition",3,0.82,"Discovery and altered action",2.46
+"M1","Origin story article opening","beginning",3,0.78,"Founding and legitimacy motif",2.34
+"M2","Personal transformation case","threshold",2,0.84,"Change and self-reinterpretation",1.68

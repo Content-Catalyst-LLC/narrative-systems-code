@@ -1,0 +1,6 @@
+source,target,item,relationship_type,weight
+founding community,institution,Origin story article opening,creates,0.80
+institution,public audience,Origin story article opening,addresses,0.72
+narrator,memory,Personal transformation case,interprets,0.86
+campaign speaker,public audience,Campaign persuasion narrative,persuades,0.90
+trickster,threshold,Folktale motif inventory,crosses,0.78

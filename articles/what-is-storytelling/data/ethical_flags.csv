@@ -1,0 +1,6 @@
+item,flag_type,severity,note
+Campaign persuasion narrative,evidence risk,high,Persuasive pressure exceeds evidence strength
+Campaign persuasion narrative,representation risk,high,Audience is treated as too uniform
+Personal transformation case,consent caution,medium,Personal experience requires careful context
+Origin story article opening,institutional memory caution,medium,Official story may omit conflict or failure
+Folktale motif inventory,cultural interpretation caution,medium,Requires tradition-specific context

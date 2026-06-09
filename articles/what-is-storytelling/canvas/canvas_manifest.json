@@ -1,0 +1,34 @@
+{
+  "canvas_module": "storytelling_canvas",
+  "article_title": "What Is Storytelling?",
+  "article_slug": "what-is-storytelling",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for narrative structure, storytelling analysis, ethical governance, and reusable story-system diagnostics.",
+  "inputs": [
+    "narrative_items",
+    "narrative_events",
+    "characters",
+    "relationships",
+    "motifs",
+    "ethical_flags"
+  ],
+  "outputs": [
+    "storytelling_structure_audit.csv",
+    "storytelling_canvas_cards.json",
+    "storytelling_governance_queue.csv",
+    "storytelling_governance_queue.json",
+    "storytelling_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "representation",
+      "evidence",
+      "voice",
+      "context",
+      "persuasive intensity",
+      "audience consequence"
+    ]
+  }
+}

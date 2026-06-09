@@ -1,0 +1,6 @@
+character_id,item,character_name,role,agency_score,representation_note
+C1,Origin story article opening,founding community,collective actor,0.82,Requires specific historical grounding
+C2,Origin story article opening,institution,institutional actor,0.76,Compare official story with documented practice
+C3,Personal transformation case,narrator,self interpreter,0.88,Handle memory and vulnerability carefully
+C4,Campaign persuasion narrative,public audience,collective audience,0.62,Avoid flattening audience diversity
+C5,Folktale motif inventory,trickster,archetypal figure,0.78,Interpret within specific tradition
