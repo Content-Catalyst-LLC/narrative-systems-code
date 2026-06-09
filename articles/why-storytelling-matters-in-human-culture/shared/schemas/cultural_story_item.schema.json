@@ -1,0 +1,14 @@
+{
+  "title": "Cultural Story Item",
+  "type": "object",
+  "required": ["item", "story_type", "memory_function", "teaching_value", "source_transparency", "representation_care"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "cultural_context": {"type": "string"},
+    "memory_function": {"type": "number", "minimum": 0, "maximum": 1},
+    "teaching_value": {"type": "number", "minimum": 0, "maximum": 1},
+    "source_transparency": {"type": "number", "minimum": 0, "maximum": 1},
+    "representation_care": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

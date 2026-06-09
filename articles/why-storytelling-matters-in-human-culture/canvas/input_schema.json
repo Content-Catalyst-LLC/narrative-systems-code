@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Cultural Story Canvas Input",
+  "type": "object",
+  "required": ["item", "story_type", "memory_function", "teaching_value", "source_transparency", "representation_care"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "cultural_context": {"type": "string"},
+    "memory_function": {"type": "number", "minimum": 0, "maximum": 1},
+    "teaching_value": {"type": "number", "minimum": 0, "maximum": 1},
+    "identity_function": {"type": "number", "minimum": 0, "maximum": 1},
+    "belonging_function": {"type": "number", "minimum": 0, "maximum": 1},
+    "moral_imagination": {"type": "number", "minimum": 0, "maximum": 1},
+    "social_coordination": {"type": "number", "minimum": 0, "maximum": 1},
+    "transmission_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "source_transparency": {"type": "number", "minimum": 0, "maximum": 1},
+    "representation_care": {"type": "number", "minimum": 0, "maximum": 1},
+    "persuasive_intensity": {"type": "number", "minimum": 0, "maximum": 1},
+    "audience_consequence": {"type": "number", "minimum": 0, "maximum": 1},
+    "public_impact": {"type": "number", "minimum": 0, "maximum": 1},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

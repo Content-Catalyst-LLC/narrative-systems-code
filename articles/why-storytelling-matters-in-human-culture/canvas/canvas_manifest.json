@@ -1,0 +1,33 @@
+{
+  "canvas_module": "cultural_story_canvas",
+  "article_title": "Why Storytelling Matters in Human Culture",
+  "article_slug": "why-storytelling-matters-in-human-culture",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing cultural story function, transmission, identity, belonging, moral imagination, public impact, and narrative governance risk.",
+  "inputs": [
+    "cultural_story_items",
+    "cultural_memory_functions",
+    "teaching_functions",
+    "identity_belonging_functions",
+    "ethical_story_risks"
+  ],
+  "outputs": [
+    "cultural_story_function_audit.csv",
+    "cultural_story_canvas_cards.json",
+    "cultural_story_governance_queue.csv",
+    "cultural_story_governance_queue.json",
+    "cultural_story_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "cultural context",
+      "source transparency",
+      "representation care",
+      "persuasive intensity",
+      "public impact",
+      "audience consequence"
+    ]
+  }
+}
