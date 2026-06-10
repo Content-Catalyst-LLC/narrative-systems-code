@@ -1,0 +1,6 @@
+item,movement_event,state_change,knowledge_change,relationship_impact,pressure_change,future_movement,value_transformation,note
+Family memory conflict,truth-telling scene,0.66,0.82,0.78,0.72,0.70,0.76,Memory becomes relational pressure
+Institutional accountability story,document disclosure,0.70,0.76,0.68,0.84,0.72,0.78,Evidence changes institutional legitimacy
+Digital outrage conflict,viral clip circulation,0.58,0.48,0.52,0.66,0.60,0.44,Movement is high-risk because context is thin
+Quiet internal dilemma,private refusal,0.60,0.74,0.62,0.70,0.64,0.72,Small action changes moral direction
+Over-simplified villain plot,final confrontation,0.58,0.48,0.50,0.64,0.56,0.42,Movement may be too simplified

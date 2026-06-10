@@ -1,0 +1,40 @@
+{
+  "canvas_module": "conflict_tension_canvas",
+  "article_title": "Conflict, Tension, and the Logic of Narrative Movement",
+  "article_slug": "conflict-tension-and-the-logic-of-narrative-movement",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing conflict, tension, and narrative movement, including desire clarity, obstacle clarity, pressure strength, agency visibility, stakes visibility, tension durability, movement scoring, conflict risk, and governance priority.",
+  "inputs": [
+    "conflict_tension_items",
+    "conflict_patterns",
+    "tension_progressions",
+    "movement_events",
+    "conflict_risks",
+    "conflict_governance_notes"
+  ],
+  "outputs": [
+    "conflict_tension_audit.csv",
+    "conflict_tension_governance_queue.csv",
+    "conflict_tension_canvas_cards.json",
+    "conflict_tension_governance_queue.json",
+    "conflict_tension_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "conflict clarity",
+      "tension durability",
+      "narrative movement",
+      "stakes visibility",
+      "agency visibility",
+      "scapegoating",
+      "conflict inflation",
+      "trauma spectacle",
+      "false balance",
+      "closure pressure",
+      "audience sensitivity",
+      "public consequence"
+    ]
+  }
+}

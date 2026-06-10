@@ -1,0 +1,6 @@
+item,story_type,conflict_clarity,tension_durability,narrative_movement,conflict_risk,governance_priority_score,review_priority,owner,status,governance_note
+Digital outrage conflict,platform narrative,0.697,0.7,0.547,0.795,0.748,high,platform review,revise,"Requires review for conflict risk, scapegoating, conflict inflation, trauma spectacle, false balance, closure pressure, and public consequence."
+Over-simplified villain plot,conflict-heavy fiction,0.713,0.664,0.53,0.679,0.6,high,structure review,review,"Requires review for conflict risk, scapegoating, conflict inflation, trauma spectacle, false balance, closure pressure, and public consequence."
+Institutional accountability story,public narrative,0.77,0.796,0.747,0.537,0.634,high,governance,review,"Requires review for conflict risk, scapegoating, conflict inflation, trauma spectacle, false balance, closure pressure, and public consequence."
+Family memory conflict,memory narrative,0.763,0.72,0.74,0.302,0.469,standard,editorial,active,Standard conflict and tension review.
+Quiet internal dilemma,literary narrative,0.72,0.688,0.67,0.216,0.376,standard,research,active,Standard conflict and tension review.

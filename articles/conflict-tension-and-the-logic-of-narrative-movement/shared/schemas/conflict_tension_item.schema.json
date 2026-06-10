@@ -1,0 +1,12 @@
+{
+  "title": "Conflict Tension Item",
+  "type": "object",
+  "required": ["item", "story_type", "desire_clarity", "obstacle_clarity", "pressure_strength"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "desire_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "obstacle_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "pressure_strength": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

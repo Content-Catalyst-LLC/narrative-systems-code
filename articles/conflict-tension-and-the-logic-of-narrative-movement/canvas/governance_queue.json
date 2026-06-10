@@ -1,0 +1,41 @@
+[
+  {
+    "item": "Digital outrage conflict",
+    "story_type": "platform narrative",
+    "conflict_clarity": 0.697,
+    "tension_durability": 0.7,
+    "narrative_movement": 0.547,
+    "conflict_risk": 0.795,
+    "governance_priority_score": 0.748,
+    "review_priority": "high",
+    "owner": "platform review",
+    "status": "revise",
+    "governance_note": "Requires review for conflict risk, scapegoating, conflict inflation, trauma spectacle, false balance, closure pressure, and public consequence."
+  },
+  {
+    "item": "Over-simplified villain plot",
+    "story_type": "conflict-heavy fiction",
+    "conflict_clarity": 0.713,
+    "tension_durability": 0.664,
+    "narrative_movement": 0.53,
+    "conflict_risk": 0.679,
+    "governance_priority_score": 0.6,
+    "review_priority": "high",
+    "owner": "structure review",
+    "status": "review",
+    "governance_note": "Requires review for conflict risk, scapegoating, conflict inflation, trauma spectacle, false balance, closure pressure, and public consequence."
+  },
+  {
+    "item": "Institutional accountability story",
+    "story_type": "public narrative",
+    "conflict_clarity": 0.77,
+    "tension_durability": 0.796,
+    "narrative_movement": 0.747,
+    "conflict_risk": 0.537,
+    "governance_priority_score": 0.634,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "review",
+    "governance_note": "Requires review for conflict risk, scapegoating, conflict inflation, trauma spectacle, false balance, closure pressure, and public consequence."
+  }
+]
