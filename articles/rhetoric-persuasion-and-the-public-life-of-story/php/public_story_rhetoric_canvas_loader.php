@@ -1,0 +1,22 @@
+<?php
+/**
+ * Public Story Rhetoric Canvas loader scaffold.
+ *
+ * This file is intentionally simple and framework-neutral.
+ * It can be adapted into a WordPress shortcode or block renderer.
+ */
+
+function cc_public_story_rhetoric_canvas_load_json($path) {
+    if (!file_exists($path)) {
+        return array();
+    }
+
+    $contents = file_get_contents($path);
+    $decoded = json_decode($contents, true);
+
+    if (!is_array($decoded)) {
+        return array();
+    }
+
+    return $decoded;
+}

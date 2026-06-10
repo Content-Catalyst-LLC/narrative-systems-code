@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public Story Rhetoric Canvas Input",
+  "type": "object",
+  "required": ["item", "story_type", "ethos_strength", "logos_support", "pathos_proportionality", "audience_fit"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "ethos_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "logos_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "pathos_proportionality": {"type": "number", "minimum": 0, "maximum": 1},
+    "audience_fit": {"type": "number", "minimum": 0, "maximum": 1},
+    "context_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "identification_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "emotional_intensity": {"type": "number", "minimum": 0, "maximum": 1},
+    "causal_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "urgency": {"type": "number", "minimum": 0, "maximum": 1},
+    "action_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "verification_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "emotional_coercion": {"type": "number", "minimum": 0, "maximum": 1},
+    "scapegoating_risk": {"type": "number", "minimum": 0, "maximum": 1},
+    "identity_manipulation": {"type": "number", "minimum": 0, "maximum": 1},
+    "closure_pressure": {"type": "number", "minimum": 0, "maximum": 1},
+    "audience_consequence": {"type": "number", "minimum": 0, "maximum": 1},
+    "representation_sensitivity": {"type": "number", "minimum": 0, "maximum": 1},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

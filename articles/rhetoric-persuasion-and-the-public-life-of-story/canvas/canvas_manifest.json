@@ -1,0 +1,40 @@
+{
+  "canvas_module": "public_story_rhetoric_canvas",
+  "article_title": "Rhetoric, Persuasion, and the Public Life of Story",
+  "article_slug": "rhetoric-persuasion-and-the-public-life-of-story",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing public story rhetoric, including ethos, pathos, logos, audience fit, identification, evidence support, persuasion force, public story risk, representation sensitivity, and governance priority.",
+  "inputs": [
+    "public_story_rhetoric_items",
+    "rhetorical_appeals",
+    "identification_patterns",
+    "evidence_support",
+    "public_story_risks",
+    "rhetorical_governance_notes"
+  ],
+  "outputs": [
+    "public_story_rhetoric_audit.csv",
+    "public_story_rhetoric_governance_queue.csv",
+    "public_story_rhetoric_canvas_cards.json",
+    "public_story_rhetoric_governance_queue.json",
+    "public_story_rhetoric_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "ethos strength",
+      "logos support",
+      "pathos proportionality",
+      "audience fit",
+      "context clarity",
+      "identification strength",
+      "verification strength",
+      "emotional coercion",
+      "scapegoating risk",
+      "identity manipulation",
+      "closure pressure",
+      "representation sensitivity"
+    ]
+  }
+}

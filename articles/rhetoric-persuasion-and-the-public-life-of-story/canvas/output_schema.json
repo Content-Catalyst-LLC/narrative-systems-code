@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public Story Rhetoric Canvas Output",
+  "type": "object",
+  "required": ["item", "rhetorical_balance", "persuasion_force", "public_story_risk", "governance_priority_score", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "rhetorical_balance": {"type": "number"},
+    "persuasion_force": {"type": "number"},
+    "public_story_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

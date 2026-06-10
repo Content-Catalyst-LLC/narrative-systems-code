@@ -1,0 +1,6 @@
+item,story_type,ethos_strength,logos_support,pathos_proportionality,audience_fit,context_clarity,identification_strength,emotional_intensity,causal_clarity,urgency,action_clarity,verification_strength,emotional_coercion,scapegoating_risk,identity_manipulation,closure_pressure,audience_consequence,representation_sensitivity,owner,status
+Public testimony narrative,civic testimony,0.82,0.70,0.78,0.76,0.74,0.80,0.76,0.68,0.72,0.66,0.74,0.38,0.28,0.34,0.42,0.82,0.76,civic editorial,active
+Institutional reform story,institutional rhetoric,0.70,0.62,0.66,0.72,0.58,0.68,0.60,0.58,0.64,0.70,0.56,0.44,0.32,0.40,0.56,0.84,0.62,governance,review
+Digital outrage story,platform narrative,0.46,0.38,0.30,0.62,0.28,0.86,0.92,0.42,0.90,0.74,0.34,0.82,0.76,0.78,0.84,0.92,0.80,platform review,revise
+Public memory commemoration,cultural memory,0.76,0.64,0.72,0.78,0.66,0.82,0.74,0.62,0.58,0.52,0.66,0.48,0.42,0.50,0.64,0.88,0.86,archive,review
+Institutional mission story,organizational communication,0.74,0.58,0.62,0.70,0.56,0.72,0.64,0.54,0.60,0.68,0.52,0.46,0.30,0.44,0.58,0.80,0.68,editorial,review

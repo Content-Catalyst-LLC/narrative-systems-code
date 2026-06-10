@@ -1,0 +1,12 @@
+{
+  "title": "Public Story Rhetoric Item",
+  "type": "object",
+  "required": ["item", "story_type", "ethos_strength", "logos_support", "pathos_proportionality"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "ethos_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "logos_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "pathos_proportionality": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
