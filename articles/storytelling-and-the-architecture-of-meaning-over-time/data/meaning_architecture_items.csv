@@ -1,0 +1,6 @@
+item,story_type,origin_clarity,sequence_clarity,continuity_support,rupture_recognition,future_projection,governance_visibility,preservation,archive_support,repetition_strength,context_retention,transmission_strength,evidence_strength,source_age,link_breakage,audience_consequence,representation_risk,map_dependency,owner,status
+Storytelling and the Architecture of Meaning Over Time,series framework,0.88,0.86,0.82,0.78,0.84,0.86,0.78,0.80,0.76,0.82,0.80,0.82,0.12,0.08,0.76,0.34,0.92,content systems,active
+Institutional founding story,institutional memory,0.82,0.74,0.88,0.42,0.70,0.58,0.80,0.76,0.88,0.52,0.74,0.56,0.62,0.30,0.84,0.68,0.78,governance,review
+Public commemoration narrative,cultural memory,0.78,0.70,0.82,0.54,0.66,0.52,0.84,0.78,0.92,0.48,0.82,0.58,0.56,0.22,0.88,0.74,0.72,archive,review
+Crisis reform narrative,organizational learning,0.72,0.76,0.62,0.84,0.70,0.64,0.66,0.62,0.70,0.58,0.68,0.60,0.48,0.26,0.92,0.66,0.70,editorial,revise
+Digital platform memory,networked memory,0.66,0.68,0.54,0.70,0.76,0.44,0.58,0.50,0.86,0.36,0.88,0.52,0.42,0.44,0.86,0.72,0.64,platform,review

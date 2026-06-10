@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Meaning Architecture Canvas Input",
+  "type": "object",
+  "required": ["item", "story_type", "origin_clarity", "sequence_clarity", "continuity_support", "rupture_recognition"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "origin_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "sequence_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "continuity_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "rupture_recognition": {"type": "number", "minimum": 0, "maximum": 1},
+    "future_projection": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_visibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "preservation": {"type": "number", "minimum": 0, "maximum": 1},
+    "archive_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "repetition_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "context_retention": {"type": "number", "minimum": 0, "maximum": 1},
+    "transmission_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "evidence_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "source_age": {"type": "number", "minimum": 0, "maximum": 1},
+    "link_breakage": {"type": "number", "minimum": 0, "maximum": 1},
+    "audience_consequence": {"type": "number", "minimum": 0, "maximum": 1},
+    "representation_risk": {"type": "number", "minimum": 0, "maximum": 1},
+    "map_dependency": {"type": "number", "minimum": 0, "maximum": 1},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

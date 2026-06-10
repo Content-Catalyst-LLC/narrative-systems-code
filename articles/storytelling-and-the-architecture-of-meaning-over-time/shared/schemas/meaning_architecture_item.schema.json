@@ -1,0 +1,13 @@
+{
+  "title": "Meaning Architecture Item",
+  "type": "object",
+  "required": ["item", "story_type", "origin_clarity", "sequence_clarity", "continuity_support", "rupture_recognition"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "origin_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "sequence_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "continuity_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "rupture_recognition": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

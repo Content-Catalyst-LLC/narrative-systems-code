@@ -1,0 +1,38 @@
+{
+  "canvas_module": "meaning_architecture_canvas",
+  "article_title": "Storytelling and the Architecture of Meaning Over Time",
+  "article_slug": "storytelling-and-the-architecture-of-meaning-over-time",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing storytelling as temporal meaning architecture, including temporal coherence, memory durability, narrative drift, revision priority, archive support, context retention, continuity, rupture, and governance visibility.",
+  "inputs": [
+    "meaning_architecture_items",
+    "memory_layers",
+    "continuity_rupture_map",
+    "narrative_drift_flags",
+    "revision_priorities",
+    "temporal_governance_notes"
+  ],
+  "outputs": [
+    "meaning_architecture_audit.csv",
+    "meaning_architecture_governance_queue.csv",
+    "meaning_architecture_canvas_cards.json",
+    "meaning_architecture_governance_queue.json",
+    "meaning_architecture_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "temporal coherence",
+      "memory durability",
+      "context retention",
+      "source age",
+      "link breakage",
+      "narrative drift",
+      "continuity bias",
+      "rupture recognition",
+      "representation risk",
+      "revision pressure"
+    ]
+  }
+}

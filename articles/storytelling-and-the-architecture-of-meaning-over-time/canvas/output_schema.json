@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Meaning Architecture Canvas Output",
+  "type": "object",
+  "required": ["item", "temporal_coherence", "memory_durability", "drift_risk", "revision_priority_score", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "temporal_coherence": {"type": "number"},
+    "memory_durability": {"type": "number"},
+    "drift_risk": {"type": "number"},
+    "revision_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}
