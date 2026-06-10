@@ -1,0 +1,38 @@
+{
+  "canvas_module": "beginning_closure_canvas",
+  "article_title": "Beginnings, Endings, and Narrative Closure",
+  "article_slug": "beginnings-endings-and-narrative-closure",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing beginnings, endings, closure, opening clarity, narrative promises, ending patterns, beginning-ending alignment, unresolved consequence, closure risk, and governance priority.",
+  "inputs": [
+    "beginning_closure_items",
+    "opening_promises",
+    "ending_patterns",
+    "closure_risks",
+    "unresolved_consequences",
+    "closure_governance_notes"
+  ],
+  "outputs": [
+    "beginning_closure_audit.csv",
+    "beginning_closure_governance_queue.csv",
+    "beginning_closure_canvas_cards.json",
+    "beginning_closure_governance_queue.json",
+    "beginning_closure_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "opening clarity",
+      "promise fulfillment",
+      "closure integrity",
+      "beginning-ending alignment",
+      "aftermath clarity",
+      "unresolved harm honesty",
+      "premature repair",
+      "false resolution",
+      "system flattening",
+      "audience comfort"
+    ]
+  }
+}

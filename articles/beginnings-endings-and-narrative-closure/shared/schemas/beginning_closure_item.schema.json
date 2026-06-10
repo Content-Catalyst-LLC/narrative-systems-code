@@ -1,0 +1,12 @@
+{
+  "title": "Beginning Closure Item",
+  "type": "object",
+  "required": ["item", "story_type", "voice_signal", "pressure_introduction", "promise_fulfillment"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "voice_signal": {"type": "number", "minimum": 0, "maximum": 1},
+    "pressure_introduction": {"type": "number", "minimum": 0, "maximum": 1},
+    "promise_fulfillment": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

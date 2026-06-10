@@ -1,0 +1,41 @@
+[
+  {
+    "item": "Institutional apology ending",
+    "story_type": "public narrative",
+    "opening_clarity": 0.743,
+    "closure_integrity": 0.453,
+    "beginning_ending_alignment": 0.528,
+    "closure_risk": 0.781,
+    "governance_priority_score": 0.792,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "review",
+    "governance_note": "Requires review for premature repair, false resolution, system flattening, aftermath omission, audience comfort, and public consequence."
+  },
+  {
+    "item": "Serial cliffhanger episode",
+    "story_type": "serial narrative",
+    "opening_clarity": 0.773,
+    "closure_integrity": 0.463,
+    "beginning_ending_alignment": 0.5,
+    "closure_risk": 0.46,
+    "governance_priority_score": 0.546,
+    "review_priority": "high",
+    "owner": "continuity",
+    "status": "review",
+    "governance_note": "Requires review for premature repair, false resolution, system flattening, aftermath omission, audience comfort, and public consequence."
+  },
+  {
+    "item": "Open trauma narrative",
+    "story_type": "memory narrative",
+    "opening_clarity": 0.737,
+    "closure_integrity": 0.817,
+    "beginning_ending_alignment": 0.74,
+    "closure_risk": 0.225,
+    "governance_priority_score": 0.493,
+    "review_priority": "medium",
+    "owner": "research",
+    "status": "active",
+    "governance_note": "Review opening promise, closure integrity, alignment, unresolved consequence, and aftermath clarity."
+  }
+]
