@@ -1,0 +1,54 @@
+[
+  {
+    "item": "Viral false recognition",
+    "story_type": "platform narrative",
+    "reversal_integrity": 0.5,
+    "recognition_clarity": 0.396,
+    "transformation_depth": 0.44,
+    "recognition_risk": 0.8,
+    "governance_priority_score": 0.81,
+    "review_priority": "high",
+    "owner": "platform review",
+    "status": "revise",
+    "governance_note": "Requires review for false recognition, arbitrary twist, closure pressure, evidence omission, uncertainty clarity, transformation depth, and public consequence."
+  },
+  {
+    "item": "Shock twist ending",
+    "story_type": "twist fiction",
+    "reversal_integrity": 0.477,
+    "recognition_clarity": 0.472,
+    "transformation_depth": 0.387,
+    "recognition_risk": 0.618,
+    "governance_priority_score": 0.571,
+    "review_priority": "high",
+    "owner": "structure review",
+    "status": "revise",
+    "governance_note": "Requires review for false recognition, arbitrary twist, closure pressure, evidence omission, uncertainty clarity, transformation depth, and public consequence."
+  },
+  {
+    "item": "Institutional acknowledgment",
+    "story_type": "public narrative",
+    "reversal_integrity": 0.69,
+    "recognition_clarity": 0.684,
+    "transformation_depth": 0.577,
+    "recognition_risk": 0.475,
+    "governance_priority_score": 0.624,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "review",
+    "governance_note": "Requires review for false recognition, arbitrary twist, closure pressure, evidence omission, uncertainty clarity, transformation depth, and public consequence."
+  },
+  {
+    "item": "Delayed memory recognition",
+    "story_type": "memory narrative",
+    "reversal_integrity": 0.737,
+    "recognition_clarity": 0.788,
+    "transformation_depth": 0.717,
+    "recognition_risk": 0.277,
+    "governance_priority_score": 0.491,
+    "review_priority": "medium",
+    "owner": "research",
+    "status": "active",
+    "governance_note": "Review reversal preparation, recognition clarity, transformation consequence, and accountability follow-through."
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Reversal Recognition Canvas Output",
+  "type": "object",
+  "required": ["item", "reversal_integrity", "recognition_clarity", "transformation_depth", "recognition_risk", "governance_priority_score", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "reversal_integrity": {"type": "number"},
+    "recognition_clarity": {"type": "number"},
+    "transformation_depth": {"type": "number"},
+    "recognition_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "canvas_module": "reversal_recognition_canvas",
+  "article_title": "Reversal, Recognition, and Transformation",
+  "article_slug": "reversal-recognition-and-transformation",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing reversal, recognition, and transformation, including reversal integrity, recognition clarity, transformation depth, earned surprise, retrospective reinterpretation, recognition risk, and governance priority.",
+  "inputs": [
+    "reversal_recognition_items",
+    "reversal_patterns",
+    "recognition_events",
+    "transformation_paths",
+    "recognition_risks",
+    "recognition_governance_notes"
+  ],
+  "outputs": [
+    "reversal_recognition_audit.csv",
+    "reversal_recognition_governance_queue.csv",
+    "reversal_recognition_canvas_cards.json",
+    "reversal_recognition_governance_queue.json",
+    "reversal_recognition_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "preparation trace",
+      "causal linkage",
+      "earned surprise",
+      "knowledge reorientation",
+      "evidence visibility",
+      "interpretive support",
+      "meaning revision",
+      "uncertainty clarity",
+      "transformation depth",
+      "false recognition",
+      "arbitrary twist",
+      "closure pressure",
+      "evidence omission"
+    ]
+  }
+}

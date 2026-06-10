@@ -1,0 +1,9 @@
+item,risk_type,severity,note
+Viral false recognition,false recognition,high,Audience infers truth beyond evidence
+Viral false recognition,evidence omission,high,Context missing
+Viral false recognition,closure pressure,high,Public wants immediate certainty
+Shock twist ending,arbitrary twist,high,Reveal is not sufficiently prepared
+Shock twist ending,weak transformation,medium,Surprise does not reshape the story enough
+Institutional acknowledgment,closure pressure,high,Acknowledgment may substitute for accountability
+Delayed memory recognition,false closure,low,Keep transformation partial
+Tragic recognition,emotional intensity,low,Maintain consequence without melodrama

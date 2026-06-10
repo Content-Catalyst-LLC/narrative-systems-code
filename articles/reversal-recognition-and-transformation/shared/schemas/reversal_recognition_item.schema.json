@@ -1,0 +1,12 @@
+{
+  "title": "Reversal Recognition Item",
+  "type": "object",
+  "required": ["item", "story_type", "preparation_trace", "causal_linkage", "earned_surprise"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "preparation_trace": {"type": "number", "minimum": 0, "maximum": 1},
+    "causal_linkage": {"type": "number", "minimum": 0, "maximum": 1},
+    "earned_surprise": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
