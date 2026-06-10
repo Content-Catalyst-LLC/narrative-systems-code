@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Folktale Morphology Canvas Output",
+  "type": "object",
+  "required": ["item", "tale_type", "function_coverage", "sequence_integrity", "morphology_context_balance", "reduction_risk", "governance_priority_score", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "tale_type": {"type": "string"},
+    "function_coverage": {"type": "number"},
+    "sequence_integrity": {"type": "number"},
+    "morphology_context_balance": {"type": "number"},
+    "reduction_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

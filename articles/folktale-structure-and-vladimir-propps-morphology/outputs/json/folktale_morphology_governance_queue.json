@@ -1,0 +1,41 @@
+[
+  {
+    "item": "Generic hero formula adaptation",
+    "tale_type": "modern adaptation",
+    "function_coverage": 0.472,
+    "sequence_integrity": 0.484,
+    "morphology_context_balance": 0.22,
+    "reduction_risk": 0.817,
+    "governance_priority_score": 0.79,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "revise",
+    "governance_note": "Requires review for universalization, cultural erasure, performance omission, variation omission, archive bias, and weak source context."
+  },
+  {
+    "item": "Collected tale translation",
+    "tale_type": "translated folktale",
+    "function_coverage": 0.636,
+    "sequence_integrity": 0.644,
+    "morphology_context_balance": 0.44,
+    "reduction_risk": 0.497,
+    "governance_priority_score": 0.637,
+    "review_priority": "high",
+    "owner": "archive review",
+    "status": "review",
+    "governance_note": "Requires review for universalization, cultural erasure, performance omission, variation omission, archive bias, and weak source context."
+  },
+  {
+    "item": "Forbidden room tale",
+    "tale_type": "wonder tale",
+    "function_coverage": 0.756,
+    "sequence_integrity": 0.732,
+    "morphology_context_balance": 0.644,
+    "reduction_risk": 0.312,
+    "governance_priority_score": 0.436,
+    "review_priority": "medium",
+    "owner": "editorial",
+    "status": "active",
+    "governance_note": "Review function mapping, variant comparison, language notes, performance context, and tradition-specific framing."
+  }
+]

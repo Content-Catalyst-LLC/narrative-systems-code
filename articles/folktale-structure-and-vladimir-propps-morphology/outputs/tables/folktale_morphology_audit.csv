@@ -1,0 +1,6 @@
+item,tale_type,function_coverage,sequence_integrity,morphology_context_balance,reduction_risk,governance_priority_score,review_priority,owner,status,governance_note
+Generic hero formula adaptation,modern adaptation,0.472,0.484,0.22,0.817,0.79,high,governance,revise,"Requires review for universalization, cultural erasure, performance omission, variation omission, archive bias, and weak source context."
+Collected tale translation,translated folktale,0.636,0.644,0.44,0.497,0.637,high,archive review,review,"Requires review for universalization, cultural erasure, performance omission, variation omission, archive bias, and weak source context."
+Forbidden room tale,wonder tale,0.756,0.732,0.644,0.312,0.436,medium,editorial,active,"Review function mapping, variant comparison, language notes, performance context, and tradition-specific framing."
+Youngest sibling quest,wonder tale,0.812,0.816,0.704,0.253,0.387,standard,structure review,active,Standard folktale morphology review.
+Animal helper variant,animal-helper tale,0.764,0.74,0.744,0.218,0.382,standard,research,active,Standard folktale morphology review.

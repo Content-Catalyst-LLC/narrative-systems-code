@@ -1,0 +1,67 @@
+[
+  {
+    "item": "Generic hero formula adaptation",
+    "tale_type": "modern adaptation",
+    "function_coverage": 0.472,
+    "sequence_integrity": 0.484,
+    "morphology_context_balance": 0.22,
+    "reduction_risk": 0.817,
+    "governance_priority_score": 0.79,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "revise",
+    "governance_note": "Requires review for universalization, cultural erasure, performance omission, variation omission, archive bias, and weak source context."
+  },
+  {
+    "item": "Collected tale translation",
+    "tale_type": "translated folktale",
+    "function_coverage": 0.636,
+    "sequence_integrity": 0.644,
+    "morphology_context_balance": 0.44,
+    "reduction_risk": 0.497,
+    "governance_priority_score": 0.637,
+    "review_priority": "high",
+    "owner": "archive review",
+    "status": "review",
+    "governance_note": "Requires review for universalization, cultural erasure, performance omission, variation omission, archive bias, and weak source context."
+  },
+  {
+    "item": "Forbidden room tale",
+    "tale_type": "wonder tale",
+    "function_coverage": 0.756,
+    "sequence_integrity": 0.732,
+    "morphology_context_balance": 0.644,
+    "reduction_risk": 0.312,
+    "governance_priority_score": 0.436,
+    "review_priority": "medium",
+    "owner": "editorial",
+    "status": "active",
+    "governance_note": "Review function mapping, variant comparison, language notes, performance context, and tradition-specific framing."
+  },
+  {
+    "item": "Youngest sibling quest",
+    "tale_type": "wonder tale",
+    "function_coverage": 0.812,
+    "sequence_integrity": 0.816,
+    "morphology_context_balance": 0.704,
+    "reduction_risk": 0.253,
+    "governance_priority_score": 0.387,
+    "review_priority": "standard",
+    "owner": "structure review",
+    "status": "active",
+    "governance_note": "Standard folktale morphology review."
+  },
+  {
+    "item": "Animal helper variant",
+    "tale_type": "animal-helper tale",
+    "function_coverage": 0.764,
+    "sequence_integrity": 0.74,
+    "morphology_context_balance": 0.744,
+    "reduction_risk": 0.218,
+    "governance_priority_score": 0.382,
+    "review_priority": "standard",
+    "owner": "research",
+    "status": "active",
+    "governance_note": "Standard folktale morphology review."
+  }
+]

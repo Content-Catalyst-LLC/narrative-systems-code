@@ -1,0 +1,38 @@
+{
+  "canvas_module": "folktale_morphology_canvas",
+  "article_title": "Folktale Structure and Vladimir Propp’s Morphology",
+  "article_slug": "folktale-structure-and-vladimir-propps-morphology",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing folktale structure, Proppian functions, spheres of action, sequence integrity, tale variants, morphology-context balance, formula-reduction risk, and governance priority.",
+  "inputs": [
+    "folktale_morphology_items",
+    "propp_function_map",
+    "spheres_of_action",
+    "tale_variants",
+    "morphology_risks",
+    "folktale_governance_notes"
+  ],
+  "outputs": [
+    "folktale_morphology_audit.csv",
+    "folktale_morphology_governance_queue.csv",
+    "folktale_morphology_canvas_cards.json",
+    "folktale_morphology_governance_queue.json",
+    "folktale_morphology_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "function coverage",
+      "sequence integrity",
+      "role mapping",
+      "variation tracking",
+      "performance context",
+      "cultural specificity",
+      "language notes",
+      "tradition review",
+      "ethical governance",
+      "formula reduction risk"
+    ]
+  }
+}

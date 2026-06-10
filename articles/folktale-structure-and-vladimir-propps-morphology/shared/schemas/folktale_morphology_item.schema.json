@@ -1,0 +1,12 @@
+{
+  "title": "Folktale Morphology Item",
+  "type": "object",
+  "required": ["item", "tale_type", "function_identification", "sequence_clarity", "role_mapping"],
+  "properties": {
+    "item": {"type": "string"},
+    "tale_type": {"type": "string"},
+    "function_identification": {"type": "number", "minimum": 0, "maximum": 1},
+    "sequence_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "role_mapping": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
