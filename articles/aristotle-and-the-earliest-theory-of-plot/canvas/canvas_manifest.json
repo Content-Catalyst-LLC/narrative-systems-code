@@ -1,0 +1,38 @@
+{
+  "canvas_module": "aristotelian_plot_canvas",
+  "article_title": "Aristotle and the Earliest Theory of Plot",
+  "article_slug": "aristotle-and-the-earliest-theory-of-plot",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing Aristotelian plot structure, including unity of action, causal linkage, beginning-middle-end clarity, reversal, recognition, character-action integration, formula risk, and governance priority.",
+  "inputs": [
+    "aristotelian_plot_items",
+    "plot_parts",
+    "unity_action_checks",
+    "reversal_recognition_map",
+    "formula_risks",
+    "plot_governance_notes"
+  ],
+  "outputs": [
+    "aristotelian_plot_audit.csv",
+    "aristotelian_plot_governance_queue.csv",
+    "aristotelian_plot_canvas_cards.json",
+    "aristotelian_plot_governance_queue.json",
+    "aristotelian_plot_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "plot unity",
+      "causal linkage",
+      "episode dependency",
+      "reversal strength",
+      "recognition clarity",
+      "character-action integration",
+      "genre fit",
+      "medium fit",
+      "cultural awareness",
+      "formula risk"
+    ]
+  }
+}

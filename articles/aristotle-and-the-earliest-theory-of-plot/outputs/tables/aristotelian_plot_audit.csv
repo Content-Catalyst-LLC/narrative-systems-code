@@ -1,0 +1,6 @@
+item,story_type,action_clarity,causal_linkage,episode_dependency,turning_point_relevance,plot_unity,reversal_recognition_strength,character_action_integration,formula_risk,governance_score,review_priority,owner,status,governance_note
+Formulaic hero template,commercial story framework,0.76,0.72,0.7,0.74,0.743,0.696,0.74,0.771,0.625,high,governance,revise,"Requires review for unity, causal linkage, formula risk, genre fit, medium fit, and cultural awareness."
+Episodic adventure sequence,episodic narrative,0.62,0.48,0.4,0.54,0.523,0.488,0.6,0.304,0.633,high,editorial,review,"Requires review for unity, causal linkage, formula risk, genre fit, medium fit, and cultural awareness."
+Plot-heavy spectacle,spectacle-driven story,0.66,0.54,0.5,0.7,0.6,0.632,0.52,0.511,0.612,medium,editorial,review,"Review episode dependency, reversal-recognition strength, and character-action integration."
+Fragmented memory narrative,nonlinear narrative,0.7,0.66,0.62,0.72,0.647,0.74,0.72,0.232,0.769,medium,research,active,"Review episode dependency, reversal-recognition strength, and character-action integration."
+Unified tragic action,tragedy,0.88,0.86,0.84,0.82,0.84,0.812,0.86,0.321,0.84,standard,dramaturgy,active,Standard Aristotelian plot review.

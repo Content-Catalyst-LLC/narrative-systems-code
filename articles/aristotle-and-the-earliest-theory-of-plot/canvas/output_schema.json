@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Aristotelian Plot Canvas Output",
+  "type": "object",
+  "required": ["item", "plot_unity", "reversal_recognition_strength", "formula_risk", "governance_score", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "plot_unity": {"type": "number"},
+    "reversal_recognition_strength": {"type": "number"},
+    "formula_risk": {"type": "number"},
+    "governance_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

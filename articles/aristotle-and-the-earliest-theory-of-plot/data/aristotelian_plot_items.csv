@@ -1,0 +1,6 @@
+item,story_type,action_clarity,causal_linkage,episode_dependency,turning_point_relevance,resolution_support,goal_coherence,direction_change,knowledge_change,preparation_strength,consequence_pressure,emotional_intellectual_impact,character_action_integration,genre_fit,medium_fit,cultural_awareness,hero_template_saturation,closure_pressure,unity_bias,genre_bias,owner,status
+Unified tragic action,tragedy,0.88,0.86,0.84,0.82,0.80,0.84,0.82,0.78,0.80,0.84,0.82,0.86,0.88,0.84,0.78,0.28,0.42,0.38,0.30,dramaturgy,active
+Episodic adventure sequence,episodic narrative,0.62,0.48,0.40,0.54,0.52,0.58,0.50,0.42,0.44,0.52,0.56,0.60,0.62,0.72,0.70,0.34,0.36,0.24,0.28,editorial,review
+Formulaic hero template,commercial story framework,0.76,0.72,0.70,0.74,0.78,0.76,0.72,0.68,0.66,0.70,0.72,0.74,0.68,0.54,0.42,0.88,0.84,0.82,0.76,governance,revise
+Fragmented memory narrative,nonlinear narrative,0.70,0.66,0.62,0.72,0.58,0.60,0.74,0.82,0.70,0.68,0.76,0.72,0.78,0.86,0.84,0.20,0.30,0.26,0.22,research,active
+Plot-heavy spectacle,spectacle-driven story,0.66,0.54,0.50,0.70,0.62,0.58,0.76,0.50,0.48,0.64,0.78,0.52,0.60,0.76,0.58,0.42,0.70,0.56,0.52,editorial,review

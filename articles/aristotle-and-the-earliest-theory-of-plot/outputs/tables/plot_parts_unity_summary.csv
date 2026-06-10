@@ -1,0 +1,8 @@
+"item","plot_part","structural_role","diagnostic_question","unity_question","result","caution"
+"Episodic adventure sequence","episode","detachable incident","Can this be removed without damaging the whole?","Do episodes depend on each other?","weak","Consider central action or accept episodic form intentionally"
+"Formulaic hero template","turning point","template beat","Is this structural or merely formulaic?","Does unity come from action or template?","mixed","Review for formula saturation"
+"Fragmented memory narrative","nonlinear sequence","memory pattern","Does fragmentation have meaning?","Is disunity meaningful?","strong","Do not force linearity if fragmentation serves memory"
+"Plot-heavy spectacle","spectacle","visual emphasis","Does spectacle serve the action?","Does spectacle advance action?","mixed","Review visual scenes for consequence"
+"Unified tragic action","beginning","initiates central action","Does this start where consequence begins?","Do all incidents belong to one action?","strong","Maintain complexity without adding detachable episodes"
+"Unified tragic action","middle","develops pressure and reversal","Do events follow by probability or necessity?","Do all incidents belong to one action?","strong","Maintain complexity without adding detachable episodes"
+"Unified tragic action","end","completes action","Does the end follow from prior structure?","Do all incidents belong to one action?","strong","Maintain complexity without adding detachable episodes"

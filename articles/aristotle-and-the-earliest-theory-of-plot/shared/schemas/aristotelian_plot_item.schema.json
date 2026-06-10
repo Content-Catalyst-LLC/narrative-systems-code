@@ -1,0 +1,12 @@
+{
+  "title": "Aristotelian Plot Item",
+  "type": "object",
+  "required": ["item", "story_type", "action_clarity", "causal_linkage", "episode_dependency"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "action_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "causal_linkage": {"type": "number", "minimum": 0, "maximum": 1},
+    "episode_dependency": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
