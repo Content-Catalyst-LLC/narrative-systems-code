@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Narrative Understanding Canvas Output",
+  "type": "object",
+  "required": ["item", "understanding_score", "moral_understanding_score", "possible_world_score", "overreach_risk", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "understanding_score": {"type": "number"},
+    "moral_understanding_score": {"type": "number"},
+    "possible_world_score": {"type": "number"},
+    "overreach_risk": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Narrative Understanding Item",
+  "type": "object",
+  "required": ["item", "story_type", "sequence_clarity", "causal_framing", "agency_mapping", "evidence_support"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "sequence_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "causal_framing": {"type": "number", "minimum": 0, "maximum": 1},
+    "agency_mapping": {"type": "number", "minimum": 0, "maximum": 1},
+    "evidence_support": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

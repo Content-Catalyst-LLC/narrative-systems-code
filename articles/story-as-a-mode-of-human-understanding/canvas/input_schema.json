@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Narrative Understanding Canvas Input",
+  "type": "object",
+  "required": ["item", "story_type", "sequence_clarity", "causal_framing", "agency_mapping", "evidence_support"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "sequence_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "causal_framing": {"type": "number", "minimum": 0, "maximum": 1},
+    "agency_mapping": {"type": "number", "minimum": 0, "maximum": 1},
+    "memory_integration": {"type": "number", "minimum": 0, "maximum": 1},
+    "evidence_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "openness_to_revision": {"type": "number", "minimum": 0, "maximum": 1},
+    "consequence_visibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "harm_recognition": {"type": "number", "minimum": 0, "maximum": 1},
+    "responsibility_mapping": {"type": "number", "minimum": 0, "maximum": 1},
+    "repair_awareness": {"type": "number", "minimum": 0, "maximum": 1},
+    "alternative_logic": {"type": "number", "minimum": 0, "maximum": 1},
+    "uncertainty_signaling": {"type": "number", "minimum": 0, "maximum": 1},
+    "interpretive_diversity": {"type": "number", "minimum": 0, "maximum": 1},
+    "hindsight_bias": {"type": "number", "minimum": 0, "maximum": 1},
+    "false_coherence": {"type": "number", "minimum": 0, "maximum": 1},
+    "selection_bias": {"type": "number", "minimum": 0, "maximum": 1},
+    "closure_pressure": {"type": "number", "minimum": 0, "maximum": 1},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

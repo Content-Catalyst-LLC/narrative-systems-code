@@ -1,0 +1,36 @@
+{
+  "canvas_module": "narrative_understanding_canvas",
+  "article_title": "Story as a Mode of Human Understanding",
+  "article_slug": "story-as-a-mode-of-human-understanding",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing story as a mode of human understanding, including sequence, causality, agency, memory, moral understanding, possible worlds, and narrative overreach risk.",
+  "inputs": [
+    "narrative_understanding_items",
+    "event_sequences",
+    "causal_frames",
+    "agency_maps",
+    "moral_understanding",
+    "overreach_risks"
+  ],
+  "outputs": [
+    "narrative_understanding_audit.csv",
+    "narrative_understanding_governance_queue.csv",
+    "narrative_understanding_canvas_cards.json",
+    "narrative_understanding_governance_queue.json",
+    "narrative_understanding_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "evidence support",
+      "causal framing",
+      "agency mapping",
+      "selection bias",
+      "false coherence",
+      "hindsight bias",
+      "closure pressure",
+      "omitted perspectives"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+item,risk_type,severity,note
+Public crisis story,false coherence,high,Complex crisis may be made too simple
+Public crisis story,unsupported causality,high,Low evidence support for causal claim
+Institutional failure account,hindsight bias,medium,Outcome may seem more inevitable after the fact
+Cultural memory account,selection bias,medium,Memory story may omit competing accounts
+Personal recovery narrative,false closure,medium,Transformation may appear more complete than lived experience
+Scenario planning story,prediction confusion,low,Scenario must be framed as possibility not forecast

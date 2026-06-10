@@ -1,0 +1,6 @@
+item,story_type,sequence_clarity,causal_framing,agency_mapping,memory_integration,evidence_support,openness_to_revision,moral_understanding_score,possible_world_score,understanding_score,overreach_risk,review_priority,owner,status,governance_note
+Public crisis story,public narrative,0.76,0.64,0.62,0.7,0.5,0.46,0.628,0.492,0.613,0.667,high,communications,revise,"Requires review for evidence support, causality, agency, omitted perspectives, and closure pressure."
+Institutional failure account,organizational story,0.8,0.72,0.68,0.74,0.62,0.58,0.68,0.616,0.69,0.534,high,governance,review,"Requires review for evidence support, causality, agency, omitted perspectives, and closure pressure."
+Cultural memory account,memory story,0.78,0.7,0.66,0.9,0.68,0.64,0.696,0.652,0.727,0.473,medium,archive,review,"Review causal assumptions, overreach risk, and interpretive openness."
+Personal recovery narrative,identity story,0.84,0.76,0.78,0.86,0.72,0.7,0.752,0.708,0.777,0.39,medium,editorial,active,"Review causal assumptions, overreach risk, and interpretive openness."
+Scenario planning story,possible-world narrative,0.82,0.78,0.7,0.64,0.74,0.86,0.652,0.848,0.757,0.342,standard,research,active,Standard narrative understanding review.
