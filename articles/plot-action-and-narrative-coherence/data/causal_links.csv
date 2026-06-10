@@ -1,0 +1,6 @@
+item,source_event,target_event,causal_type,confidence,caution
+Causal mystery plot,Initial disturbance,Recognition of hidden relation,hidden causality,0.84,Ensure clue preparation
+Fragmented memory narrative,Memory fragment,Repeated image,associative causality,0.72,Do not force linear causality
+Institutional reform story,Crisis disclosure,Reform announcement,institutional causality,0.58,Verify material change
+Episodic adventure sequence,Challenge one,Challenge two,weak chronology,0.38,Chronology is not causality
+Over-neat trauma arc,Harm,Recovery scene,emotional causality,0.54,Avoid tidy transformation

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Plot Coherence Canvas Output",
+  "type": "object",
+  "required": ["item", "plot_coherence", "action_dependency", "coherence_risk", "governance_priority_score", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "plot_coherence": {"type": "number"},
+    "action_dependency": {"type": "number"},
+    "coherence_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

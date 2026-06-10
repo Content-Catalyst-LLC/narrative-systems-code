@@ -1,0 +1,6 @@
+item,story_type,action_clarity,causal_linkage,motivation_visibility,episode_dependency,plot_coherence,action_dependency,coherence_risk,governance_priority_score,review_priority,owner,status,governance_note
+Over-neat trauma arc,life story,0.72,0.68,0.7,0.66,0.72,0.692,0.663,0.77,high,ethics,revise,"Requires review for causal logic, closure pressure, evidence omission, uncertainty clarity, audience sensitivity, and public consequence."
+Institutional reform story,public narrative,0.66,0.58,0.62,0.54,0.587,0.6,0.615,0.724,high,governance,review,"Requires review for causal logic, closure pressure, evidence omission, uncertainty clarity, audience sensitivity, and public consequence."
+Episodic adventure sequence,episodic narrative,0.62,0.46,0.58,0.38,0.51,0.46,0.309,0.438,high,structure review,review,"Requires review for causal logic, closure pressure, evidence omission, uncertainty clarity, audience sensitivity, and public consequence."
+Causal mystery plot,mystery,0.86,0.84,0.78,0.82,0.83,0.804,0.296,0.586,medium,editorial,active,"Review plot coherence, action dependency, motivation visibility, and episode dependency."
+Fragmented memory narrative,nonlinear narrative,0.72,0.66,0.7,0.68,0.68,0.712,0.234,0.552,medium,research,active,"Review plot coherence, action dependency, motivation visibility, and episode dependency."

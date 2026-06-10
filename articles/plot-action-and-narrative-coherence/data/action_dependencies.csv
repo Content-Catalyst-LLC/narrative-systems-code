@@ -1,0 +1,6 @@
+item,scene_or_event,state_change,knowledge_change,pressure_change,relationship_impact,future_movement,note
+Causal mystery plot,Recognition of hidden relation,0.86,0.90,0.82,0.76,0.84,Strong dependency
+Fragmented memory narrative,Repeated image,0.64,0.82,0.70,0.78,0.62,Formal dependency through memory
+Institutional reform story,Reform announcement,0.50,0.56,0.62,0.58,0.48,Needs evidence of real consequence
+Episodic adventure sequence,Detachable challenge,0.36,0.30,0.38,0.34,0.32,May be removable
+Over-neat trauma arc,Recovery scene,0.64,0.68,0.58,0.62,0.60,Closure pressure high

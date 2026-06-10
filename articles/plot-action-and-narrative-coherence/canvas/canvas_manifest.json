@@ -1,0 +1,41 @@
+{
+  "canvas_module": "plot_coherence_canvas",
+  "article_title": "Plot, Action, and Narrative Coherence",
+  "article_slug": "plot-action-and-narrative-coherence",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing plot, action, and narrative coherence, including action clarity, causal linkage, motivation visibility, episode dependency, turning-point strength, resolution consequence, action dependency, coherence risk, ethical coherence, and governance priority.",
+  "inputs": [
+    "plot_coherence_items",
+    "plot_events",
+    "action_dependencies",
+    "causal_links",
+    "coherence_risks",
+    "plot_governance_notes"
+  ],
+  "outputs": [
+    "plot_coherence_audit.csv",
+    "plot_coherence_governance_queue.csv",
+    "plot_coherence_canvas_cards.json",
+    "plot_coherence_governance_queue.json",
+    "plot_coherence_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "action clarity",
+      "causal linkage",
+      "motivation visibility",
+      "episode dependency",
+      "turning-point strength",
+      "resolution consequence",
+      "false causality",
+      "simplification bias",
+      "closure pressure",
+      "evidence omission",
+      "uncertainty clarity",
+      "audience sensitivity",
+      "public consequence"
+    ]
+  }
+}
