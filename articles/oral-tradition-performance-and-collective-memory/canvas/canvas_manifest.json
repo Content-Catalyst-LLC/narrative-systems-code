@@ -1,0 +1,37 @@
+{
+  "canvas_module": "oral_tradition_canvas",
+  "article_title": "Oral Tradition, Performance, and Collective Memory",
+  "article_slug": "oral-tradition-performance-and-collective-memory",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing oral tradition, performance context, transmission integrity, collective-memory function, variation, archive risk, consent, ownership, extraction risk, and governance priority.",
+  "inputs": [
+    "oral_tradition_items",
+    "performance_contexts",
+    "transmission_patterns",
+    "collective_memory_functions",
+    "archive_risks",
+    "oral_tradition_governance_notes"
+  ],
+  "outputs": [
+    "oral_tradition_audit.csv",
+    "oral_tradition_governance_queue.csv",
+    "oral_tradition_canvas_cards.json",
+    "oral_tradition_governance_queue.json",
+    "oral_tradition_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "performance context",
+      "transmission integrity",
+      "collective memory function",
+      "variation tracking",
+      "consent limits",
+      "restricted knowledge",
+      "ownership risk",
+      "extraction risk",
+      "governance control"
+    ]
+  }
+}

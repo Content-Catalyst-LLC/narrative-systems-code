@@ -1,0 +1,12 @@
+{
+  "title": "Oral Tradition Item",
+  "type": "object",
+  "required": ["item", "tradition_type", "teller_role", "occasion_clarity", "governance_protocol"],
+  "properties": {
+    "item": {"type": "string"},
+    "tradition_type": {"type": "string"},
+    "teller_role": {"type": "number", "minimum": 0, "maximum": 1},
+    "occasion_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_protocol": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

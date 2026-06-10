@@ -1,0 +1,10 @@
+item,risk_type,severity,note
+Ritual chant documentation,restricted knowledge,high,Ceremonial or sacred material may require access limits
+Ritual chant documentation,exposure risk,high,Recording may circulate beyond intended audience
+Ritual chant documentation,governance control,high,Community control of access is required
+Platform remix of traditional story,ownership risk,high,Traditional story may be reused without authority
+Platform remix of traditional story,extraction risk,high,Platform gains attention while source community loses control
+Platform remix of traditional story,consent limits,high,Permission is unclear or absent
+Community place story,place detachment,medium,Story may be separated from land and community context
+Family memory story,privacy risk,medium,Personal or family material may expose living people
+Epic performance,context reduction,low,Transcript may lose performance context

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Oral Tradition Canvas Output",
+  "type": "object",
+  "required": ["item", "tradition_type", "performance_context", "transmission_integrity", "memory_function", "archive_risk", "governance_priority_score", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "tradition_type": {"type": "string"},
+    "performance_context": {"type": "number"},
+    "transmission_integrity": {"type": "number"},
+    "memory_function": {"type": "number"},
+    "archive_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

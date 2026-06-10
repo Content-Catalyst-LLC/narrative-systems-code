@@ -1,0 +1,67 @@
+[
+  {
+    "item": "Platform remix of traditional story",
+    "tradition_type": "digital adaptation",
+    "performance_context": 0.397,
+    "transmission_integrity": 0.293,
+    "memory_function": 0.337,
+    "archive_risk": 0.823,
+    "governance_priority_score": 0.831,
+    "review_priority": "high",
+    "owner": "platform review",
+    "status": "revise",
+    "governance_note": "Requires review for consent limits, restricted knowledge, ownership risk, extraction risk, exposure risk, community sensitivity, and governance control."
+  },
+  {
+    "item": "Ritual chant documentation",
+    "tradition_type": "ritual speech",
+    "performance_context": 0.873,
+    "transmission_integrity": 0.7,
+    "memory_function": 0.763,
+    "archive_risk": 0.758,
+    "governance_priority_score": 0.729,
+    "review_priority": "high",
+    "owner": "cultural review",
+    "status": "review",
+    "governance_note": "Requires review for consent limits, restricted knowledge, ownership risk, extraction risk, exposure risk, community sensitivity, and governance control."
+  },
+  {
+    "item": "Community place story",
+    "tradition_type": "place memory",
+    "performance_context": 0.8,
+    "transmission_integrity": 0.763,
+    "memory_function": 0.793,
+    "archive_risk": 0.417,
+    "governance_priority_score": 0.553,
+    "review_priority": "medium",
+    "owner": "community archive",
+    "status": "active",
+    "governance_note": "Review performance context, transmission integrity, access protocol, record context, and community authority."
+  },
+  {
+    "item": "Family memory story",
+    "tradition_type": "family oral history",
+    "performance_context": 0.69,
+    "transmission_integrity": 0.657,
+    "memory_function": 0.617,
+    "archive_risk": 0.32,
+    "governance_priority_score": 0.465,
+    "review_priority": "medium",
+    "owner": "research",
+    "status": "active",
+    "governance_note": "Review performance context, transmission integrity, access protocol, record context, and community authority."
+  },
+  {
+    "item": "Epic performance",
+    "tradition_type": "oral epic",
+    "performance_context": 0.847,
+    "transmission_integrity": 0.783,
+    "memory_function": 0.707,
+    "archive_risk": 0.326,
+    "governance_priority_score": 0.475,
+    "review_priority": "standard",
+    "owner": "editorial",
+    "status": "active",
+    "governance_note": "Standard oral tradition review."
+  }
+]
