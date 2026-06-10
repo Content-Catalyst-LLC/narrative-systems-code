@@ -1,0 +1,6 @@
+item,story_type,tone_stability,diction_coherence,rhetorical_habit,address_stability,judgment_coherence,knowledge_limits,interior_access,focalization_clarity,level_stability,source_boundaries,factual_unreliability,interpretive_unreliability,ethical_unreliability,memory_distortion,agency_gap,exposure_sensitivity,public_consequence,representation_gap,institutional_evasion,owner,status
+First-person memoir voice,memoir,0.78,0.82,0.76,0.80,0.74,0.72,0.88,0.78,0.74,0.70,0.20,0.34,0.22,0.52,0.28,0.82,0.66,0.30,0.18,editorial,active
+Institutional accountability statement,public narrative,0.72,0.76,0.70,0.68,0.58,0.60,0.34,0.62,0.70,0.58,0.34,0.48,0.62,0.24,0.70,0.86,0.88,0.74,0.82,governance,review
+Multiple-perspective novel sequence,fiction,0.84,0.80,0.78,0.76,0.82,0.78,0.82,0.86,0.74,0.76,0.18,0.24,0.20,0.22,0.26,0.58,0.52,0.20,0.12,structure review,active
+Viral platform testimony,platform narrative,0.56,0.60,0.54,0.50,0.48,0.42,0.54,0.46,0.40,0.38,0.62,0.70,0.58,0.50,0.66,0.92,0.90,0.72,0.64,platform review,revise
+Second-person interactive sequence,interactive narrative,0.70,0.68,0.72,0.66,0.64,0.68,0.70,0.72,0.62,0.66,0.24,0.30,0.28,0.20,0.36,0.64,0.58,0.32,0.20,research,active

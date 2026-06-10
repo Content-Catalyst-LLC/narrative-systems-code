@@ -1,0 +1,12 @@
+{
+  "title": "Voice Perspective Item",
+  "type": "object",
+  "required": ["item", "story_type", "tone_stability", "knowledge_limits", "focalization_clarity"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_type": {"type": "string"},
+    "tone_stability": {"type": "number", "minimum": 0, "maximum": 1},
+    "knowledge_limits": {"type": "number", "minimum": 0, "maximum": 1},
+    "focalization_clarity": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

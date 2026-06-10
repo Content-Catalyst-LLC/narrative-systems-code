@@ -1,0 +1,37 @@
+{
+  "canvas_module": "voice_perspective_canvas",
+  "article_title": "Voice, Perspective, and Point of View",
+  "article_slug": "voice-perspective-and-point-of-view",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing narrative voice, perspective, point of view, focalization, audience access, reliability risk, representation gaps, exposure sensitivity, institutional voice, and governance priority.",
+  "inputs": [
+    "voice_perspective_items",
+    "focalization_map",
+    "narrator_access_patterns",
+    "reliability_risks",
+    "perspective_gaps",
+    "voice_governance_notes"
+  ],
+  "outputs": [
+    "voice_perspective_audit.csv",
+    "voice_perspective_governance_queue.csv",
+    "voice_perspective_canvas_cards.json",
+    "voice_perspective_governance_queue.json",
+    "voice_perspective_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "voice consistency",
+      "perspective access",
+      "focalization clarity",
+      "source boundaries",
+      "reliability risk",
+      "representation gaps",
+      "exposure sensitivity",
+      "public consequence",
+      "institutional evasion"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+item,risk_type,severity,note
+Institutional accountability statement,institutional evasion,high,Passive and abstract voice can hide agency
+Institutional accountability statement,representation gap,high,Affected people may be described without perspective
+Viral platform testimony,factual unreliability,high,Clip-based evidence lacks context
+Viral platform testimony,interpretive unreliability,high,Audience may infer too much from fragment
+Viral platform testimony,exposure risk,high,Testimony may circulate beyond consent
+First-person memoir voice,memory distortion,medium,Retrospective voice should acknowledge memory limits
+Second-person interactive sequence,coercive address,medium,The address may force identification
+Multiple-perspective novel sequence,false balance,low,Maintain evidence and power differences among perspectives

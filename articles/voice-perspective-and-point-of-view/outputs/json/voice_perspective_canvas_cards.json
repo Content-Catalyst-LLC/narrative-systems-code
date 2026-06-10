@@ -1,0 +1,62 @@
+[
+  {
+    "item": "Viral platform testimony",
+    "story_type": "platform narrative",
+    "voice_consistency": 0.536,
+    "perspective_access": 0.44,
+    "reliability_risk": 0.612,
+    "governance_priority_score": 0.732,
+    "review_priority": "high",
+    "owner": "platform review",
+    "status": "revise",
+    "governance_note": "Requires review for reliability risk, perspective access, exposure sensitivity, representation gaps, institutional evasion, and public consequence."
+  },
+  {
+    "item": "Institutional accountability statement",
+    "story_type": "public narrative",
+    "voice_consistency": 0.688,
+    "perspective_access": 0.568,
+    "reliability_risk": 0.476,
+    "governance_priority_score": 0.651,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "review",
+    "governance_note": "Requires review for reliability risk, perspective access, exposure sensitivity, representation gaps, institutional evasion, and public consequence."
+  },
+  {
+    "item": "Second-person interactive sequence",
+    "story_type": "interactive narrative",
+    "voice_consistency": 0.68,
+    "perspective_access": 0.676,
+    "reliability_risk": 0.276,
+    "governance_priority_score": 0.424,
+    "review_priority": "medium",
+    "owner": "research",
+    "status": "active",
+    "governance_note": "Review voice consistency, focalization clarity, source boundaries, and access distribution."
+  },
+  {
+    "item": "First-person memoir voice",
+    "story_type": "memoir",
+    "voice_consistency": 0.78,
+    "perspective_access": 0.764,
+    "reliability_risk": 0.312,
+    "governance_priority_score": 0.467,
+    "review_priority": "standard",
+    "owner": "editorial",
+    "status": "active",
+    "governance_note": "Standard voice and perspective review."
+  },
+  {
+    "item": "Multiple-perspective novel sequence",
+    "story_type": "fiction",
+    "voice_consistency": 0.8,
+    "perspective_access": 0.792,
+    "reliability_risk": 0.22,
+    "governance_priority_score": 0.348,
+    "review_priority": "standard",
+    "owner": "structure review",
+    "status": "active",
+    "governance_note": "Standard voice and perspective review."
+  }
+]
