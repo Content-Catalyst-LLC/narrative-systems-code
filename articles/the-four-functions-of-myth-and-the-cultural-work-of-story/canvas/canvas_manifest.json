@@ -1,0 +1,38 @@
+{
+  "canvas_module": "four_function_myth_canvas",
+  "article_title": "The Four Functions of Myth and the Cultural Work of Story",
+  "article_slug": "the-four-functions-of-myth-and-the-cultural-work-of-story",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready audit module for Campbell's four functions of myth, cultural work, function balance, sociological risk, source context, institutional storytelling, counterexamples, and governance review.",
+  "inputs": [
+    "four_function_myth_claims",
+    "function_profiles",
+    "cultural_work_notes",
+    "sociological_risk_notes",
+    "institutional_myth_notes",
+    "four_function_governance_notes"
+  ],
+  "outputs": [
+    "four_function_myth_audit.csv",
+    "four_function_myth_governance_queue.csv",
+    "four_function_myth_canvas_cards.json",
+    "four_function_myth_governance_queue.json",
+    "four_function_myth_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "mystical function",
+      "cosmological function",
+      "sociological function",
+      "pedagogical function",
+      "cultural work",
+      "sociological risk",
+      "institutional myth",
+      "source context",
+      "counterexamples",
+      "ethical accountability"
+    ]
+  }
+}

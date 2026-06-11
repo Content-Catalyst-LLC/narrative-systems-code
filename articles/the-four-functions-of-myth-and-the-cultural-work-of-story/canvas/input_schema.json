@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Four Function Myth Canvas Input",
+  "type": "object",
+  "required": ["item", "claim_context", "mystical_function", "cosmological_function", "sociological_function", "pedagogical_function", "method_limits"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "mystical_function": {"type": "number", "minimum": 0, "maximum": 1},
+    "cosmological_function": {"type": "number", "minimum": 0, "maximum": 1},
+    "sociological_function": {"type": "number", "minimum": 0, "maximum": 1},
+    "pedagogical_function": {"type": "number", "minimum": 0, "maximum": 1},
+    "ritual_memory": {"type": "number", "minimum": 0, "maximum": 1},
+    "authority_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "hierarchy_protection": {"type": "number", "minimum": 0, "maximum": 1},
+    "exclusion_risk": {"type": "number", "minimum": 0, "maximum": 1},
+    "coercive_compliance": {"type": "number", "minimum": 0, "maximum": 1},
+    "omission_risk": {"type": "number", "minimum": 0, "maximum": 1},
+    "power_invisibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "accountability_marking": {"type": "number", "minimum": 0, "maximum": 1},
+    "source_context": {"type": "number", "minimum": 0, "maximum": 1},
+    "counterexample_inclusion": {"type": "number", "minimum": 0, "maximum": 1},
+    "method_limits": {"type": "number", "minimum": 0, "maximum": 1},
+    "ethics_governance": {"type": "number", "minimum": 0, "maximum": 1},
+    "uncertainty_notes": {"type": "number", "minimum": 0, "maximum": 1},
+    "community_sensitivity": {"type": "number", "minimum": 0, "maximum": 1},
+    "public_consequence": {"type": "number", "minimum": 0, "maximum": 1},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

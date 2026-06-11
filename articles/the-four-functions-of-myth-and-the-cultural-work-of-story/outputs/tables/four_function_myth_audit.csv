@@ -1,0 +1,6 @@
+item,claim_context,mystical_function,cosmological_function,sociological_function,pedagogical_function,function_balance,cultural_work,sociological_risk,interpretation_readiness,governance_priority_score,review_priority,owner,status
+National founding story,civic origin narrative,0.54,0.62,0.92,0.66,0.792,0.747,0.67,0.537,0.699,high,civic review,review
+Technology progress myth,secular future narrative,0.46,0.84,0.76,0.7,0.795,0.68,0.629,0.447,0.682,high,technology ethics,revise
+Institutional origin story,organizational mission narrative,0.5,0.58,0.88,0.74,0.783,0.727,0.61,0.48,0.647,high,governance,review
+Creation story,sacred cosmological narrative,0.92,0.96,0.72,0.78,0.884,0.843,0.295,0.763,0.46,standard,editorial,active
+Coming-of-age myth,life-passage teaching narrative,0.68,0.58,0.62,0.92,0.812,0.697,0.274,0.763,0.385,standard,story review,active

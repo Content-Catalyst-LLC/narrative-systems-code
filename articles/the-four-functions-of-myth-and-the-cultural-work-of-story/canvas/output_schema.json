@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Four Function Myth Canvas Output",
+  "type": "object",
+  "required": ["item", "claim_context", "function_balance", "cultural_work", "sociological_risk", "interpretation_readiness", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "mystical_function": {"type": "number"},
+    "cosmological_function": {"type": "number"},
+    "sociological_function": {"type": "number"},
+    "pedagogical_function": {"type": "number"},
+    "function_balance": {"type": "number"},
+    "cultural_work": {"type": "number"},
+    "sociological_risk": {"type": "number"},
+    "interpretation_readiness": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

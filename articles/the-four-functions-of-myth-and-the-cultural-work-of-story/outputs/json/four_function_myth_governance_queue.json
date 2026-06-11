@@ -1,0 +1,50 @@
+[
+  {
+    "item": "National founding story",
+    "claim_context": "civic origin narrative",
+    "mystical_function": 0.54,
+    "cosmological_function": 0.62,
+    "sociological_function": 0.92,
+    "pedagogical_function": 0.66,
+    "function_balance": 0.792,
+    "cultural_work": 0.747,
+    "sociological_risk": 0.67,
+    "interpretation_readiness": 0.537,
+    "governance_priority_score": 0.699,
+    "review_priority": "high",
+    "owner": "civic review",
+    "status": "review"
+  },
+  {
+    "item": "Technology progress myth",
+    "claim_context": "secular future narrative",
+    "mystical_function": 0.46,
+    "cosmological_function": 0.84,
+    "sociological_function": 0.76,
+    "pedagogical_function": 0.7,
+    "function_balance": 0.795,
+    "cultural_work": 0.68,
+    "sociological_risk": 0.629,
+    "interpretation_readiness": 0.447,
+    "governance_priority_score": 0.682,
+    "review_priority": "high",
+    "owner": "technology ethics",
+    "status": "revise"
+  },
+  {
+    "item": "Institutional origin story",
+    "claim_context": "organizational mission narrative",
+    "mystical_function": 0.5,
+    "cosmological_function": 0.58,
+    "sociological_function": 0.88,
+    "pedagogical_function": 0.74,
+    "function_balance": 0.783,
+    "cultural_work": 0.727,
+    "sociological_risk": 0.61,
+    "interpretation_readiness": 0.48,
+    "governance_priority_score": 0.647,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "review"
+  }
+]
