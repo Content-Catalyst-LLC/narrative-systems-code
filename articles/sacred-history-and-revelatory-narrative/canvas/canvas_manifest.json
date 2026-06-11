@@ -1,0 +1,40 @@
+{
+  "canvas_module": "sacred_history_canvas",
+  "article_title": "Sacred History and Revelatory Narrative",
+  "article_slug": "sacred-history-and-revelatory-narrative",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Article-specific Canvas module for sacred-history claims, revelatory narrative, authority risk, sacred memory, interpretation readiness, and governance review.",
+  "inputs": [
+    "sacred_history_claims",
+    "revelatory_claims",
+    "sacred_authority_risks",
+    "transmission_authority_notes",
+    "sacred_history_governance_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "sacred_history_audit.csv",
+    "sacred_history_governance_queue.csv",
+    "sacred_history_canvas_cards.json",
+    "sacred_history_governance_queue.json",
+    "sacred_history_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "revelatory claim strength",
+      "sacred history integration",
+      "sacred authority risk",
+      "source context",
+      "authority notes",
+      "counterexamples",
+      "method limits",
+      "uncertainty marking",
+      "political sanctification",
+      "historical flattening"
+    ]
+  }
+}

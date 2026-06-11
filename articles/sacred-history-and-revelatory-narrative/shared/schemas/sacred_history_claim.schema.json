@@ -1,0 +1,34 @@
+{
+  "title": "Sacred History Claim",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "sacred_disclosure",
+    "event_meaning",
+    "source_context"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "claim_context": {
+      "type": "string"
+    },
+    "sacred_disclosure": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "event_meaning": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "source_context": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

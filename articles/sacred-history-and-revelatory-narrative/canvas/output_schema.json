@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sacred History Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "revelatory_claim_strength",
+    "sacred_history_integration",
+    "sacred_authority_risk",
+    "interpretation_readiness",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "claim_context": {
+      "type": "string"
+    },
+    "revelatory_claim_strength": {
+      "type": "number"
+    },
+    "sacred_history_integration": {
+      "type": "number"
+    },
+    "sacred_authority_risk": {
+      "type": "number"
+    },
+    "interpretation_readiness": {
+      "type": "number"
+    },
+    "governance_priority_score": {
+      "type": "number"
+    },
+    "review_priority": {
+      "type": "string"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

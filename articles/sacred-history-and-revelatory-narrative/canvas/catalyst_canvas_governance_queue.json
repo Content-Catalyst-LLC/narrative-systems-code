@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "964f6656611dc610",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Sacred History and Revelatory Narrative",
+    "article_slug": "sacred-history-and-revelatory-narrative",
+    "module_name": "catalyst_canvas",
+    "item": "Revelatory authority review",
+    "claim_context": "risk power counterexample and interpretation-readiness audit",
+    "scores": {
+      "domain_strength": 0.8377,
+      "risk_score": 0.5013,
+      "interpretation_readiness": 0.8019,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Escalate claims involving sacred certainty politics land memory or witness testimony."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.74,
+        "conceptual_depth": 0.84,
+        "structure_fit": 0.78,
+        "ethical_framing": 0.9,
+        "governance_value": 0.92
+      },
+      "risk_signals": {
+        "context_loss": 0.5,
+        "overgeneralization": 0.48,
+        "formula_drift": 0.42,
+        "power_blindness": 0.62,
+        "missing_counterexamples": 0.46
+      },
+      "readiness_signals": {
+        "method_limits": 0.82,
+        "counterexamples": 0.78,
+        "uncertainty_notes": 0.86,
+        "review_owner": 0.78,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "1a726add389b4940",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Sacred History and Revelatory Narrative",
+    "article_slug": "sacred-history-and-revelatory-narrative",
+    "module_name": "catalyst_canvas",
+    "item": "Institutional sacred-history reuse",
+    "claim_context": "structured data reuse editorial workflow and future automation audit",
+    "scores": {
+      "domain_strength": 0.793,
+      "risk_score": 0.5301,
+      "interpretation_readiness": 0.7452,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Review institutional origin stories for power omissions and accountability."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.7,
+        "conceptual_depth": 0.78,
+        "structure_fit": 0.76,
+        "ethical_framing": 0.84,
+        "governance_value": 0.88
+      },
+      "risk_signals": {
+        "context_loss": 0.54,
+        "overgeneralization": 0.5,
+        "formula_drift": 0.44,
+        "power_blindness": 0.66,
+        "missing_counterexamples": 0.48
+      },
+      "readiness_signals": {
+        "method_limits": 0.76,
+        "counterexamples": 0.72,
+        "uncertainty_notes": 0.8,
+        "review_owner": 0.74,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]

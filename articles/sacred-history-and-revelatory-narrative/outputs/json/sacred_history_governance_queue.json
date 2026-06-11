@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "00fc84bccebc768e",
+    "card_type": "sacred_history_revelatory_narrative",
+    "article_title": "Sacred History and Revelatory Narrative",
+    "article_slug": "sacred-history-and-revelatory-narrative",
+    "item": "Exile and return",
+    "claim_context": "loss displacement hope and contested restoration",
+    "scores": {
+      "revelatory_claim_strength": 0.82,
+      "sacred_history_integration": 0.81,
+      "sacred_authority_risk": 0.4388,
+      "interpretation_readiness": 0.8033,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Review land displacement and return claims carefully."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "ad2ef7bb9d8740b8",
+    "card_type": "sacred_history_revelatory_narrative",
+    "article_title": "Sacred History and Revelatory Narrative",
+    "article_slug": "sacred-history-and-revelatory-narrative",
+    "item": "National sacred history",
+    "claim_context": "founding story framed as destiny",
+    "scores": {
+      "revelatory_claim_strength": 0.7733,
+      "sacred_history_integration": 0.71,
+      "sacred_authority_risk": 0.7896,
+      "interpretation_readiness": 0.48,
+      "governance_priority_score": 0.665
+    },
+    "review": {
+      "priority": "high",
+      "owner": "civic governance",
+      "status": "revise",
+      "governance_note": "High-priority sacred-history governance review required. Authority risk is elevated; review certainty, omission, exclusion, political sanctification, and historical flattening. Interpretation readiness is limited; strengthen source context, authority notes, counterexamples, method limits, and uncertainty marking. High risk of political sanctification and omission."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "a6c084bcdb88eaa5",
+    "card_type": "sacred_history_revelatory_narrative",
+    "article_title": "Sacred History and Revelatory Narrative",
+    "article_slug": "sacred-history-and-revelatory-narrative",
+    "item": "Institutional mission story",
+    "claim_context": "origin and mission narrated as calling",
+    "scores": {
+      "revelatory_claim_strength": 0.7133,
+      "sacred_history_integration": 0.68,
+      "sacred_authority_risk": 0.6448,
+      "interpretation_readiness": 0.5433,
+      "governance_priority_score": 0.5779
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Authority risk is elevated; review certainty, omission, exclusion, political sanctification, and historical flattening. Interpretation readiness is limited; strengthen source context, authority notes, counterexamples, method limits, and uncertainty marking. Audit mission language and accountability."
+    }
+  }
+]

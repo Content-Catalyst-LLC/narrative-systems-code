@@ -1,0 +1,138 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sacred History Canvas Input",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "sacred_disclosure",
+    "event_meaning",
+    "authority_clarity",
+    "source_context",
+    "method_limits"
+  ],
+  "properties": {
+    "sacred_disclosure": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "event_meaning": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "authority_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "obligation": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "transformation": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "communal_memory": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "historical_context": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "memory_depth": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "ritual_transmission": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "interpretive_authority": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "ethical_governance": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "public_responsibility": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "sacred_certainty": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "omission_risk": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "political_sanctification": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "exclusion_risk": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "historical_flattening": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "uncertainty_marking": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "source_context": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "authority_notes": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "counterexamples": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "method_limits": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "item": {
+      "type": "string"
+    },
+    "claim_context": {
+      "type": "string"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}
