@@ -1,0 +1,12 @@
+{
+  "title": "National Memory Governance Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "group_representation", "source_diversity", "evidence_visibility"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "group_representation": {"type": "number", "minimum": 0, "maximum": 1},
+    "source_diversity": {"type": "number", "minimum": 0, "maximum": 1},
+    "evidence_visibility": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

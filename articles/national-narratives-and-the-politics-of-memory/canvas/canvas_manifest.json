@@ -1,0 +1,39 @@
+{
+  "canvas_module": "national_memory_governance_canvas",
+  "article_title": "National Narratives and the Politics of Memory",
+  "article_slug": "national-narratives-and-the-politics-of-memory",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for national memory plurality, national-myth risk, memory accountability, public memory infrastructure, curriculum framing, commemoration review, and AI-mediated memory risk.",
+  "inputs": [
+    "national_memory_governance_claims",
+    "memory_plurality_notes",
+    "national_myth_risk_notes",
+    "memory_accountability_notes",
+    "ai_memory_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "national_memory_governance_audit.csv",
+    "national_memory_governance_queue.csv",
+    "national_memory_governance_canvas_cards.json",
+    "national_memory_governance_queue.json",
+    "national_memory_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "memory plurality",
+      "national myth risk",
+      "memory accountability",
+      "public memory infrastructure",
+      "curriculum balance",
+      "monument context",
+      "countermemory inclusion",
+      "AI memory risk",
+      "human review"
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "71403c0dfcf8dc6a",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "National Narratives and the Politics of Memory",
+    "article_slug": "national-narratives-and-the-politics-of-memory",
+    "module_name": "catalyst_canvas",
+    "item": "National memory governance core claim",
+    "claim_context": "article level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.928,
+      "risk_score": 0.4042,
+      "interpretation_readiness": 0.8694,
+      "governance_priority_score": 0.242
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core claim about national narratives and memory politics is suitable for Canvas reuse after standard review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.9,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.9,
+        "ethical_framing": 0.96,
+        "governance_value": 0.96
+      },
+      "risk_signals": {
+        "context_loss": 0.36,
+        "overgeneralization": 0.42,
+        "formula_drift": 0.38,
+        "power_blindness": 0.46,
+        "missing_counterexamples": 0.4
+      },
+      "readiness_signals": {
+        "method_limits": 0.9,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.82
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "09441118277ef8d7",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "National Narratives and the Politics of Memory",
+    "article_slug": "national-narratives-and-the-politics-of-memory",
+    "module_name": "catalyst_canvas",
+    "item": "National myth and countermemory review",
+    "claim_context": "hero compression national innocence and excluded memory audit",
+    "scores": {
+      "domain_strength": 0.916,
+      "risk_score": 0.7092,
+      "interpretation_readiness": 0.8579,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate national narratives that erase countermemory, protect innocence, or define dissent as disloyalty."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.86,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.96
+      },
+      "risk_signals": {
+        "context_loss": 0.62,
+        "overgeneralization": 0.72,
+        "formula_drift": 0.64,
+        "power_blindness": 0.82,
+        "missing_counterexamples": 0.74
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.9,
+        "review_owner": 0.86,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "c923e0777672fdbf",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "National Narratives and the Politics of Memory",
+    "article_slug": "national-narratives-and-the-politics-of-memory",
+    "module_name": "catalyst_canvas",
+    "item": "AI national memory distortion governance",
+    "claim_context": "automated historical summary and dominant archive bias audit",
+    "scores": {
+      "domain_strength": 0.908,
+      "risk_score": 0.7733,
+      "interpretation_readiness": 0.8332,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review AI-generated national memory for smoothing, omitted minority memory, source imbalance, false certainty, and weak human review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.78,
+        "overgeneralization": 0.76,
+        "formula_drift": 0.72,
+        "power_blindness": 0.84,
+        "missing_counterexamples": 0.76
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.72
+      }
+    }
+  }
+]

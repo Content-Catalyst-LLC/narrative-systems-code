@@ -1,0 +1,71 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "7375333a5b9e30e3",
+    "card_type": "national_memory_governance",
+    "article_title": "National Narratives and the Politics of Memory",
+    "article_slug": "national-narratives-and-the-politics-of-memory",
+    "item": "Founding holiday public narrative",
+    "claim_context": "origin celebration and selective memory audit",
+    "scores": {
+      "memory_plurality": 0.46,
+      "national_myth_risk": 0.7322,
+      "memory_accountability": 0.53,
+      "public_memory_infrastructure": 0.49,
+      "ai_memory_risk": 0.6284,
+      "governance_priority_score": 0.6391
+    },
+    "review": {
+      "priority": "high",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "High-priority national-memory governance review required. National-myth risk is elevated. Review hero compression, innocence story, exclusion omission, victimhood monopoly, purity symbolism, and weak revision capacity. Memory plurality is limited. Strengthen group representation, source diversity, testimony visibility, archive coverage, countermemory inclusion, and dissent space. Memory accountability is limited. Strengthen evidence visibility, provenance, record access, testimony care, context, and repair linkage. AI-memory risk is elevated. Review summary dependence, context loss, dominant-archive bias, uncertainty erasure, omitted minority memory, and human review. Review founding innocence, missing countermemory, and repair linkage."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "5c88db084d843a75",
+    "card_type": "national_memory_governance",
+    "article_title": "National Narratives and the Politics of Memory",
+    "article_slug": "national-narratives-and-the-politics-of-memory",
+    "item": "Contested monument review",
+    "claim_context": "public space commemoration and countermemory audit",
+    "scores": {
+      "memory_plurality": 0.7233,
+      "national_myth_risk": 0.4932,
+      "memory_accountability": 0.7533,
+      "public_memory_infrastructure": 0.7333,
+      "ai_memory_risk": 0.41,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Preserve contextual interpretation, affected-community voice, and dissent space."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "1804eeb26da3cb35",
+    "card_type": "national_memory_governance",
+    "article_title": "National Narratives and the Politics of Memory",
+    "article_slug": "national-narratives-and-the-politics-of-memory",
+    "item": "AI-generated national history summary",
+    "claim_context": "automated memory synthesis and dominant archive bias audit",
+    "scores": {
+      "memory_plurality": 0.36,
+      "national_myth_risk": 0.7338,
+      "memory_accountability": 0.3833,
+      "public_memory_infrastructure": 0.35,
+      "ai_memory_risk": 0.8528,
+      "governance_priority_score": 0.7322
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority national-memory governance review required. National-myth risk is elevated. Review hero compression, innocence story, exclusion omission, victimhood monopoly, purity symbolism, and weak revision capacity. Memory plurality is limited. Strengthen group representation, source diversity, testimony visibility, archive coverage, countermemory inclusion, and dissent space. Memory accountability is limited. Strengthen evidence visibility, provenance, record access, testimony care, context, and repair linkage. AI-memory risk is elevated. Review summary dependence, context loss, dominant-archive bias, uncertainty erasure, omitted minority memory, and human review. Escalate. AI summary may smooth conflict and omit minority memory."
+    }
+  }
+]
