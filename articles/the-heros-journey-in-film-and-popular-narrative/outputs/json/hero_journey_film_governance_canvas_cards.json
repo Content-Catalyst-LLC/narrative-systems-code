@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "36d3c98c06ebe163",
+    "card_type": "hero_journey_film_governance",
+    "article_title": "The Hero’s Journey in Film and Popular Narrative",
+    "article_slug": "the-heros-journey-in-film-and-popular-narrative",
+    "item": "Threshold crossing",
+    "film_context": "ordinary world to special world sequence",
+    "scores": {
+      "heroic_arc_integrity": 0.7433,
+      "formula_risk": 0.3544,
+      "cinematic_transformation": 0.77,
+      "culture_gender_integrity": 0.69,
+      "ai_hero_template_risk": 0.378,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Strong threshold and cinematic form. Review return boon and ethical consequence."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "e3f94779a0027c7e",
+    "card_type": "hero_journey_film_governance",
+    "article_title": "The Hero’s Journey in Film and Popular Narrative",
+    "article_slug": "the-heros-journey-in-film-and-popular-narrative",
+    "item": "Formulaic chosen-one arc",
+    "film_context": "generic fantasy adventure template audit",
+    "scores": {
+      "heroic_arc_integrity": 0.5233,
+      "formula_risk": 0.7696,
+      "cinematic_transformation": 0.61,
+      "culture_gender_integrity": 0.34,
+      "ai_hero_template_risk": 0.8076,
+      "governance_priority_score": 0.6849
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority hero’s journey governance review required. Heroic arc integrity is limited. Strengthen call authenticity, threshold significance, ordeal relevance, value change, return boon, and ethical consequence. Formula risk is elevated. Review beat compliance, generic mentor use, mechanical call, spectacle ordeal, forced return, and weak story particularity. Cinematic transformation is limited. Strengthen visual motif, sound design, editing rhythm, performance shift, blocking, and mise-en-scene. Culture/gender integrity is limited. Review collective agency, cultural specificity, gender complexity, and non-heroic alternatives. AI hero-template risk is elevated. Review stage compliance, cultural loss, genre cliché, universalist pressure, trope recycling, and human review. Escalate. High formula risk, universalist pressure, and weak cultural specificity."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "b6d9cbbfba14caf6",
+    "card_type": "hero_journey_film_governance",
+    "article_title": "The Hero’s Journey in Film and Popular Narrative",
+    "article_slug": "the-heros-journey-in-film-and-popular-narrative",
+    "item": "Return with responsibility",
+    "film_context": "final act boon and community consequence audit",
+    "scores": {
+      "heroic_arc_integrity": 0.82,
+      "formula_risk": 0.2916,
+      "cinematic_transformation": 0.8,
+      "culture_gender_integrity": 0.7933,
+      "ai_hero_template_risk": 0.2936,
+      "governance_priority_score": 0.328
+    },
+    "review": {
+      "priority": "standard",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard editorial review sufficient. Strong example of transformation tied to responsibility."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "eea759cde17d1579",
+    "card_type": "hero_journey_film_governance",
+    "article_title": "The Hero’s Journey in Film and Popular Narrative",
+    "article_slug": "the-heros-journey-in-film-and-popular-narrative",
+    "item": "AI-generated hero outline",
+    "film_context": "automated hero journey beat sheet audit",
+    "scores": {
+      "heroic_arc_integrity": 0.4567,
+      "formula_risk": 0.8528,
+      "cinematic_transformation": 0.4767,
+      "culture_gender_integrity": 0.27,
+      "ai_hero_template_risk": 0.8788,
+      "governance_priority_score": 0.7528
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority hero’s journey governance review required. Heroic arc integrity is limited. Strengthen call authenticity, threshold significance, ordeal relevance, value change, return boon, and ethical consequence. Formula risk is elevated. Review beat compliance, generic mentor use, mechanical call, spectacle ordeal, forced return, and weak story particularity. Cinematic transformation is limited. Strengthen visual motif, sound design, editing rhythm, performance shift, blocking, and mise-en-scene. Culture/gender integrity is limited. Review collective agency, cultural specificity, gender complexity, and non-heroic alternatives. AI hero-template risk is elevated. Review stage compliance, cultural loss, genre cliché, universalist pressure, trope recycling, and human review. Escalate. Generated outline is structurally familiar but weak on particularity, culture, consequence, and non-heroic alternatives."
+    }
+  }
+]

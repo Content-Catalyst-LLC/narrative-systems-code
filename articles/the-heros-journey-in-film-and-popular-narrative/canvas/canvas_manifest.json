@@ -1,0 +1,38 @@
+{
+  "canvas_module": "hero_journey_film_governance_canvas",
+  "article_title": "The Hero’s Journey in Film and Popular Narrative",
+  "article_slug": "the-heros-journey-in-film-and-popular-narrative",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for heroic arc integrity, formula risk, cinematic transformation, culture/gender integrity, and AI hero-template risk.",
+  "inputs": [
+    "hero_journey_film_governance_claims",
+    "heroic_arc_integrity_notes",
+    "formula_risk_notes",
+    "cinematic_transformation_notes",
+    "ai_hero_template_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "hero_journey_film_governance_audit.csv",
+    "hero_journey_film_governance_queue.csv",
+    "hero_journey_film_governance_canvas_cards.json",
+    "hero_journey_film_governance_queue.json",
+    "hero_journey_film_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "heroic arc integrity",
+      "formula risk",
+      "cinematic transformation",
+      "culture and gender integrity",
+      "collective agency",
+      "non-heroic alternatives",
+      "AI hero-template risk",
+      "human review"
+    ]
+  }
+}

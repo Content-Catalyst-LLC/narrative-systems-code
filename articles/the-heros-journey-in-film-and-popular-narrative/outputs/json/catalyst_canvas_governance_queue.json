@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "3642b215733e0d63",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "The Hero’s Journey in Film and Popular Narrative",
+    "article_slug": "the-heros-journey-in-film-and-popular-narrative",
+    "module_name": "catalyst_canvas",
+    "item": "Formula and universalism risk review",
+    "claim_context": "template drift and culture/gender integrity audit",
+    "scores": {
+      "domain_strength": 0.916,
+      "risk_score": 0.7617,
+      "interpretation_readiness": 0.846,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate hero-journey use when it erases alternative story logics, relational agency, culture, gender, or non-heroic forms."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.86,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.96
+      },
+      "risk_signals": {
+        "context_loss": 0.64,
+        "overgeneralization": 0.78,
+        "formula_drift": 0.86,
+        "power_blindness": 0.76,
+        "missing_counterexamples": 0.78
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.86,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "2d7a287cbcdad158",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "The Hero’s Journey in Film and Popular Narrative",
+    "article_slug": "the-heros-journey-in-film-and-popular-narrative",
+    "module_name": "catalyst_canvas",
+    "item": "AI hero-template distortion governance",
+    "claim_context": "generated stage compliance and trope recycling audit",
+    "scores": {
+      "domain_strength": 0.908,
+      "risk_score": 0.8225,
+      "interpretation_readiness": 0.8294,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review AI-generated heroic arcs for generic mentors, chosen-one tropes, culture loss, universalist pressure, and weak human review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.76,
+        "overgeneralization": 0.82,
+        "formula_drift": 0.9,
+        "power_blindness": 0.84,
+        "missing_counterexamples": 0.8
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]

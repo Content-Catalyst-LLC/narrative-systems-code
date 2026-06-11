@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Hero Journey Film Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "film_context",
+    "heroic_arc_integrity",
+    "formula_risk",
+    "cinematic_transformation",
+    "culture_gender_integrity",
+    "ai_hero_template_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "film_context": {"type": "string"},
+    "heroic_arc_integrity": {"type": "number"},
+    "formula_risk": {"type": "number"},
+    "cinematic_transformation": {"type": "number"},
+    "culture_gender_integrity": {"type": "number"},
+    "ai_hero_template_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

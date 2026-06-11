@@ -1,0 +1,12 @@
+{
+  "title": "Hero Journey Film Governance Claim",
+  "type": "object",
+  "required": ["item", "film_context", "call_authenticity", "threshold_significance", "ordeal_relevance"],
+  "properties": {
+    "item": {"type": "string"},
+    "film_context": {"type": "string"},
+    "call_authenticity": {"type": "number", "minimum": 0, "maximum": 1},
+    "threshold_significance": {"type": "number", "minimum": 0, "maximum": 1},
+    "ordeal_relevance": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
