@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Serial Narrative Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "serial_context",
+    "season_coherence",
+    "continuity_burden",
+    "payoff_integrity",
+    "ensemble_and_ethics_strength",
+    "ai_serial_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "serial_context": {"type": "string"},
+    "season_coherence": {"type": "number"},
+    "continuity_burden": {"type": "number"},
+    "payoff_integrity": {"type": "number"},
+    "ensemble_and_ethics_strength": {"type": "number"},
+    "ai_serial_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

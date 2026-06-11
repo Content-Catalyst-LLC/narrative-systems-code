@@ -1,0 +1,12 @@
+{
+  "title": "Serial Narrative Governance Claim",
+  "type": "object",
+  "required": ["item", "serial_context", "episode_function", "arc_progression", "thematic_development"],
+  "properties": {
+    "item": {"type": "string"},
+    "serial_context": {"type": "string"},
+    "episode_function": {"type": "number", "minimum": 0, "maximum": 1},
+    "arc_progression": {"type": "number", "minimum": 0, "maximum": 1},
+    "thematic_development": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "canvas_module": "serial_narrative_governance_canvas",
+  "article_title": "Serial Storytelling, Television, and Long-Form Narrative",
+  "article_slug": "serial-storytelling-television-and-long-form-narrative",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for season coherence, continuity burden, payoff integrity, ensemble and ethics strength, and AI serial-risk review.",
+  "inputs": [
+    "serial_narrative_governance_claims",
+    "season_coherence_notes",
+    "continuity_burden_notes",
+    "payoff_integrity_notes",
+    "ai_serial_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "serial_narrative_governance_audit.csv",
+    "serial_narrative_governance_queue.csv",
+    "serial_narrative_governance_canvas_cards.json",
+    "serial_narrative_governance_queue.json",
+    "serial_narrative_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "season coherence",
+      "continuity burden",
+      "payoff integrity",
+      "ensemble balance",
+      "representation depth",
+      "trauma care",
+      "audience trust",
+      "AI serial risk",
+      "human review"
+    ]
+  }
+}

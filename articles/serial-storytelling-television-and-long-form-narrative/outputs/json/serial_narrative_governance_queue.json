@@ -1,0 +1,71 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "19f68afb294a4e57",
+    "card_type": "serial_narrative_governance",
+    "article_title": "Serial Storytelling, Television, and Long-Form Narrative",
+    "article_slug": "serial-storytelling-television-and-long-form-narrative",
+    "item": "Season arc audit",
+    "serial_context": "episode sequence to season-long transformation",
+    "scores": {
+      "season_coherence": 0.77,
+      "continuity_burden": 0.4668,
+      "payoff_integrity": 0.75,
+      "ensemble_and_ethics_strength": 0.7367,
+      "ai_serial_risk": 0.3316,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority serial narrative review recommended. Strong season design. Review unresolved arcs and audience accessibility."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "5c2c122f1abdd948",
+    "card_type": "serial_narrative_governance",
+    "article_title": "Serial Storytelling, Television, and Long-Form Narrative",
+    "article_slug": "serial-storytelling-television-and-long-form-narrative",
+    "item": "Mystery box overload",
+    "serial_context": "long-running mythology with unresolved promises",
+    "scores": {
+      "season_coherence": 0.53,
+      "continuity_burden": 0.7732,
+      "payoff_integrity": 0.4467,
+      "ensemble_and_ethics_strength": 0.52,
+      "ai_serial_risk": 0.6008,
+      "governance_priority_score": 0.6304
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority serial narrative governance review required. Season coherence is limited. Strengthen episode function, arc progression, thematic development, character memory, payoff integrity, and finale consequence. Continuity burden is elevated. Review unresolved arcs, lore density, memory expectation, recap uncertainty, continuity saturation, and audience accessibility. Payoff integrity is limited. Strengthen foreshadowing support, character relevance, emotional payoff, mystery logic, retrospective coherence, and thematic alignment. Ensemble/ethics strength is limited. Review character distribution, representation, trauma care, audience trust, memory, and finale consequence. AI serial risk is elevated. Review generic plotting, continuity fabrication, memory erasure, payoff simplification, franchise overextension, and human review. Escalate. Unresolved mythology and weak payoff integrity threaten audience trust."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "092c647c48c6db52",
+    "card_type": "serial_narrative_governance",
+    "article_title": "Serial Storytelling, Television, and Long-Form Narrative",
+    "article_slug": "serial-storytelling-television-and-long-form-narrative",
+    "item": "AI-generated season outline",
+    "serial_context": "automated episode and franchise arc generation",
+    "scores": {
+      "season_coherence": 0.44,
+      "continuity_burden": 0.7,
+      "payoff_integrity": 0.4,
+      "ensemble_and_ethics_strength": 0.4067,
+      "ai_serial_risk": 0.8412,
+      "governance_priority_score": 0.6974
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority serial narrative governance review required. Season coherence is limited. Strengthen episode function, arc progression, thematic development, character memory, payoff integrity, and finale consequence. Continuity burden is elevated. Review unresolved arcs, lore density, memory expectation, recap uncertainty, continuity saturation, and audience accessibility. Payoff integrity is limited. Strengthen foreshadowing support, character relevance, emotional payoff, mystery logic, retrospective coherence, and thematic alignment. Ensemble/ethics strength is limited. Review character distribution, representation, trauma care, audience trust, memory, and finale consequence. AI serial risk is elevated. Review generic plotting, continuity fabrication, memory erasure, payoff simplification, franchise overextension, and human review. Escalate. Generated outline is plausible but weak on memory, payoff, continuity, and human judgment."
+    }
+  }
+]
