@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "936e889cf4c9ad20",
+    "card_type": "public_narrative_governance",
+    "article_title": "Public Narrative and Social Change",
+    "article_slug": "public-narrative-and-social-change",
+    "item": "Story of self us and now",
+    "claim_context": "public narrative coherence and action clarity audit",
+    "scores": {
+      "public_narrative_coherence": 0.77,
+      "mobilization_readiness": 0.69,
+      "testimony_extraction_risk": 0.3736,
+      "public_voice_integrity": 0.7567,
+      "ai_public_narrative_risk": 0.3756,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Strong structure. Improve feedback loop and governance review before reuse."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "c5345cb603ae25b8",
+    "card_type": "public_narrative_governance",
+    "article_title": "Public Narrative and Social Change",
+    "article_slug": "public-narrative-and-social-change",
+    "item": "Movement testimony video",
+    "claim_context": "witness consent safety and narrative extraction audit",
+    "scores": {
+      "public_narrative_coherence": 0.6967,
+      "mobilization_readiness": 0.6367,
+      "testimony_extraction_risk": 0.7068,
+      "public_voice_integrity": 0.6333,
+      "ai_public_narrative_risk": 0.5664,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "ethics review",
+      "status": "revise",
+      "governance_note": "High-priority public narrative governance review required. Mobilization readiness is limited. Strengthen diagnosis, solution, resource support, coalition openness, tactical action, and feedback loops. Testimony-extraction risk is elevated. Review consent, emotional targeting, safety risk, reuse uncertainty, visibility risk, and agency. Public voice integrity is limited. Strengthen voice plurality, affected-community authority, evidence visibility, coalition openness, digital context, and governance. AI public narrative risk is elevated. Review summary dependence, omitted voices, context loss, bias reproduction, uncertainty erasure, and human review. Escalate. Testimony may be persuasive but requires consent, safety, reuse limits, and community authority."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "65b34d36f3c7b543",
+    "card_type": "public_narrative_governance",
+    "article_title": "Public Narrative and Social Change",
+    "article_slug": "public-narrative-and-social-change",
+    "item": "AI-generated campaign message",
+    "claim_context": "automated public narrative and omitted voice audit",
+    "scores": {
+      "public_narrative_coherence": 0.56,
+      "mobilization_readiness": 0.4767,
+      "testimony_extraction_risk": 0.7172,
+      "public_voice_integrity": 0.38,
+      "ai_public_narrative_risk": 0.852,
+      "governance_priority_score": 0.6903
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority public narrative governance review required. Public narrative coherence is limited. Strengthen self, us, now, values, action clarity, and governance review. Mobilization readiness is limited. Strengthen diagnosis, solution, resource support, coalition openness, tactical action, and feedback loops. Testimony-extraction risk is elevated. Review consent, emotional targeting, safety risk, reuse uncertainty, visibility risk, and agency. Public voice integrity is limited. Strengthen voice plurality, affected-community authority, evidence visibility, coalition openness, digital context, and governance. AI public narrative risk is elevated. Review summary dependence, omitted voices, context loss, bias reproduction, uncertainty erasure, and human review. Escalate. AI-generated campaign language may omit affected voices and produce false moral authority."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "7e52d6035b039c53",
+    "card_type": "public_narrative_governance",
+    "article_title": "Public Narrative and Social Change",
+    "article_slug": "public-narrative-and-social-change",
+    "item": "Coalition story",
+    "claim_context": "unity difference and shared action audit",
+    "scores": {
+      "public_narrative_coherence": 0.7533,
+      "mobilization_readiness": 0.73,
+      "testimony_extraction_risk": 0.3204,
+      "public_voice_integrity": 0.7833,
+      "ai_public_narrative_risk": 0.3204,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "coalition review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Good coalition openness. Preserve distinct stakes and conflict process."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public Narrative Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "public_narrative_coherence",
+    "mobilization_readiness",
+    "testimony_extraction_risk",
+    "public_voice_integrity",
+    "ai_public_narrative_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "public_narrative_coherence": {"type": "number"},
+    "mobilization_readiness": {"type": "number"},
+    "testimony_extraction_risk": {"type": "number"},
+    "public_voice_integrity": {"type": "number"},
+    "ai_public_narrative_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

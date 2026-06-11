@@ -1,0 +1,12 @@
+{
+  "title": "Public Narrative Governance Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "self_clarity", "us_clarity", "now_clarity"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "self_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "us_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "now_clarity": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

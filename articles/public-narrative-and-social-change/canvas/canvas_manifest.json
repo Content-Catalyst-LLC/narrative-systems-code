@@ -1,0 +1,39 @@
+{
+  "canvas_module": "public_narrative_governance_canvas",
+  "article_title": "Public Narrative and Social Change",
+  "article_slug": "public-narrative-and-social-change",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for public narrative coherence, mobilization readiness, testimony ethics, public voice integrity, coalition storytelling, and AI public narrative risk.",
+  "inputs": [
+    "public_narrative_governance_claims",
+    "public_narrative_coherence_notes",
+    "mobilization_readiness_notes",
+    "testimony_ethics_notes",
+    "ai_public_narrative_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "public_narrative_governance_audit.csv",
+    "public_narrative_governance_queue.csv",
+    "public_narrative_governance_canvas_cards.json",
+    "public_narrative_governance_queue.json",
+    "public_narrative_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "story of self",
+      "story of us",
+      "story of now",
+      "collective-action frames",
+      "testimony ethics",
+      "coalition openness",
+      "digital circulation",
+      "AI public narrative risk",
+      "human review"
+    ]
+  }
+}
