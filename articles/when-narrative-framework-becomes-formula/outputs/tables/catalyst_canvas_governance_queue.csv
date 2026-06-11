@@ -1,0 +1,2 @@
+article_title,article_slug,item,claim_context,domain_strength,risk_score,interpretation_readiness,governance_priority_score,review_priority,owner,status,governance_note
+When Narrative Framework Becomes Formula,when-narrative-framework-becomes-formula,AI template risk governance,automation default arcs generic phrasing and resolution smoothing audit,0.888,0.6771,0.8255,0.45,medium,governance,review,Escalate AI-assisted story workflows for default arcs and formula drift.

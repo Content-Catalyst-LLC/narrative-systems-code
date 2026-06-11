@@ -1,0 +1,40 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "When Narrative Framework Becomes Formula",
+    "article_slug": "when-narrative-framework-becomes-formula",
+    "item": "Narrative formula drift core claim",
+    "scores": {
+      "domain_strength": 0.9,
+      "risk_score": 0.3875,
+      "interpretation_readiness": 0.8574,
+      "governance_priority_score": 0.2443
+    },
+    "review": {
+      "priority": "standard",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Core claim is suitable for Canvas reuse after standard review."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "When Narrative Framework Becomes Formula",
+    "article_slug": "when-narrative-framework-becomes-formula",
+    "item": "AI template risk governance",
+    "scores": {
+      "domain_strength": 0.888,
+      "risk_score": 0.6771,
+      "interpretation_readiness": 0.8255,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Escalate AI-assisted story workflows for default arcs and formula drift."
+    }
+  }
+]

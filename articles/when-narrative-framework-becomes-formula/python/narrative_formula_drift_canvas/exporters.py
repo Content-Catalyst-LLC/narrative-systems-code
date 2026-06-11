@@ -1,0 +1,29 @@
+from __future__ import annotations
+import csv, json
+from pathlib import Path
+from typing import Any
+
+def write_csv(path: Path, rows: list[dict[str, Any]]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    if not rows:
+        raise ValueError(f"No rows to write: {path}")
+    fields = []
+    for row in rows:
+        for key in row:
+            if key not in fields:
+                fields.append(key)
+    with path.open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer.writeheader()
+        writer.writerows(rows)
+
+def write_json(path: Path, payload: Any) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
+def write_markdown_queue(path: Path, rows: list[dict[str, Any]]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    lines = ["# Narrative Formula Drift Governance Queue", "", "| Item | Formula drift | AI risk | Priority | Owner |", "|---|---:|---:|---|---|"]
+    for row in rows:
+        lines.append(f"| {row['item']} | {row['formula_drift']} | {row['ai_template_risk']} | {row['review_priority']} | {row['owner']} |")
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")

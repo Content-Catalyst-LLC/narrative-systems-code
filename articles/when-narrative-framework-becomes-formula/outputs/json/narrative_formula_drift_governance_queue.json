@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "7849ea6bc1020c26",
+    "card_type": "narrative_formula_drift",
+    "article_title": "When Narrative Framework Becomes Formula",
+    "article_slug": "when-narrative-framework-becomes-formula",
+    "item": "Hero journey memoir",
+    "claim_context": "heroic arc overreach and closure pressure audit",
+    "scores": {
+      "formula_drift": 0.7224,
+      "framework_health": 0.5667,
+      "narrative_specificity": 0.5733,
+      "ai_template_risk": 0.6864,
+      "governance_priority_score": 0.654
+    },
+    "review": {
+      "priority": "high",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Formula drift elevated. AI-template risk elevated. Framework health needs strengthening. Narrative specificity needs restoration. Review whether witness grief care or survival is being forced into heroic transformation."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "e52f501b0a30a1ce",
+    "card_type": "narrative_formula_drift",
+    "article_title": "When Narrative Framework Becomes Formula",
+    "article_slug": "when-narrative-framework-becomes-formula",
+    "item": "AI brand story",
+    "claim_context": "template marketing arc and automation dependence audit",
+    "scores": {
+      "formula_drift": 0.8256,
+      "framework_health": 0.5033,
+      "narrative_specificity": 0.39,
+      "ai_template_risk": 0.8708,
+      "governance_priority_score": 0.7731
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "Formula drift elevated. AI-template risk elevated. Framework health needs strengthening. Narrative specificity needs restoration. Escalate AI-template review because persuasive formula may be replacing evidence responsibility and specificity."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "e4bf4dac6fabdf03",
+    "card_type": "narrative_formula_drift",
+    "article_title": "When Narrative Framework Becomes Formula",
+    "article_slug": "when-narrative-framework-becomes-formula",
+    "item": "Postcolonial fragmented novel",
+    "claim_context": "nonlinear form misread as poor structure audit",
+    "scores": {
+      "formula_drift": 0.63,
+      "framework_health": 0.83,
+      "narrative_specificity": 0.8633,
+      "ai_template_risk": 0.4736,
+      "governance_priority_score": 0.4997
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Formula drift elevated. Protect fragmentation as archive critique displacement and memory structure."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "913464f1a0b031cf",
+    "card_type": "narrative_formula_drift",
+    "article_title": "When Narrative Framework Becomes Formula",
+    "article_slug": "when-narrative-framework-becomes-formula",
+    "item": "Indigenous story adaptation",
+    "claim_context": "relational story forced into universal myth audit",
+    "scores": {
+      "formula_drift": 0.7724,
+      "framework_health": 0.42,
+      "narrative_specificity": 0.3367,
+      "ai_template_risk": 0.7324,
+      "governance_priority_score": 0.7457
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "Formula drift elevated. AI-template risk elevated. Framework health needs strengthening. Narrative specificity needs restoration. Escalate cultural and protocol review because generic universal myth framing may violate story authority and specificity."
+    }
+  }
+]

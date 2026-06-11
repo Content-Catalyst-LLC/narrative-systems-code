@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0.0",
+  "article_title": "When Narrative Framework Becomes Formula",
+  "article_slug": "when-narrative-framework-becomes-formula",
+  "advanced_python_layer": "python/catalyst_canvas",
+  "article_specific_layer": "python/narrative_formula_drift_canvas",
+  "runner": "python/run_catalyst_canvas_audit.py"
+}
