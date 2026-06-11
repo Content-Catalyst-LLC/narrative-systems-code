@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Digital Storytelling Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "platform_context",
+    "platform_narrative_integrity",
+    "context_collapse_risk",
+    "platform_formula_drift",
+    "archive_memory_strength",
+    "ai_synthetic_story_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "platform_context": {"type": "string"},
+    "platform_narrative_integrity": {"type": "number"},
+    "context_collapse_risk": {"type": "number"},
+    "platform_formula_drift": {"type": "number"},
+    "archive_memory_strength": {"type": "number"},
+    "ai_synthetic_story_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

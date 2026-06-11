@@ -1,0 +1,39 @@
+{
+  "canvas_module": "digital_storytelling_governance_canvas",
+  "article_title": "Digital Storytelling and Platform Culture",
+  "article_slug": "digital-storytelling-and-platform-culture",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for platform narrative integrity, context-collapse risk, formula drift, archive/memory strength, and AI synthetic-story risk.",
+  "inputs": [
+    "digital_storytelling_governance_claims",
+    "platform_integrity_notes",
+    "context_collapse_notes",
+    "platform_formula_drift_notes",
+    "ai_synthetic_story_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "digital_storytelling_governance_audit.csv",
+    "digital_storytelling_governance_queue.csv",
+    "digital_storytelling_governance_canvas_cards.json",
+    "digital_storytelling_governance_queue.json",
+    "digital_storytelling_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "context preservation",
+      "source authority",
+      "visibility and provenance",
+      "audience care",
+      "platform formula drift",
+      "context collapse",
+      "archive strength",
+      "synthetic media risk",
+      "human review"
+    ]
+  }
+}

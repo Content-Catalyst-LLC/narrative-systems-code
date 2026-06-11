@@ -1,0 +1,12 @@
+{
+  "title": "Digital Storytelling Governance Claim",
+  "type": "object",
+  "required": ["item", "platform_context", "context_preservation", "source_authority", "visibility_provenance_fit"],
+  "properties": {
+    "item": {"type": "string"},
+    "platform_context": {"type": "string"},
+    "context_preservation": {"type": "number", "minimum": 0, "maximum": 1},
+    "source_authority": {"type": "number", "minimum": 0, "maximum": 1},
+    "visibility_provenance_fit": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

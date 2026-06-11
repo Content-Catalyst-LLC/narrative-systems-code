@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "eaaa99d31460c21f",
+    "card_type": "digital_storytelling_governance",
+    "article_title": "Digital Storytelling and Platform Culture",
+    "article_slug": "digital-storytelling-and-platform-culture",
+    "item": "Personal digital story",
+    "platform_context": "first-person video essay distributed through short-form and long-form platforms",
+    "scores": {
+      "platform_narrative_integrity": 0.75,
+      "context_collapse_risk": 0.558,
+      "platform_formula_drift": 0.4328,
+      "archive_memory_strength": 0.75,
+      "ai_synthetic_story_risk": 0.3008,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority platform narrative review recommended. Context-collapse risk is elevated. Review audience spread, compression, hostile-context exposure, engagement intensity, sensitive visibility, and governance. Strong story model. Review compression, sensitive visibility, and context-collapse exposure."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "b9c8fd6ef2e6ddf8",
+    "card_type": "digital_storytelling_governance",
+    "article_title": "Digital Storytelling and Platform Culture",
+    "article_slug": "digital-storytelling-and-platform-culture",
+    "item": "Trend-driven institutional campaign",
+    "platform_context": "public-interest story reshaped around platform trend format",
+    "scores": {
+      "platform_narrative_integrity": 0.5433,
+      "context_collapse_risk": 0.6844,
+      "platform_formula_drift": 0.7808,
+      "archive_memory_strength": 0.5333,
+      "ai_synthetic_story_risk": 0.416,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority digital storytelling governance review required. Platform narrative integrity is limited. Strengthen context, source authority, provenance, audience care, medium fit, and ethical governance. Context-collapse risk is elevated. Review audience spread, compression, hostile-context exposure, engagement intensity, sensitive visibility, and governance. Platform formula drift is elevated. Review hooks, trends, metrics, retention framing, outrage signals, and judgment stability. Archive/memory strength is limited. Review metadata, consent, preservation plan, access context, source authority, and context. Escalate. Public-interest story is being over-shaped by trend compliance, metrics, retention framing, and weak judgment stability."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "389a0c53283ee251",
+    "card_type": "digital_storytelling_governance",
+    "article_title": "Digital Storytelling and Platform Culture",
+    "article_slug": "digital-storytelling-and-platform-culture",
+    "item": "AI-generated story package",
+    "platform_context": "synthetic image voice caption and post sequence for public storytelling",
+    "scores": {
+      "platform_narrative_integrity": 0.4,
+      "context_collapse_risk": 0.7028,
+      "platform_formula_drift": 0.7,
+      "archive_memory_strength": 0.4033,
+      "ai_synthetic_story_risk": 0.8376,
+      "governance_priority_score": 0.7325
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority digital storytelling governance review required. Platform narrative integrity is limited. Strengthen context, source authority, provenance, audience care, medium fit, and ethical governance. Context-collapse risk is elevated. Review audience spread, compression, hostile-context exposure, engagement intensity, sensitive visibility, and governance. Platform formula drift is elevated. Review hooks, trends, metrics, retention framing, outrage signals, and judgment stability. Archive/memory strength is limited. Review metadata, consent, preservation plan, access context, source authority, and context. AI synthetic-story risk is elevated. Review synthetic opacity, voice imitation, provenance loss, context loss, manipulation targeting, and human review. Escalate. Synthetic media risk is high and provenance, disclosure, context, consent, and human review are weak."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "3aaa6ebdfae38c17",
+    "card_type": "digital_storytelling_governance",
+    "article_title": "Digital Storytelling and Platform Culture",
+    "article_slug": "digital-storytelling-and-platform-culture",
+    "item": "Community digital archive",
+    "platform_context": "community memory archive with metadata consent and preservation planning",
+    "scores": {
+      "platform_narrative_integrity": 0.8467,
+      "context_collapse_risk": 0.3416,
+      "platform_formula_drift": 0.1624,
+      "archive_memory_strength": 0.8833,
+      "ai_synthetic_story_risk": 0.1368,
+      "governance_priority_score": 0.2786
+    },
+    "review": {
+      "priority": "standard",
+      "owner": "community review",
+      "status": "active",
+      "governance_note": "Standard editorial review sufficient. Strong archive/memory model. Preserve consent renewal and migration plan."
+    }
+  }
+]

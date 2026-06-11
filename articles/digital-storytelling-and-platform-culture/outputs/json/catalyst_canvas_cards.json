@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "87e58bbd9bb7c911",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Digital Storytelling and Platform Culture",
+    "article_slug": "digital-storytelling-and-platform-culture",
+    "module_name": "catalyst_canvas",
+    "item": "Digital storytelling governance core claim",
+    "claim_context": "article level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.936,
+      "risk_score": 0.4121,
+      "interpretation_readiness": 0.8736,
+      "governance_priority_score": 0.2425
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core claim about digital storytelling as platform-governed circulation, memory, and public meaning is suitable for Canvas reuse after standard review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.9,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.9,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.36,
+        "overgeneralization": 0.4,
+        "formula_drift": 0.42,
+        "power_blindness": 0.46,
+        "missing_counterexamples": 0.42
+      },
+      "readiness_signals": {
+        "method_limits": 0.9,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.9,
+        "review_owner": 0.86,
+        "publication_ready": 0.82
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "3888c3f669d8be72",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Digital Storytelling and Platform Culture",
+    "article_slug": "digital-storytelling-and-platform-culture",
+    "module_name": "catalyst_canvas",
+    "item": "Context collapse and formula drift review",
+    "claim_context": "platform compression metrics and audience spread audit",
+    "scores": {
+      "domain_strength": 0.916,
+      "risk_score": 0.7088,
+      "interpretation_readiness": 0.846,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate digital stories where compression, platform metrics, or unintended circulation undermine consent, context, and judgment."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.86,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.96
+      },
+      "risk_signals": {
+        "context_loss": 0.74,
+        "overgeneralization": 0.62,
+        "formula_drift": 0.76,
+        "power_blindness": 0.72,
+        "missing_counterexamples": 0.7
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.86,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "b8aeef0602eb0e5c",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Digital Storytelling and Platform Culture",
+    "article_slug": "digital-storytelling-and-platform-culture",
+    "module_name": "catalyst_canvas",
+    "item": "AI synthetic storytelling governance",
+    "claim_context": "generated image voice caption and platform optimization audit",
+    "scores": {
+      "domain_strength": 0.908,
+      "risk_score": 0.8121,
+      "interpretation_readiness": 0.8294,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review synthetic media for disclosure, provenance, voice consent, generated evidence confusion, manipulation targeting, and human review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.8,
+        "overgeneralization": 0.78,
+        "formula_drift": 0.84,
+        "power_blindness": 0.82,
+        "missing_counterexamples": 0.82
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]
