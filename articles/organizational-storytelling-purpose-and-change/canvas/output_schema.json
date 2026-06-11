@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Organizational Story Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "purpose_alignment",
+    "change_credibility",
+    "narrative_extraction_risk",
+    "employee_voice_integrity",
+    "ai_organizational_story_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "purpose_alignment": {"type": "number"},
+    "change_credibility": {"type": "number"},
+    "narrative_extraction_risk": {"type": "number"},
+    "employee_voice_integrity": {"type": "number"},
+    "organizational_memory_strength": {"type": "number"},
+    "ai_organizational_story_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

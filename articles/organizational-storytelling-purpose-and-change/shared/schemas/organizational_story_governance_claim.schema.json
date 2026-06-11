@@ -1,0 +1,12 @@
+{
+  "title": "Organizational Story Governance Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "mission_clarity", "decision_alignment", "employee_experience"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "mission_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "decision_alignment": {"type": "number", "minimum": 0, "maximum": 1},
+    "employee_experience": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

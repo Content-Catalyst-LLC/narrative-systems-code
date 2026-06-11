@@ -1,0 +1,40 @@
+{
+  "canvas_module": "organizational_story_governance_canvas",
+  "article_title": "Organizational Storytelling, Purpose, and Change",
+  "article_slug": "organizational-storytelling-purpose-and-change",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for purpose alignment, change credibility, employee voice, narrative extraction risk, organizational memory, and AI organizational story risk.",
+  "inputs": [
+    "organizational_story_governance_claims",
+    "purpose_alignment_notes",
+    "change_credibility_notes",
+    "employee_voice_notes",
+    "ai_organizational_story_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "organizational_story_governance_audit.csv",
+    "organizational_story_governance_queue.csv",
+    "organizational_story_governance_canvas_cards.json",
+    "organizational_story_governance_queue.json",
+    "organizational_story_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "purpose alignment",
+      "change credibility",
+      "employee voice",
+      "narrative extraction",
+      "stakeholder agency",
+      "organizational memory",
+      "AI story risk",
+      "privacy risk",
+      "dissent visibility",
+      "human review"
+    ]
+  }
+}

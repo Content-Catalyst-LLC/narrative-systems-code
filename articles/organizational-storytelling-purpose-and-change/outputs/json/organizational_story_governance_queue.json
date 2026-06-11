@@ -1,0 +1,98 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "5c07731c4ac3f375",
+    "card_type": "organizational_story_governance",
+    "article_title": "Organizational Storytelling, Purpose, and Change",
+    "article_slug": "organizational-storytelling-purpose-and-change",
+    "item": "Purpose campaign",
+    "claim_context": "mission practice and stakeholder accountability audit",
+    "scores": {
+      "purpose_alignment": 0.6367,
+      "change_credibility": 0.5233,
+      "narrative_extraction_risk": 0.6588,
+      "employee_voice_integrity": 0.46,
+      "organizational_memory_strength": 0.5,
+      "ai_organizational_story_risk": 0.6176,
+      "governance_priority_score": 0.5761
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Purpose alignment is limited. Compare mission language with decisions, budgets, stakeholder impact, employee experience, and governance transparency. Change credibility is limited. Strengthen evidence visibility, participation integrity, resource support, loss acknowledgment, feedback loops, and accountability measures. Narrative-extraction risk is elevated. Review consent, selection bias, power asymmetry, emotional targeting, brand repurposing, and agency. Employee voice integrity is limited. Strengthen protection, dissent visibility, learning follow-through, and governance transparency. Organizational memory is limited. Strengthen preservation, retrospectives, dissent capture, and accountability measures. AI organizational story risk is elevated. Review summary dependence, omitted dissent, context loss, privacy risk, uncertainty erasure, and human review. Review purpose-practice gap, employee experience, stakeholder evidence, and brand repurposing."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "21628fa859a6b6bd",
+    "card_type": "organizational_story_governance",
+    "article_title": "Organizational Storytelling, Purpose, and Change",
+    "article_slug": "organizational-storytelling-purpose-and-change",
+    "item": "Change announcement",
+    "claim_context": "transformation story participation and resource support audit",
+    "scores": {
+      "purpose_alignment": 0.5767,
+      "change_credibility": 0.41,
+      "narrative_extraction_risk": 0.5724,
+      "employee_voice_integrity": 0.3867,
+      "organizational_memory_strength": 0.4133,
+      "ai_organizational_story_risk": 0.6588,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "change governance",
+      "status": "revise",
+      "governance_note": "High-priority organizational-story governance review required. Purpose alignment is limited. Compare mission language with decisions, budgets, stakeholder impact, employee experience, and governance transparency. Change credibility is limited. Strengthen evidence visibility, participation integrity, resource support, loss acknowledgment, feedback loops, and accountability measures. Narrative-extraction risk is elevated. Review consent, selection bias, power asymmetry, emotional targeting, brand repurposing, and agency. Employee voice integrity is limited. Strengthen protection, dissent visibility, learning follow-through, and governance transparency. Organizational memory is limited. Strengthen preservation, retrospectives, dissent capture, and accountability measures. AI organizational story risk is elevated. Review summary dependence, omitted dissent, context loss, privacy risk, uncertainty erasure, and human review. Escalate. Participation appears weak and change story may demand sacrifice without support."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "a8c49d52d8837a57",
+    "card_type": "organizational_story_governance",
+    "article_title": "Organizational Storytelling, Purpose, and Change",
+    "article_slug": "organizational-storytelling-purpose-and-change",
+    "item": "Employee listening archive",
+    "claim_context": "employee voice institutional memory and learning audit",
+    "scores": {
+      "purpose_alignment": 0.75,
+      "change_credibility": 0.7733,
+      "narrative_extraction_risk": 0.3148,
+      "employee_voice_integrity": 0.8167,
+      "organizational_memory_strength": 0.81,
+      "ai_organizational_story_risk": 0.314,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "people operations",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Strong employee voice profile. Preserve confidentiality, dissent visibility, and learning follow-through."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "9a1eb12f19809d3a",
+    "card_type": "organizational_story_governance",
+    "article_title": "Organizational Storytelling, Purpose, and Change",
+    "article_slug": "organizational-storytelling-purpose-and-change",
+    "item": "AI-generated culture summary",
+    "claim_context": "automated employee sentiment and omitted dissent audit",
+    "scores": {
+      "purpose_alignment": 0.4467,
+      "change_credibility": 0.3267,
+      "narrative_extraction_risk": 0.748,
+      "employee_voice_integrity": 0.3033,
+      "organizational_memory_strength": 0.32,
+      "ai_organizational_story_risk": 0.8472,
+      "governance_priority_score": 0.7312
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority organizational-story governance review required. Purpose alignment is limited. Compare mission language with decisions, budgets, stakeholder impact, employee experience, and governance transparency. Change credibility is limited. Strengthen evidence visibility, participation integrity, resource support, loss acknowledgment, feedback loops, and accountability measures. Narrative-extraction risk is elevated. Review consent, selection bias, power asymmetry, emotional targeting, brand repurposing, and agency. Employee voice integrity is limited. Strengthen protection, dissent visibility, learning follow-through, and governance transparency. Organizational memory is limited. Strengthen preservation, retrospectives, dissent capture, and accountability measures. AI organizational story risk is elevated. Review summary dependence, omitted dissent, context loss, privacy risk, uncertainty erasure, and human review. Escalate. Automated summary may smooth dissent, privacy risk, and workplace harm."
+    }
+  }
+]

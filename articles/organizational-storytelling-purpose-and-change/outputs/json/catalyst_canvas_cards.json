@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "a6d6587a0a7f6012",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Organizational Storytelling, Purpose, and Change",
+    "article_slug": "organizational-storytelling-purpose-and-change",
+    "module_name": "catalyst_canvas",
+    "item": "Organizational story governance core claim",
+    "claim_context": "article level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.936,
+      "risk_score": 0.3963,
+      "interpretation_readiness": 0.8736,
+      "governance_priority_score": 0.2353
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core claim about purpose, change, and organizational storytelling is suitable for Canvas reuse after standard review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.9,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.9,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.34,
+        "overgeneralization": 0.4,
+        "formula_drift": 0.38,
+        "power_blindness": 0.46,
+        "missing_counterexamples": 0.4
+      },
+      "readiness_signals": {
+        "method_limits": 0.9,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.9,
+        "review_owner": 0.86,
+        "publication_ready": 0.82
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "7ba9cca1ee14a562",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Organizational Storytelling, Purpose, and Change",
+    "article_slug": "organizational-storytelling-purpose-and-change",
+    "module_name": "catalyst_canvas",
+    "item": "Purpose theater and narrative extraction review",
+    "claim_context": "purpose practice gap and employee/stakeholder story use audit",
+    "scores": {
+      "domain_strength": 0.916,
+      "risk_score": 0.7012,
+      "interpretation_readiness": 0.8579,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate organizational stories that turn purpose into pressure or people into brand proof."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.86,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.96
+      },
+      "risk_signals": {
+        "context_loss": 0.62,
+        "overgeneralization": 0.7,
+        "formula_drift": 0.64,
+        "power_blindness": 0.82,
+        "missing_counterexamples": 0.72
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.9,
+        "review_owner": 0.86,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "7779854da1b859e0",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Organizational Storytelling, Purpose, and Change",
+    "article_slug": "organizational-storytelling-purpose-and-change",
+    "module_name": "catalyst_canvas",
+    "item": "AI organizational story distortion governance",
+    "claim_context": "automated culture summary and omitted dissent audit",
+    "scores": {
+      "domain_strength": 0.908,
+      "risk_score": 0.7775,
+      "interpretation_readiness": 0.8294,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review AI-generated culture and change stories for omitted dissent, privacy risk, false alignment, context loss, and weak human review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.8,
+        "overgeneralization": 0.76,
+        "formula_drift": 0.72,
+        "power_blindness": 0.84,
+        "missing_counterexamples": 0.76
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]
