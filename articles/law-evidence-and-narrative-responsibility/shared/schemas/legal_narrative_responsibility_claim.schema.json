@@ -1,0 +1,12 @@
+{
+  "title": "Legal Narrative Responsibility Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "relevance", "authentication", "provenance"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "relevance": {"type": "number", "minimum": 0, "maximum": 1},
+    "authentication": {"type": "number", "minimum": 0, "maximum": 1},
+    "provenance": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

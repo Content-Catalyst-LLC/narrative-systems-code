@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "0c5fb85bc6641e7b",
+    "card_type": "legal_narrative_responsibility",
+    "article_title": "Law, Evidence, and Narrative Responsibility",
+    "article_slug": "law-evidence-and-narrative-responsibility",
+    "item": "Trial opening statement",
+    "claim_context": "admissible evidence and narrative overreach audit",
+    "scores": {
+      "evidence_support": 0.7467,
+      "narrative_overreach_risk": 0.5392,
+      "procedural_voice": 0.73,
+      "testimony_responsibility": 0.7167,
+      "ai_legal_narrative_risk": 0.4112,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Check whether opening promises can be supported by admissible evidence."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "c71b06e61753be23",
+    "card_type": "legal_narrative_responsibility",
+    "article_title": "Law, Evidence, and Narrative Responsibility",
+    "article_slug": "law-evidence-and-narrative-responsibility",
+    "item": "AI-generated case summary",
+    "claim_context": "hallucinated authority and procedural posture audit",
+    "scores": {
+      "evidence_support": 0.4067,
+      "narrative_overreach_risk": 0.7572,
+      "procedural_voice": 0.3567,
+      "testimony_responsibility": 0.3633,
+      "ai_legal_narrative_risk": 0.866,
+      "governance_priority_score": 0.7466
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority legal narrative responsibility review required. Narrative-overreach risk is elevated. Review overcoherence, evidentiary gaps, stereotype reliance, causation flattening, affective bias, and weak uncertainty visibility. Evidence support is limited. Strengthen relevance, authentication, provenance, corroboration, cross-checking, and uncertainty notation. Procedural voice is limited. Review hearing opportunity, discovery access, testimony context, record access, correction pathways, and procedural posture clarity. Testimony responsibility is limited. Review witness dignity, testimony care, role complexity, context, uncertainty, and remedy connection. AI-legal narrative risk is elevated. Review hallucinated authority, summary dependence, context loss, procedural distortion, bias reproduction, and human review. Escalate. Summary may hallucinate authority, erase procedural posture, and overstate the record."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "cde75f7516f95125",
+    "card_type": "legal_narrative_responsibility",
+    "article_title": "Law, Evidence, and Narrative Responsibility",
+    "article_slug": "law-evidence-and-narrative-responsibility",
+    "item": "Truth commission testimony archive",
+    "claim_context": "witness dignity public record and repair audit",
+    "scores": {
+      "evidence_support": 0.78,
+      "narrative_overreach_risk": 0.4016,
+      "procedural_voice": 0.8067,
+      "testimony_responsibility": 0.8533,
+      "ai_legal_narrative_risk": 0.3588,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Strong witness responsibility profile. Preserve consent, context, archive access, and repair linkage."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "508c008cc6ee6711",
+    "card_type": "legal_narrative_responsibility",
+    "article_title": "Law, Evidence, and Narrative Responsibility",
+    "article_slug": "law-evidence-and-narrative-responsibility",
+    "item": "Settlement record after institutional harm",
+    "claim_context": "confidentiality public memory and legal closure audit",
+    "scores": {
+      "evidence_support": 0.69,
+      "narrative_overreach_risk": 0.5148,
+      "procedural_voice": 0.5633,
+      "testimony_responsibility": 0.6533,
+      "ai_legal_narrative_risk": 0.3776,
+      "governance_priority_score": 0.4614
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "legal ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Procedural voice is limited. Review hearing opportunity, discovery access, testimony context, record access, correction pathways, and procedural posture clarity. Review whether confidentiality narrows public accountability and legal memory."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Legal Narrative Responsibility Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "evidence_support",
+    "narrative_overreach_risk",
+    "procedural_voice",
+    "testimony_responsibility",
+    "ai_legal_narrative_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "evidence_support": {"type": "number"},
+    "narrative_overreach_risk": {"type": "number"},
+    "procedural_voice": {"type": "number"},
+    "testimony_responsibility": {"type": "number"},
+    "ai_legal_narrative_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

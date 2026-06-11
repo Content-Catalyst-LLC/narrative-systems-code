@@ -1,0 +1,39 @@
+{
+  "canvas_module": "legal_narrative_responsibility_canvas",
+  "article_title": "Law, Evidence, and Narrative Responsibility",
+  "article_slug": "law-evidence-and-narrative-responsibility",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for evidence support, narrative overreach, procedural voice, testimony responsibility, legal memory, and AI legal narrative risk.",
+  "inputs": [
+    "legal_narrative_responsibility_claims",
+    "evidence_support_notes",
+    "narrative_overreach_notes",
+    "procedural_voice_notes",
+    "ai_legal_narrative_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "legal_narrative_responsibility_audit.csv",
+    "legal_narrative_responsibility_queue.csv",
+    "legal_narrative_responsibility_canvas_cards.json",
+    "legal_narrative_responsibility_queue.json",
+    "legal_narrative_responsibility_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "evidence support",
+      "narrative overreach",
+      "procedural voice",
+      "testimony responsibility",
+      "legal memory",
+      "causation flattening",
+      "hallucinated authority",
+      "procedural distortion",
+      "human review"
+    ]
+  }
+}

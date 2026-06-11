@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "5430d0ed213d77c5",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Law, Evidence, and Narrative Responsibility",
+    "article_slug": "law-evidence-and-narrative-responsibility",
+    "module_name": "catalyst_canvas",
+    "item": "Narrative overreach and procedural erasure review",
+    "claim_context": "legal story exceeding evidence or narrowing voice audit",
+    "scores": {
+      "domain_strength": 0.916,
+      "risk_score": 0.7054,
+      "interpretation_readiness": 0.8579,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate legal narratives that transform coherence into proof or procedure into erasure."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.86,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.96
+      },
+      "risk_signals": {
+        "context_loss": 0.64,
+        "overgeneralization": 0.7,
+        "formula_drift": 0.64,
+        "power_blindness": 0.82,
+        "missing_counterexamples": 0.72
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.9,
+        "review_owner": 0.86,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "f8a325589ec39e69",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Law, Evidence, and Narrative Responsibility",
+    "article_slug": "law-evidence-and-narrative-responsibility",
+    "module_name": "catalyst_canvas",
+    "item": "AI legal narrative distortion governance",
+    "claim_context": "automated case summary and hallucinated authority audit",
+    "scores": {
+      "domain_strength": 0.908,
+      "risk_score": 0.7775,
+      "interpretation_readiness": 0.8294,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review AI-generated legal narratives for hallucinated authority, procedural distortion, false certainty, omitted evidence, and weak human review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.8,
+        "overgeneralization": 0.76,
+        "formula_drift": 0.72,
+        "power_blindness": 0.84,
+        "missing_counterexamples": 0.76
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]
