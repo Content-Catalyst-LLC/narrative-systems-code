@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Interactive Narrative Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "game_context",
+    "agency_integrity",
+    "branching_burden",
+    "system_story_alignment",
+    "failure_and_identity_strength",
+    "ai_interactive_narrative_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "game_context": {"type": "string"},
+    "agency_integrity": {"type": "number"},
+    "branching_burden": {"type": "number"},
+    "system_story_alignment": {"type": "number"},
+    "failure_and_identity_strength": {"type": "number"},
+    "ai_interactive_narrative_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

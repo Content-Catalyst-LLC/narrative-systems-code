@@ -1,0 +1,40 @@
+{
+  "canvas_module": "interactive_narrative_governance_canvas",
+  "article_title": "Games, Interactivity, and Branching Narrative",
+  "article_slug": "games-interactivity-and-branching-narrative",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for agency integrity, branching burden, system-story alignment, failure/identity strength, and AI interactive-narrative risk.",
+  "inputs": [
+    "interactive_narrative_governance_claims",
+    "agency_integrity_notes",
+    "branching_burden_notes",
+    "system_story_alignment_notes",
+    "ai_interactive_narrative_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "interactive_narrative_governance_audit.csv",
+    "interactive_narrative_governance_queue.csv",
+    "interactive_narrative_governance_canvas_cards.json",
+    "interactive_narrative_governance_queue.json",
+    "interactive_narrative_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "choice meaningfulness",
+      "system response",
+      "feedback clarity",
+      "world memory",
+      "branching burden",
+      "system-story alignment",
+      "player consent",
+      "identity care",
+      "AI quest risk",
+      "human review"
+    ]
+  }
+}

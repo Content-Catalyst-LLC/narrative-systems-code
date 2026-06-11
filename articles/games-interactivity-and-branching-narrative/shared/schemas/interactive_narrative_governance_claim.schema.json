@@ -1,0 +1,12 @@
+{
+  "title": "Interactive Narrative Governance Claim",
+  "type": "object",
+  "required": ["item", "game_context", "choice_meaningfulness", "system_response", "feedback_clarity"],
+  "properties": {
+    "item": {"type": "string"},
+    "game_context": {"type": "string"},
+    "choice_meaningfulness": {"type": "number", "minimum": 0, "maximum": 1},
+    "system_response": {"type": "number", "minimum": 0, "maximum": 1},
+    "feedback_clarity": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
