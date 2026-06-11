@@ -1,0 +1,6 @@
+item,claim_context,comparative_pattern,cultural_specificity,generalization_risk,interpretation_readiness,governance_priority_score,review_priority,owner,status,governance_note
+Corporate hero branding,brand story using hero journey,0.717,0.22,0.838,0.217,0.797,high,governance,revise,"Requires review for formula reduction, context loss, source authority, cultural specificity, counterexamples, public consequence, and ethical risk."
+Modern film hero arc,popular storytelling analysis,0.84,0.49,0.566,0.542,0.549,high,story review,review,"Requires review for formula reduction, context loss, source authority, cultural specificity, counterexamples, public consequence, and ethical risk."
+Ancient hero myth,source-tradition myth comparison,0.793,0.743,0.356,0.727,0.483,medium,editorial,active,"Review Campbell pattern claim, source context, method limits, ritual verification, and uncertainty marking."
+Indigenous place-based story,place-based oral tradition,0.333,0.867,0.293,0.861,0.534,medium,cultural review,active,"Review Campbell pattern claim, source context, method limits, ritual verification, and uncertainty marking."
+Heroine-centered narrative,gender critique and alternative structure,0.45,0.623,0.317,0.727,0.467,standard,gender review,active,Standard comparative mythology review.

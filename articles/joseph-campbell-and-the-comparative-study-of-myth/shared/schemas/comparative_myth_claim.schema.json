@@ -1,0 +1,12 @@
+{
+  "title": "Comparative Myth Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "departure_pattern", "language_notes", "universal_claim_strength"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "departure_pattern": {"type": "number", "minimum": 0, "maximum": 1},
+    "language_notes": {"type": "number", "minimum": 0, "maximum": 1},
+    "universal_claim_strength": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

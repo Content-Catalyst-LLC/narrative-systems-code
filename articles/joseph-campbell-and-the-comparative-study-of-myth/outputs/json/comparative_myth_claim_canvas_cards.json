@@ -1,0 +1,67 @@
+[
+  {
+    "item": "Corporate hero branding",
+    "claim_context": "brand story using hero journey",
+    "comparative_pattern": 0.717,
+    "cultural_specificity": 0.22,
+    "generalization_risk": 0.838,
+    "interpretation_readiness": 0.217,
+    "governance_priority_score": 0.797,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "revise",
+    "governance_note": "Requires review for formula reduction, context loss, source authority, cultural specificity, counterexamples, public consequence, and ethical risk."
+  },
+  {
+    "item": "Modern film hero arc",
+    "claim_context": "popular storytelling analysis",
+    "comparative_pattern": 0.84,
+    "cultural_specificity": 0.49,
+    "generalization_risk": 0.566,
+    "interpretation_readiness": 0.542,
+    "governance_priority_score": 0.549,
+    "review_priority": "high",
+    "owner": "story review",
+    "status": "review",
+    "governance_note": "Requires review for formula reduction, context loss, source authority, cultural specificity, counterexamples, public consequence, and ethical risk."
+  },
+  {
+    "item": "Ancient hero myth",
+    "claim_context": "source-tradition myth comparison",
+    "comparative_pattern": 0.793,
+    "cultural_specificity": 0.743,
+    "generalization_risk": 0.356,
+    "interpretation_readiness": 0.727,
+    "governance_priority_score": 0.483,
+    "review_priority": "medium",
+    "owner": "editorial",
+    "status": "active",
+    "governance_note": "Review Campbell pattern claim, source context, method limits, ritual verification, and uncertainty marking."
+  },
+  {
+    "item": "Indigenous place-based story",
+    "claim_context": "place-based oral tradition",
+    "comparative_pattern": 0.333,
+    "cultural_specificity": 0.867,
+    "generalization_risk": 0.293,
+    "interpretation_readiness": 0.861,
+    "governance_priority_score": 0.534,
+    "review_priority": "medium",
+    "owner": "cultural review",
+    "status": "active",
+    "governance_note": "Review Campbell pattern claim, source context, method limits, ritual verification, and uncertainty marking."
+  },
+  {
+    "item": "Heroine-centered narrative",
+    "claim_context": "gender critique and alternative structure",
+    "comparative_pattern": 0.45,
+    "cultural_specificity": 0.623,
+    "generalization_risk": 0.317,
+    "interpretation_readiness": 0.727,
+    "governance_priority_score": 0.467,
+    "review_priority": "standard",
+    "owner": "gender review",
+    "status": "active",
+    "governance_note": "Standard comparative mythology review."
+  }
+]
