@@ -1,0 +1,153 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Narratology Canvas Input",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "story_discourse_clarity",
+    "voice_clarity",
+    "focalization_clarity",
+    "temporal_mapping",
+    "method_limits"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "claim_context": {
+      "type": "string"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "story_discourse_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "voice_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "focalization_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "temporal_mapping": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "character_agency_mapping": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "information_control_analysis": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "perspective_shifts": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "knowledge_restriction": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "interior_access": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "source_hierarchy": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "multiple_focalizers": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "analepsis": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "prolepsis": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "ellipsis": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "duration_variation": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "repetition_frequency": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "omission_risk": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "power_blindness": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "voice_imbalance": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "closure_pressure": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "unreliable_framing_risk": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "method_limits": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "source_context": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "counterexamples": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "uncertainty_notes": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

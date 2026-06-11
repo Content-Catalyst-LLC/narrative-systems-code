@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Narratology Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "narrative_grammar_strength",
+    "focalization_complexity",
+    "temporal_complexity",
+    "governance_risk",
+    "interpretation_readiness",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "claim_context": {
+      "type": "string"
+    },
+    "narrative_grammar_strength": {
+      "type": "number"
+    },
+    "focalization_complexity": {
+      "type": "number"
+    },
+    "temporal_complexity": {
+      "type": "number"
+    },
+    "governance_risk": {
+      "type": "number"
+    },
+    "interpretation_readiness": {
+      "type": "number"
+    },
+    "governance_priority_score": {
+      "type": "number"
+    },
+    "review_priority": {
+      "type": "string"
+    }
+  }
+}

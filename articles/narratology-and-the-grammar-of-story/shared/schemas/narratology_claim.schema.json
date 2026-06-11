@@ -1,0 +1,34 @@
+{
+  "title": "Narratology Claim",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "story_discourse_clarity",
+    "voice_clarity",
+    "focalization_clarity"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "claim_context": {
+      "type": "string"
+    },
+    "story_discourse_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "voice_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "focalization_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

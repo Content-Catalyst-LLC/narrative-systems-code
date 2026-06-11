@@ -1,0 +1,26 @@
+{
+  "canvas_module": "narratology_canvas",
+  "article_title": "Narratology and the Grammar of Story",
+  "article_slug": "narratology-and-the-grammar-of-story",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Narratology and narrative grammar module for story/discourse, voice, focalization, temporal structure, information control, reliability, and governance review.",
+  "inputs": [
+    "narratology_claims",
+    "focalization_notes",
+    "temporal_structure_notes",
+    "voice_narrator_notes",
+    "governance_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "narratology_audit.csv",
+    "narratology_governance_queue.csv",
+    "narratology_canvas_cards.json",
+    "narratology_governance_queue.json",
+    "narratology_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true
+  }
+}

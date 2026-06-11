@@ -1,0 +1,71 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "8b1179483e55239e",
+    "card_type": "narratology_grammar_of_story",
+    "article_title": "Narratology and the Grammar of Story",
+    "article_slug": "narratology-and-the-grammar-of-story",
+    "item": "Focalization and voice",
+    "claim_context": "perspective information access and voice allocation audit",
+    "scores": {
+      "narrative_grammar_strength": 0.8367,
+      "focalization_complexity": 0.828,
+      "temporal_complexity": 0.456,
+      "governance_risk": 0.5024,
+      "interpretation_readiness": 0.8367,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Review voice imbalance and restricted interiority."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "47bd77a2d81e7fdc",
+    "card_type": "narratology_grammar_of_story",
+    "article_title": "Narratology and the Grammar of Story",
+    "article_slug": "narratology-and-the-grammar-of-story",
+    "item": "Institutional narrative frame",
+    "claim_context": "public report testimony and authority framing audit",
+    "scores": {
+      "narrative_grammar_strength": 0.79,
+      "focalization_complexity": 0.632,
+      "temporal_complexity": 0.496,
+      "governance_risk": 0.67,
+      "interpretation_readiness": 0.7,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority narratology governance review required. Governance risk is elevated; review omission, power blindness, voice imbalance, closure pressure, and unreliable framing. Escalate when institutional frames control witness or obscure responsibility."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "729ac74945c341f4",
+    "card_type": "narratology_grammar_of_story",
+    "article_title": "Narratology and the Grammar of Story",
+    "article_slug": "narratology-and-the-grammar-of-story",
+    "item": "Witness narration",
+    "claim_context": "testimony frame voice and ethical focalization audit",
+    "scores": {
+      "narrative_grammar_strength": 0.8467,
+      "focalization_complexity": 0.744,
+      "temporal_complexity": 0.556,
+      "governance_risk": 0.6264,
+      "interpretation_readiness": 0.7767,
+      "governance_priority_score": 0.5179
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Governance risk is elevated; review omission, power blindness, voice imbalance, closure pressure, and unreliable framing. Review witness dignity frame control and narrative extraction risk."
+    }
+  }
+]

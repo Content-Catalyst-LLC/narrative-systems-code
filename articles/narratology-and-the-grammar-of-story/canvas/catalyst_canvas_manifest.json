@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0.0",
+  "article_title": "Narratology and the Grammar of Story",
+  "article_slug": "narratology-and-the-grammar-of-story",
+  "advanced_python_layer": "python/catalyst_canvas",
+  "article_specific_layer": "python/narratology_canvas",
+  "runner": "python/run_catalyst_canvas_audit.py"
+}

@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "c3256142c841fa21",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Narratology and the Grammar of Story",
+    "article_slug": "narratology-and-the-grammar-of-story",
+    "module_name": "catalyst_canvas",
+    "item": "Narratology core claim",
+    "claim_context": "article-level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.868,
+      "risk_score": 0.3077,
+      "interpretation_readiness": 0.8132,
+      "governance_priority_score": 0.2302
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core narratology claim is suitable for Canvas reuse after standard review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.9,
+        "ethical_framing": 0.84,
+        "governance_value": 0.88
+      },
+      "risk_signals": {
+        "context_loss": 0.28,
+        "overgeneralization": 0.34,
+        "formula_drift": 0.3,
+        "power_blindness": 0.32,
+        "missing_counterexamples": 0.3
+      },
+      "readiness_signals": {
+        "method_limits": 0.82,
+        "counterexamples": 0.8,
+        "uncertainty_notes": 0.84,
+        "review_owner": 0.78,
+        "publication_ready": 0.82
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "77a8b13ceb0e2f1d",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Narratology and the Grammar of Story",
+    "article_slug": "narratology-and-the-grammar-of-story",
+    "module_name": "catalyst_canvas",
+    "item": "Focalization ethics review",
+    "claim_context": "risk power counterexample and interpretation-readiness audit",
+    "scores": {
+      "domain_strength": 0.868,
+      "risk_score": 0.4668,
+      "interpretation_readiness": 0.814,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Escalate claims involving voice imbalance interiority witness testimony or frame control."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.78,
+        "conceptual_depth": 0.86,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.92,
+        "governance_value": 0.9
+      },
+      "risk_signals": {
+        "context_loss": 0.44,
+        "overgeneralization": 0.42,
+        "formula_drift": 0.38,
+        "power_blindness": 0.62,
+        "missing_counterexamples": 0.46
+      },
+      "readiness_signals": {
+        "method_limits": 0.84,
+        "counterexamples": 0.8,
+        "uncertainty_notes": 0.86,
+        "review_owner": 0.78,
+        "publication_ready": 0.78
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "df544f335b00911b",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Narratology and the Grammar of Story",
+    "article_slug": "narratology-and-the-grammar-of-story",
+    "module_name": "catalyst_canvas",
+    "item": "Institutional narratology reuse",
+    "claim_context": "structured data reuse editorial workflow and future automation audit",
+    "scores": {
+      "domain_strength": 0.82,
+      "risk_score": 0.5315,
+      "interpretation_readiness": 0.7451,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Review institutional narrative frames for erased agents and accountability gaps."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.72,
+        "conceptual_depth": 0.8,
+        "structure_fit": 0.84,
+        "ethical_framing": 0.86,
+        "governance_value": 0.88
+      },
+      "risk_signals": {
+        "context_loss": 0.54,
+        "overgeneralization": 0.48,
+        "formula_drift": 0.42,
+        "power_blindness": 0.68,
+        "missing_counterexamples": 0.52
+      },
+      "readiness_signals": {
+        "method_limits": 0.76,
+        "counterexamples": 0.72,
+        "uncertainty_notes": 0.8,
+        "review_owner": 0.74,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]
