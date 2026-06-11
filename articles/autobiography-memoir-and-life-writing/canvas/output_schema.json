@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Life-Writing Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "life_writing_coherence",
+    "truth_practice",
+    "ethical_risk",
+    "interpretation_readiness",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "life_writing_coherence": {"type": "number"},
+    "truth_practice": {"type": "number"},
+    "ethical_risk": {"type": "number"},
+    "interpretation_readiness": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

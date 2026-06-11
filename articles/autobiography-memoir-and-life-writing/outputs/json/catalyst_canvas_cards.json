@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "d4cf2dcf23bdbc2a",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Autobiography, Memoir, and Life-Writing",
+    "article_slug": "autobiography-memoir-and-life-writing",
+    "module_name": "catalyst_canvas",
+    "item": "Life-writing core claim",
+    "claim_context": "article-level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.884,
+      "risk_score": 0.3404,
+      "interpretation_readiness": 0.8451,
+      "governance_priority_score": 0.2306
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core life-writing claim is suitable for Canvas reuse after standard review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.86,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.9,
+        "governance_value": 0.88
+      },
+      "risk_signals": {
+        "context_loss": 0.3,
+        "overgeneralization": 0.34,
+        "formula_drift": 0.32,
+        "power_blindness": 0.4,
+        "missing_counterexamples": 0.34
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.86,
+        "review_owner": 0.82,
+        "publication_ready": 0.84
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "7eda0f6090a809e7",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Autobiography, Memoir, and Life-Writing",
+    "article_slug": "autobiography-memoir-and-life-writing",
+    "module_name": "catalyst_canvas",
+    "item": "Relational ethics review",
+    "claim_context": "risk power counterexample and interpretation-readiness audit",
+    "scores": {
+      "domain_strength": 0.884,
+      "risk_score": 0.4911,
+      "interpretation_readiness": 0.8417,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Escalate claims involving consent privacy family exposure trauma extraction or self-mythology."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.82,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.94,
+        "governance_value": 0.92
+      },
+      "risk_signals": {
+        "context_loss": 0.5,
+        "overgeneralization": 0.44,
+        "formula_drift": 0.4,
+        "power_blindness": 0.62,
+        "missing_counterexamples": 0.48
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.82,
+        "publication_ready": 0.8
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "429d649f098b9d0f",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Autobiography, Memoir, and Life-Writing",
+    "article_slug": "autobiography-memoir-and-life-writing",
+    "module_name": "catalyst_canvas",
+    "item": "Digital life-writing reuse",
+    "claim_context": "structured data reuse editorial workflow and future automation audit",
+    "scores": {
+      "domain_strength": 0.852,
+      "risk_score": 0.5634,
+      "interpretation_readiness": 0.7685,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Review AI assisted autobiography and digital archives for source distinction context collapse and consent."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.76,
+        "conceptual_depth": 0.84,
+        "structure_fit": 0.84,
+        "ethical_framing": 0.9,
+        "governance_value": 0.92
+      },
+      "risk_signals": {
+        "context_loss": 0.58,
+        "overgeneralization": 0.52,
+        "formula_drift": 0.46,
+        "power_blindness": 0.7,
+        "missing_counterexamples": 0.54
+      },
+      "readiness_signals": {
+        "method_limits": 0.78,
+        "counterexamples": 0.74,
+        "uncertainty_notes": 0.82,
+        "review_owner": 0.78,
+        "publication_ready": 0.72
+      }
+    }
+  }
+]

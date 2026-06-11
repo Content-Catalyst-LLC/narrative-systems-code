@@ -1,0 +1,12 @@
+{
+  "title": "Life-Writing Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "memory_clarity", "voice_consistency", "evidence_visibility"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "memory_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "voice_consistency": {"type": "number", "minimum": 0, "maximum": 1},
+    "evidence_visibility": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

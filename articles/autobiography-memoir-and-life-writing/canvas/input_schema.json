@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Life-Writing Canvas Input",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "memory_clarity",
+    "voice_consistency",
+    "evidence_visibility",
+    "method_limits"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"},
+    "memory_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "temporal_structure": {"type": "number", "minimum": 0, "maximum": 1},
+    "voice_consistency": {"type": "number", "minimum": 0, "maximum": 1},
+    "agency": {"type": "number", "minimum": 0, "maximum": 1},
+    "relational_grounding": {"type": "number", "minimum": 0, "maximum": 1},
+    "contextual_depth": {"type": "number", "minimum": 0, "maximum": 1},
+    "fact_checking": {"type": "number", "minimum": 0, "maximum": 1},
+    "memory_framing": {"type": "number", "minimum": 0, "maximum": 1},
+    "evidence_visibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "interpretation_distinction": {"type": "number", "minimum": 0, "maximum": 1},
+    "uncertainty_notes": {"type": "number", "minimum": 0, "maximum": 1},
+    "archive_review": {"type": "number", "minimum": 0, "maximum": 1},
+    "privacy_risk": {"type": "number", "minimum": 0, "maximum": 1},
+    "consent_limits": {"type": "number", "minimum": 0, "maximum": 1},
+    "other_person_exposure": {"type": "number", "minimum": 0, "maximum": 1},
+    "trauma_extraction": {"type": "number", "minimum": 0, "maximum": 1},
+    "self_mythology": {"type": "number", "minimum": 0, "maximum": 1},
+    "method_limits": {"type": "number", "minimum": 0, "maximum": 1},
+    "source_context": {"type": "number", "minimum": 0, "maximum": 1},
+    "cultural_context": {"type": "number", "minimum": 0, "maximum": 1},
+    "review_owner_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "public_consequence": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "74d9f724ae55cb7d",
+    "card_type": "autobiography_memoir_life_writing",
+    "article_title": "Autobiography, Memoir, and Life-Writing",
+    "article_slug": "autobiography-memoir-and-life-writing",
+    "item": "Family memoir",
+    "claim_context": "relational privacy consent and other-person exposure audit",
+    "scores": {
+      "life_writing_coherence": 0.8467,
+      "truth_practice": 0.7833,
+      "ethical_risk": 0.6276,
+      "interpretation_readiness": 0.8133,
+      "governance_priority_score": 0.4806
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Life-writing ethical risk is elevated; review privacy, consent, other-person exposure, trauma extraction, and self-mythology. Escalate privacy consent and relational fairness."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "6eb76e3b169d2f22",
+    "card_type": "autobiography_memoir_life_writing",
+    "article_title": "Autobiography, Memoir, and Life-Writing",
+    "article_slug": "autobiography-memoir-and-life-writing",
+    "item": "AI-assisted autobiography",
+    "claim_context": "voice preservation source distinction and automated coherence audit",
+    "scores": {
+      "life_writing_coherence": 0.6833,
+      "truth_practice": 0.7167,
+      "ethical_risk": 0.5916,
+      "interpretation_readiness": 0.77,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority life-writing governance review required. Life-writing ethical risk is elevated; review privacy, consent, other-person exposure, trauma extraction, and self-mythology. Review AI over-smoothing invented coherence and voice flattening."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "219db5871216dadb",
+    "card_type": "autobiography_memoir_life_writing",
+    "article_title": "Autobiography, Memoir, and Life-Writing",
+    "article_slug": "autobiography-memoir-and-life-writing",
+    "item": "Trauma memoir",
+    "claim_context": "fragmented memory silence and non-redemptive witness audit",
+    "scores": {
+      "life_writing_coherence": 0.7933,
+      "truth_practice": 0.8033,
+      "ethical_risk": 0.6464,
+      "interpretation_readiness": 0.8333,
+      "governance_priority_score": 0.4857
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Life-writing ethical risk is elevated; review privacy, consent, other-person exposure, trauma extraction, and self-mythology. Do not force disclosure coherence or redemption."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "d8bd96b74b1c1c02",
+    "card_type": "autobiography_memoir_life_writing",
+    "article_title": "Autobiography, Memoir, and Life-Writing",
+    "article_slug": "autobiography-memoir-and-life-writing",
+    "item": "Digital life archive",
+    "claim_context": "platform persistence context collapse and profile reduction audit",
+    "scores": {
+      "life_writing_coherence": 0.6733,
+      "truth_practice": 0.7367,
+      "ethical_risk": 0.6876,
+      "interpretation_readiness": 0.7867,
+      "governance_priority_score": 0.5239
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Life-writing ethical risk is elevated; review privacy, consent, other-person exposure, trauma extraction, and self-mythology. Review platform persistence AI summarization and loss of context."
+    }
+  }
+]
