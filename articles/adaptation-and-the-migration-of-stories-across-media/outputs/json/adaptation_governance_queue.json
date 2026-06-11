@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "9c969023335ff419",
+    "card_type": "adaptation_governance",
+    "article_title": "Adaptation and the Migration of Stories Across Media",
+    "article_slug": "adaptation-and-the-migration-of-stories-across-media",
+    "item": "Novel to film adaptation",
+    "adaptation_context": "literary interiority to cinematic image sound and performance",
+    "scores": {
+      "adaptation_integrity": 0.7467,
+      "transfer_loss": 0.4624,
+      "franchise_drift": 0.3372,
+      "ai_adaptation_risk": 0.378,
+      "consent_and_context_strength": 0.7133,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority adaptation review recommended before reuse. Review interiority loss and verify medium-specific transformation choices."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "0c2ce766425cc0cc",
+    "card_type": "adaptation_governance",
+    "article_title": "Adaptation and the Migration of Stories Across Media",
+    "article_slug": "adaptation-and-the-migration-of-stories-across-media",
+    "item": "Franchise reboot",
+    "adaptation_context": "brand continuity reset and nostalgia-driven remake audit",
+    "scores": {
+      "adaptation_integrity": 0.5667,
+      "transfer_loss": 0.514,
+      "franchise_drift": 0.7872,
+      "ai_adaptation_risk": 0.4568,
+      "consent_and_context_strength": 0.5367,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority adaptation governance review required. Adaptation integrity is limited. Strengthen source-core preservation, medium fit, transformation purpose, context preservation, reception value, and ethical governance. Franchise drift is elevated. Review repetition, lore excess, nostalgia reliance, continuity saturation, market overextension, and weak story purpose. Consent/context strength is limited. Review authorization, source authority, cultural context, provenance, and governance. Escalate. Reboot appears driven by brand recognition and nostalgia more than story purpose."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "624b99dbc73ae34a",
+    "card_type": "adaptation_governance",
+    "article_title": "Adaptation and the Migration of Stories Across Media",
+    "article_slug": "adaptation-and-the-migration-of-stories-across-media",
+    "item": "AI-generated adaptation treatment",
+    "adaptation_context": "automated source summary to screenplay outline",
+    "scores": {
+      "adaptation_integrity": 0.4333,
+      "transfer_loss": 0.7556,
+      "franchise_drift": 0.6972,
+      "ai_adaptation_risk": 0.8472,
+      "consent_and_context_strength": 0.3333,
+      "governance_priority_score": 0.7439
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority adaptation governance review required. Adaptation integrity is limited. Strengthen source-core preservation, medium fit, transformation purpose, context preservation, reception value, and ethical governance. Transfer loss is elevated. Review voice loss, interiority loss, context loss, provenance loss, agency loss, and governance review. Franchise drift is elevated. Review repetition, lore excess, nostalgia reliance, continuity saturation, market overextension, and weak story purpose. AI adaptation risk is elevated. Review plot-summary dependence, voice/style imitation, context loss, synthetic opacity, uncertainty erasure, and human review. Consent/context strength is limited. Review authorization, source authority, cultural context, provenance, and governance. Escalate. Generated adaptation preserves plot shape while losing voice, context, provenance, and human judgment."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "0676220626af6d2e",
+    "card_type": "adaptation_governance",
+    "article_title": "Adaptation and the Migration of Stories Across Media",
+    "article_slug": "adaptation-and-the-migration-of-stories-across-media",
+    "item": "Community oral story to exhibit",
+    "adaptation_context": "oral memory to public museum installation",
+    "scores": {
+      "adaptation_integrity": 0.7667,
+      "transfer_loss": 0.3516,
+      "franchise_drift": 0.2104,
+      "ai_adaptation_risk": 0.2816,
+      "consent_and_context_strength": 0.8367,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "community review",
+      "status": "review",
+      "governance_note": "Medium-priority adaptation review recommended before reuse. Strong governance model. Preserve voice metadata, speaker authority, and community protocols."
+    }
+  }
+]

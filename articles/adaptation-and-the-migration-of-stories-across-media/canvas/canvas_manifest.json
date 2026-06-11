@@ -1,0 +1,39 @@
+{
+  "canvas_module": "adaptation_governance_canvas",
+  "article_title": "Adaptation and the Migration of Stories Across Media",
+  "article_slug": "adaptation-and-the-migration-of-stories-across-media",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for adaptation integrity, transfer loss, franchise drift, consent/context strength, and AI adaptation risk.",
+  "inputs": [
+    "adaptation_governance_claims",
+    "adaptation_integrity_notes",
+    "transfer_loss_notes",
+    "franchise_drift_notes",
+    "ai_adaptation_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "adaptation_governance_audit.csv",
+    "adaptation_governance_queue.csv",
+    "adaptation_governance_canvas_cards.json",
+    "adaptation_governance_queue.json",
+    "adaptation_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "adaptation integrity",
+      "medium fit",
+      "transfer loss",
+      "franchise drift",
+      "consent clarity",
+      "source authority",
+      "cultural context",
+      "AI adaptation risk",
+      "human review"
+    ]
+  }
+}

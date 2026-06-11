@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Adaptation Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "adaptation_context",
+    "adaptation_integrity",
+    "transfer_loss",
+    "franchise_drift",
+    "ai_adaptation_risk",
+    "consent_and_context_strength",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "adaptation_context": {"type": "string"},
+    "adaptation_integrity": {"type": "number"},
+    "transfer_loss": {"type": "number"},
+    "franchise_drift": {"type": "number"},
+    "ai_adaptation_risk": {"type": "number"},
+    "consent_and_context_strength": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

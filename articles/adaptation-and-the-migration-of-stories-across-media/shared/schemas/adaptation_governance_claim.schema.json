@@ -1,0 +1,12 @@
+{
+  "title": "Adaptation Governance Claim",
+  "type": "object",
+  "required": ["item", "adaptation_context", "source_core_preservation", "medium_fit", "transformation_purpose"],
+  "properties": {
+    "item": {"type": "string"},
+    "adaptation_context": {"type": "string"},
+    "source_core_preservation": {"type": "number", "minimum": 0, "maximum": 1},
+    "medium_fit": {"type": "number", "minimum": 0, "maximum": 1},
+    "transformation_purpose": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
