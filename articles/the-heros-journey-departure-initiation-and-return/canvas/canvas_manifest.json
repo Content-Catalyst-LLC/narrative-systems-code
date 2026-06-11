@@ -1,0 +1,37 @@
+{
+  "canvas_module": "heros_journey_canvas",
+  "article_title": "The Hero's Journey: Departure, Initiation, and Return",
+  "article_slug": "the-heros-journey-departure-initiation-and-return",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready audit module for hero's journey structure, transformation depth, return responsibility, formula drift, source specificity, counterexamples, and ethical governance.",
+  "inputs": [
+    "heros_journey_claims",
+    "journey_movements",
+    "transformation_features",
+    "return_responsibility_notes",
+    "formula_drift_risks",
+    "heros_journey_governance_notes"
+  ],
+  "outputs": [
+    "heros_journey_audit.csv",
+    "heros_journey_governance_queue.csv",
+    "heros_journey_canvas_cards.json",
+    "heros_journey_governance_queue.json",
+    "heros_journey_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "departure",
+      "initiation",
+      "return",
+      "transformation depth",
+      "return responsibility",
+      "formula drift",
+      "source context",
+      "counterexamples",
+      "ethical risk"
+    ]
+  }
+}

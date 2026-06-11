@@ -1,0 +1,6 @@
+item,claim_context,journey_structure,transformation_depth,return_responsibility,specificity_preservation,formula_drift,interpretation_readiness,governance_priority_score,review_priority,owner,status
+Corporate hero narrative,brand story using hero journey,0.717,0.34,0.24,0.19,0.888,0.218,0.81,high,governance,revise
+Coming-of-age film,popular media transformation arc,0.717,0.71,0.53,0.47,0.615,0.534,0.543,high,story review,review
+Collective movement story,public narrative and shared agency,0.61,0.77,0.82,0.62,0.47,0.724,0.565,medium,public narrative review,active
+Memoir of recovery,descent return and testimony,0.687,0.79,0.75,0.52,0.37,0.752,0.512,medium,ethics review,active
+Quest narrative,source-tradition transformation story,0.823,0.77,0.72,0.74,0.34,0.732,0.454,standard,editorial,active

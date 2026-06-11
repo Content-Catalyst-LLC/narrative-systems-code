@@ -1,0 +1,6 @@
+item,claim_context,departure_pattern,threshold_crossing,initiation_trial,descent_symbolic_death,boon,return_pattern,transformation_depth,return_responsibility,specificity_preservation,stage_literalism,beat_matching,context_loss,overfitting,universal_claim_strength,counterexample_inclusion,method_limits,ethics_governance,uncertainty_marking,community_sensitivity,public_consequence,owner,status
+Quest narrative,source-tradition transformation story,0.90,0.86,0.84,0.74,0.78,0.82,0.77,0.72,0.74,0.34,0.30,0.32,0.36,0.46,0.74,0.72,0.76,0.70,0.72,0.62,editorial,active
+Coming-of-age film,popular media transformation arc,0.82,0.78,0.74,0.56,0.64,0.76,0.71,0.53,0.47,0.64,0.70,0.56,0.68,0.66,0.58,0.56,0.54,0.52,0.42,0.70,story review,review
+Memoir of recovery,descent return and testimony,0.66,0.70,0.74,0.82,0.62,0.58,0.79,0.75,0.52,0.42,0.36,0.44,0.40,0.38,0.82,0.80,0.78,0.84,0.86,0.76,ethics review,active
+Collective movement story,public narrative and shared agency,0.58,0.62,0.70,0.52,0.60,0.64,0.77,0.82,0.62,0.54,0.50,0.46,0.48,0.58,0.78,0.76,0.74,0.72,0.88,0.90,public narrative review,active
+Corporate hero narrative,brand story using hero journey,0.82,0.72,0.68,0.46,0.78,0.84,0.34,0.24,0.19,0.92,0.88,0.86,0.90,0.94,0.18,0.22,0.24,0.26,0.70,0.88,governance,revise

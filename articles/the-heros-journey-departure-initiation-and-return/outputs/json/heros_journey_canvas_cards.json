@@ -1,0 +1,72 @@
+[
+  {
+    "item": "Corporate hero narrative",
+    "claim_context": "brand story using hero journey",
+    "journey_structure": 0.717,
+    "transformation_depth": 0.34,
+    "return_responsibility": 0.24,
+    "specificity_preservation": 0.19,
+    "formula_drift": 0.888,
+    "interpretation_readiness": 0.218,
+    "governance_priority_score": 0.81,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "revise"
+  },
+  {
+    "item": "Coming-of-age film",
+    "claim_context": "popular media transformation arc",
+    "journey_structure": 0.717,
+    "transformation_depth": 0.71,
+    "return_responsibility": 0.53,
+    "specificity_preservation": 0.47,
+    "formula_drift": 0.615,
+    "interpretation_readiness": 0.534,
+    "governance_priority_score": 0.543,
+    "review_priority": "high",
+    "owner": "story review",
+    "status": "review"
+  },
+  {
+    "item": "Collective movement story",
+    "claim_context": "public narrative and shared agency",
+    "journey_structure": 0.61,
+    "transformation_depth": 0.77,
+    "return_responsibility": 0.82,
+    "specificity_preservation": 0.62,
+    "formula_drift": 0.47,
+    "interpretation_readiness": 0.724,
+    "governance_priority_score": 0.565,
+    "review_priority": "medium",
+    "owner": "public narrative review",
+    "status": "active"
+  },
+  {
+    "item": "Memoir of recovery",
+    "claim_context": "descent return and testimony",
+    "journey_structure": 0.687,
+    "transformation_depth": 0.79,
+    "return_responsibility": 0.75,
+    "specificity_preservation": 0.52,
+    "formula_drift": 0.37,
+    "interpretation_readiness": 0.752,
+    "governance_priority_score": 0.512,
+    "review_priority": "medium",
+    "owner": "ethics review",
+    "status": "active"
+  },
+  {
+    "item": "Quest narrative",
+    "claim_context": "source-tradition transformation story",
+    "journey_structure": 0.823,
+    "transformation_depth": 0.77,
+    "return_responsibility": 0.72,
+    "specificity_preservation": 0.74,
+    "formula_drift": 0.34,
+    "interpretation_readiness": 0.732,
+    "governance_priority_score": 0.454,
+    "review_priority": "standard",
+    "owner": "editorial",
+    "status": "active"
+  }
+]

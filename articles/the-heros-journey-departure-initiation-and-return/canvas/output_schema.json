@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Hero's Journey Canvas Output",
+  "type": "object",
+  "required": ["item", "claim_context", "journey_structure", "transformation_depth", "return_responsibility", "formula_drift", "interpretation_readiness", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "journey_structure": {"type": "number"},
+    "transformation_depth": {"type": "number"},
+    "return_responsibility": {"type": "number"},
+    "specificity_preservation": {"type": "number"},
+    "formula_drift": {"type": "number"},
+    "interpretation_readiness": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

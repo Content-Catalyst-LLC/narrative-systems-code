@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Hero's Journey Canvas Input",
+  "type": "object",
+  "required": ["item", "claim_context", "departure_pattern", "threshold_crossing", "return_pattern", "method_limits"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "departure_pattern": {"type": "number", "minimum": 0, "maximum": 1},
+    "threshold_crossing": {"type": "number", "minimum": 0, "maximum": 1},
+    "initiation_trial": {"type": "number", "minimum": 0, "maximum": 1},
+    "descent_symbolic_death": {"type": "number", "minimum": 0, "maximum": 1},
+    "boon": {"type": "number", "minimum": 0, "maximum": 1},
+    "return_pattern": {"type": "number", "minimum": 0, "maximum": 1},
+    "transformation_depth": {"type": "number", "minimum": 0, "maximum": 1},
+    "return_responsibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "specificity_preservation": {"type": "number", "minimum": 0, "maximum": 1},
+    "stage_literalism": {"type": "number", "minimum": 0, "maximum": 1},
+    "beat_matching": {"type": "number", "minimum": 0, "maximum": 1},
+    "context_loss": {"type": "number", "minimum": 0, "maximum": 1},
+    "overfitting": {"type": "number", "minimum": 0, "maximum": 1},
+    "universal_claim_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "counterexample_inclusion": {"type": "number", "minimum": 0, "maximum": 1},
+    "method_limits": {"type": "number", "minimum": 0, "maximum": 1},
+    "ethics_governance": {"type": "number", "minimum": 0, "maximum": 1},
+    "uncertainty_marking": {"type": "number", "minimum": 0, "maximum": 1},
+    "community_sensitivity": {"type": "number", "minimum": 0, "maximum": 1},
+    "public_consequence": {"type": "number", "minimum": 0, "maximum": 1},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}
