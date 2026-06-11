@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Comparative Story Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "comparison_context",
+    "comparative_integrity",
+    "flattening_risk",
+    "transmission_uncertainty",
+    "contextual_grounding",
+    "ai_comparative_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "comparison_context": {"type": "string"},
+    "comparative_integrity": {"type": "number"},
+    "flattening_risk": {"type": "number"},
+    "transmission_uncertainty": {"type": "number"},
+    "contextual_grounding": {"type": "number"},
+    "ai_comparative_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

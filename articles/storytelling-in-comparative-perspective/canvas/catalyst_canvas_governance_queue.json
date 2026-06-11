@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "040d76f5c1c000de",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Storytelling in Comparative Perspective",
+    "article_slug": "storytelling-in-comparative-perspective",
+    "module_name": "catalyst_canvas",
+    "item": "Flattening and template capture review",
+    "claim_context": "universalism template capture context loss archive bias and power imbalance audit",
+    "scores": {
+      "domain_strength": 0.928,
+      "risk_score": 0.7512,
+      "interpretation_readiness": 0.846,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate comparative claims that force story traditions into familiar universal templates without preserving difference."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.88,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.74,
+        "overgeneralization": 0.82,
+        "formula_drift": 0.72,
+        "power_blindness": 0.78,
+        "missing_counterexamples": 0.7
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.86,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "7a203838b23e0734",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Storytelling in Comparative Perspective",
+    "article_slug": "storytelling-in-comparative-perspective",
+    "module_name": "catalyst_canvas",
+    "item": "AI comparative storytelling governance",
+    "claim_context": "motif clustering translation corpus bias sacred material and AI overgeneralization audit",
+    "scores": {
+      "domain_strength": 0.912,
+      "risk_score": 0.8158,
+      "interpretation_readiness": 0.8294,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review machine comparison for uneven corpora, hallucinated sources, translation loss, sacred/restricted material, overgeneralization, and lack of expert review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.78,
+        "overgeneralization": 0.86,
+        "formula_drift": 0.78,
+        "power_blindness": 0.84,
+        "missing_counterexamples": 0.82
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]

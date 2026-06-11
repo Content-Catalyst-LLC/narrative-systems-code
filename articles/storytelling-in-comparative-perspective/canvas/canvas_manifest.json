@@ -1,0 +1,40 @@
+{
+  "canvas_module": "comparative_story_governance_canvas",
+  "article_title": "Storytelling in Comparative Perspective",
+  "article_slug": "storytelling-in-comparative-perspective",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for comparative integrity, flattening risk, transmission uncertainty, contextual grounding, and AI comparative risk.",
+  "inputs": [
+    "comparative_story_governance_claims",
+    "comparative_integrity_notes",
+    "flattening_risk_notes",
+    "transmission_uncertainty_notes",
+    "ai_comparative_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "comparative_story_governance_audit.csv",
+    "comparative_story_governance_queue.csv",
+    "comparative_story_governance_canvas_cards.json",
+    "comparative_story_governance_queue.json",
+    "comparative_story_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "source context",
+      "difference preservation",
+      "translation reliability",
+      "protocol compliance",
+      "archive power",
+      "flattening risk",
+      "transmission uncertainty",
+      "local interpretation",
+      "AI comparative risk",
+      "expert review"
+    ]
+  }
+}

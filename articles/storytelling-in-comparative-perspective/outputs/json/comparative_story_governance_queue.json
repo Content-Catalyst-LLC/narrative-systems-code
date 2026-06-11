@@ -1,0 +1,71 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "e4cf303afd68a75c",
+    "card_type": "comparative_story_governance",
+    "article_title": "Storytelling in Comparative Perspective",
+    "article_slug": "storytelling-in-comparative-perspective",
+    "item": "Flood story comparison",
+    "comparison_context": "cross-cultural comparison of flood narratives across mythic ecological and covenant contexts",
+    "scores": {
+      "comparative_integrity": 0.75,
+      "flattening_risk": 0.4436,
+      "transmission_uncertainty": 0.4748,
+      "contextual_grounding": 0.7267,
+      "ai_comparative_risk": 0.362,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority comparative narrative review recommended. Useful comparison if ecological, ritual, theological, and transmission contexts remain distinct."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "0de2091434bcd6b1",
+    "card_type": "comparative_story_governance",
+    "article_title": "Storytelling in Comparative Perspective",
+    "article_slug": "storytelling-in-comparative-perspective",
+    "item": "Forced hero template",
+    "comparison_context": "reading multiple oral ritual and epic traditions as one universal hero journey",
+    "scores": {
+      "comparative_integrity": 0.39,
+      "flattening_risk": 0.8272,
+      "transmission_uncertainty": 0.656,
+      "contextual_grounding": 0.3767,
+      "ai_comparative_risk": 0.6844,
+      "governance_priority_score": 0.7222
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority comparative story governance review required. Comparative integrity is limited. Strengthen source context, difference preservation, evidence, translation reliability, protocol compliance, and human review. Flattening risk is elevated. Review universalism claims, template capture, context loss, archive bias, power imbalance, and difference preservation. Transmission uncertainty is elevated. Review language gap, media shift, archive gap, performance loss, restricted-source concern, and version documentation. Contextual grounding is limited. Review local interpretation, community review, attribution, corpus balance, source context, and protocol compliance. AI comparative risk is elevated. Review corpus bias, hallucinated sources, translation loss, sacred-material risk, overgeneralized claims, and expert review. Escalate. Template capture and universalism claims overwhelm source context and difference preservation."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "174193b5b6d94b5f",
+    "card_type": "comparative_story_governance",
+    "article_title": "Storytelling in Comparative Perspective",
+    "article_slug": "storytelling-in-comparative-perspective",
+    "item": "AI motif clustering",
+    "comparison_context": "machine-assisted comparison of folktale motifs across uneven translated corpora",
+    "scores": {
+      "comparative_integrity": 0.4467,
+      "flattening_risk": 0.716,
+      "transmission_uncertainty": 0.6916,
+      "contextual_grounding": 0.4033,
+      "ai_comparative_risk": 0.804,
+      "governance_priority_score": 0.7095
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority comparative story governance review required. Comparative integrity is limited. Strengthen source context, difference preservation, evidence, translation reliability, protocol compliance, and human review. Flattening risk is elevated. Review universalism claims, template capture, context loss, archive bias, power imbalance, and difference preservation. Transmission uncertainty is elevated. Review language gap, media shift, archive gap, performance loss, restricted-source concern, and version documentation. Contextual grounding is limited. Review local interpretation, community review, attribution, corpus balance, source context, and protocol compliance. AI comparative risk is elevated. Review corpus bias, hallucinated sources, translation loss, sacred-material risk, overgeneralized claims, and expert review. Escalate. Uneven corpora, translation loss, archive bias, and overgeneralized AI claims require expert review."
+    }
+  }
+]
