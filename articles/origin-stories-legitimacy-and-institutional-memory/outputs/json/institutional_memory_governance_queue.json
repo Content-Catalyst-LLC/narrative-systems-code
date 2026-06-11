@@ -1,0 +1,71 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "b0a48fa08896b1f6",
+    "card_type": "institutional_memory_governance",
+    "article_title": "Origin Stories, Legitimacy, and Institutional Memory",
+    "article_slug": "origin-stories-legitimacy-and-institutional-memory",
+    "item": "Founder-centered anniversary story",
+    "claim_context": "commemoration and founder heroization audit",
+    "scores": {
+      "legitimacy_alignment": 0.54,
+      "origin_myth_risk": 0.82,
+      "institutional_memory_strength": 0.5367,
+      "reform_credibility": 0.31,
+      "ai_memory_distortion_risk": 0.6528,
+      "governance_priority_score": 0.6702
+    },
+    "review": {
+      "priority": "high",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "High-priority institutional-memory governance review required. Origin-myth risk is elevated. Review founder heroization, exclusion omission, harm removal, commemoration saturation, reputational branding, and voice multiplicity. Institutional memory is limited. Strengthen record preservation, archive completeness, metadata quality, testimony stewardship, knowledge retention, and public access. Reform credibility is limited. Strengthen harm naming, structural change, evidence release, material repair, oversight, and transparent progress. AI-memory distortion risk is elevated. Review summary dependence, archive bias, context loss, correction pathways, and public access. Review founder heroization, exclusion omission, and weak voice multiplicity."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "5af7416fc9252506",
+    "card_type": "institutional_memory_governance",
+    "article_title": "Origin Stories, Legitimacy, and Institutional Memory",
+    "article_slug": "origin-stories-legitimacy-and-institutional-memory",
+    "item": "Public apology after institutional harm",
+    "claim_context": "reform credibility and archive accountability audit",
+    "scores": {
+      "legitimacy_alignment": 0.76,
+      "origin_myth_risk": 0.444,
+      "institutional_memory_strength": 0.74,
+      "reform_credibility": 0.7633,
+      "ai_memory_distortion_risk": 0.448,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Maintain evidence release, testimony stewardship, oversight, and transparent progress tracking."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "b1263dbe7c3842db",
+    "card_type": "institutional_memory_governance",
+    "article_title": "Origin Stories, Legitimacy, and Institutional Memory",
+    "article_slug": "origin-stories-legitimacy-and-institutional-memory",
+    "item": "AI-generated institutional history",
+    "claim_context": "automated memory summary and archive-bias audit",
+    "scores": {
+      "legitimacy_alignment": 0.4333,
+      "origin_myth_risk": 0.7292,
+      "institutional_memory_strength": 0.43,
+      "reform_credibility": 0.2733,
+      "ai_memory_distortion_risk": 0.8196,
+      "governance_priority_score": 0.7088
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority institutional-memory governance review required. Origin-myth risk is elevated. Review founder heroization, exclusion omission, harm removal, commemoration saturation, reputational branding, and voice multiplicity. Institutional memory is limited. Strengthen record preservation, archive completeness, metadata quality, testimony stewardship, knowledge retention, and public access. Reform credibility is limited. Strengthen harm naming, structural change, evidence release, material repair, oversight, and transparent progress. AI-memory distortion risk is elevated. Review summary dependence, archive bias, context loss, correction pathways, and public access. Escalate. AI summary may smooth institutional contradiction and omit affected-community testimony."
+    }
+  }
+]

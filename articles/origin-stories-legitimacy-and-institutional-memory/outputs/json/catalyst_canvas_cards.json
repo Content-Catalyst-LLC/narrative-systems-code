@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "65f5c1dac7363114",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Origin Stories, Legitimacy, and Institutional Memory",
+    "article_slug": "origin-stories-legitimacy-and-institutional-memory",
+    "module_name": "catalyst_canvas",
+    "item": "Institutional origin story core claim",
+    "claim_context": "article level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.928,
+      "risk_score": 0.4,
+      "interpretation_readiness": 0.8694,
+      "governance_priority_score": 0.2401
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core claim about origin stories as legitimacy and memory governance is suitable for Canvas reuse after standard review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.9,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.9,
+        "ethical_framing": 0.96,
+        "governance_value": 0.96
+      },
+      "risk_signals": {
+        "context_loss": 0.36,
+        "overgeneralization": 0.42,
+        "formula_drift": 0.38,
+        "power_blindness": 0.44,
+        "missing_counterexamples": 0.4
+      },
+      "readiness_signals": {
+        "method_limits": 0.9,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.82
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "d6ae940c5a98ece1",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Origin Stories, Legitimacy, and Institutional Memory",
+    "article_slug": "origin-stories-legitimacy-and-institutional-memory",
+    "module_name": "catalyst_canvas",
+    "item": "Origin myth and founder heroization review",
+    "claim_context": "founder-centered memory exclusion omission and reputational branding audit",
+    "scores": {
+      "domain_strength": 0.916,
+      "risk_score": 0.7008,
+      "interpretation_readiness": 0.8579,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate founding stories that erase affected communities, conflict, labor, harm, or dissent."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.86,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.96
+      },
+      "risk_signals": {
+        "context_loss": 0.62,
+        "overgeneralization": 0.72,
+        "formula_drift": 0.64,
+        "power_blindness": 0.8,
+        "missing_counterexamples": 0.72
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.9,
+        "review_owner": 0.86,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "17be89f72833f6c0",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Origin Stories, Legitimacy, and Institutional Memory",
+    "article_slug": "origin-stories-legitimacy-and-institutional-memory",
+    "module_name": "catalyst_canvas",
+    "item": "AI memory distortion governance",
+    "claim_context": "automated institutional history and archive bias audit",
+    "scores": {
+      "domain_strength": 0.908,
+      "risk_score": 0.765,
+      "interpretation_readiness": 0.8332,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review AI-generated institutional memory for smoothing, source omission, archive bias, missing testimony, and weak correction pathways."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.76,
+        "overgeneralization": 0.76,
+        "formula_drift": 0.72,
+        "power_blindness": 0.84,
+        "missing_counterexamples": 0.74
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.72
+      }
+    }
+  }
+]

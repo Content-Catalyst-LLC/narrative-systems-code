@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Institutional Memory Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "legitimacy_alignment",
+    "origin_myth_risk",
+    "institutional_memory_strength",
+    "reform_credibility",
+    "ai_memory_distortion_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "legitimacy_alignment": {"type": "number"},
+    "origin_myth_risk": {"type": "number"},
+    "institutional_memory_strength": {"type": "number"},
+    "reform_credibility": {"type": "number"},
+    "ai_memory_distortion_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "canvas_module": "institutional_memory_governance_canvas",
+  "article_title": "Origin Stories, Legitimacy, and Institutional Memory",
+  "article_slug": "origin-stories-legitimacy-and-institutional-memory",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for legitimacy alignment, origin-myth risk, institutional-memory strength, reform credibility, archival accountability, and AI-mediated memory distortion.",
+  "inputs": [
+    "institutional_memory_governance_claims",
+    "legitimacy_alignment_notes",
+    "origin_myth_risk_notes",
+    "institutional_memory_notes",
+    "ai_memory_distortion_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "institutional_memory_governance_audit.csv",
+    "institutional_memory_governance_queue.csv",
+    "institutional_memory_governance_canvas_cards.json",
+    "institutional_memory_governance_queue.json",
+    "institutional_memory_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "legitimacy alignment",
+      "origin myth risk",
+      "institutional memory strength",
+      "reform credibility",
+      "archival accountability",
+      "affected-community testimony",
+      "AI memory distortion",
+      "public access",
+      "record evidence",
+      "voice multiplicity"
+    ]
+  }
+}
