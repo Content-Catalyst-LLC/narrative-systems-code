@@ -1,0 +1,12 @@
+{
+  "title": "Fragmented Narrative Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "temporal_rupture", "gap_marking", "silence_respect"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "temporal_rupture": {"type": "number", "minimum": 0, "maximum": 1},
+    "gap_marking": {"type": "number", "minimum": 0, "maximum": 1},
+    "silence_respect": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

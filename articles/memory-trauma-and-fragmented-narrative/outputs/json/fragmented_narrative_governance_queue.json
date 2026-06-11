@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "94ba1e11b1164ab5",
+    "card_type": "memory_trauma_fragmented_narrative",
+    "article_title": "Memory, Trauma, and Fragmented Narrative",
+    "article_slug": "memory-trauma-and-fragmented-narrative",
+    "item": "Survivor testimony",
+    "claim_context": "fragmented witness memory and consent audit",
+    "scores": {
+      "fragmentation_sensitivity": 0.8567,
+      "witness_care": 0.8633,
+      "trauma_narrative_risk": 0.458,
+      "interpretation_readiness": 0.86,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Protect witness dignity and avoid forcing complete chronology."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "1f2ea62699fa5540",
+    "card_type": "memory_trauma_fragmented_narrative",
+    "article_title": "Memory, Trauma, and Fragmented Narrative",
+    "article_slug": "memory-trauma-and-fragmented-narrative",
+    "item": "Institutional apology",
+    "claim_context": "closure language accountability and public repair audit",
+    "scores": {
+      "fragmentation_sensitivity": 0.63,
+      "witness_care": 0.55,
+      "trauma_narrative_risk": 0.6916,
+      "interpretation_readiness": 0.7267,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority fragmented-narrative governance review required. Trauma-narrative risk is elevated; review forced coherence, redemptive shortcut, extraction risk, identity reduction, and spectacle pressure. Witness-care signals are limited; strengthen consent, agency, privacy, relational context, safety framing, and boundary discipline. Escalate premature closure and institutional self-protection."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "d17d322d59eb0824",
+    "card_type": "memory_trauma_fragmented_narrative",
+    "article_title": "Memory, Trauma, and Fragmented Narrative",
+    "article_slug": "memory-trauma-and-fragmented-narrative",
+    "item": "Digital trauma circulation",
+    "claim_context": "viral testimony context collapse and platform risk audit",
+    "scores": {
+      "fragmentation_sensitivity": 0.7267,
+      "witness_care": 0.6033,
+      "trauma_narrative_risk": 0.6784,
+      "interpretation_readiness": 0.8033,
+      "governance_priority_score": 0.5523
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Trauma-narrative risk is elevated; review forced coherence, redemptive shortcut, extraction risk, identity reduction, and spectacle pressure. Witness-care signals are limited; strengthen consent, agency, privacy, relational context, safety framing, and boundary discipline. Review consent reuse harassment algorithmic amplification and context collapse."
+    }
+  }
+]

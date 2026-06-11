@@ -1,0 +1,40 @@
+{
+  "canvas_module": "fragmented_narrative_canvas",
+  "article_title": "Memory, Trauma, and Fragmented Narrative",
+  "article_slug": "memory-trauma-and-fragmented-narrative",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Article-specific Canvas module for memory, trauma, fragmented narrative, testimony, witness care, institutional narration, digital trauma circulation, and governance review.",
+  "inputs": [
+    "fragmented_narrative_claims",
+    "testimony_witness_notes",
+    "memory_fragmentation_notes",
+    "institutional_trauma_notes",
+    "digital_trauma_governance_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "fragmented_narrative_audit.csv",
+    "fragmented_narrative_governance_queue.csv",
+    "fragmented_narrative_canvas_cards.json",
+    "fragmented_narrative_governance_queue.json",
+    "fragmented_narrative_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "fragmentation sensitivity",
+      "witness care",
+      "forced coherence",
+      "redemptive shortcut",
+      "extraction risk",
+      "identity reduction",
+      "spectacle pressure",
+      "institutional closure",
+      "digital circulation risk",
+      "method limits"
+    ]
+  }
+}

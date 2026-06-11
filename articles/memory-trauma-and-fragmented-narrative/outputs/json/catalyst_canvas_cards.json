@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "e26c99346f7d87bd",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Memory, Trauma, and Fragmented Narrative",
+    "article_slug": "memory-trauma-and-fragmented-narrative",
+    "module_name": "catalyst_canvas",
+    "item": "Fragmented narrative core claim",
+    "claim_context": "article-level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.892,
+      "risk_score": 0.3404,
+      "interpretation_readiness": 0.8494,
+      "governance_priority_score": 0.2275
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core fragmented narrative claim is suitable for Canvas reuse after standard review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.86,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.92,
+        "governance_value": 0.9
+      },
+      "risk_signals": {
+        "context_loss": 0.3,
+        "overgeneralization": 0.34,
+        "formula_drift": 0.32,
+        "power_blindness": 0.4,
+        "missing_counterexamples": 0.34
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.82,
+        "publication_ready": 0.84
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "c1d04d26cd029cdc",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Memory, Trauma, and Fragmented Narrative",
+    "article_slug": "memory-trauma-and-fragmented-narrative",
+    "module_name": "catalyst_canvas",
+    "item": "Witness ethics review",
+    "claim_context": "risk power counterexample and interpretation-readiness audit",
+    "scores": {
+      "domain_strength": 0.892,
+      "risk_score": 0.4868,
+      "interpretation_readiness": 0.8417,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Escalate claims involving testimony privacy trauma extraction or forced coherence."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.82,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.96,
+        "governance_value": 0.94
+      },
+      "risk_signals": {
+        "context_loss": 0.48,
+        "overgeneralization": 0.44,
+        "formula_drift": 0.4,
+        "power_blindness": 0.62,
+        "missing_counterexamples": 0.48
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.82,
+        "publication_ready": 0.8
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "d5e8cda65781dfaa",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Memory, Trauma, and Fragmented Narrative",
+    "article_slug": "memory-trauma-and-fragmented-narrative",
+    "module_name": "catalyst_canvas",
+    "item": "Institutional trauma reuse",
+    "claim_context": "structured data reuse editorial workflow and future automation audit",
+    "scores": {
+      "domain_strength": 0.856,
+      "risk_score": 0.5634,
+      "interpretation_readiness": 0.7685,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Review institutional trauma narratives for closure language and accountability gaps."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.76,
+        "conceptual_depth": 0.84,
+        "structure_fit": 0.84,
+        "ethical_framing": 0.92,
+        "governance_value": 0.92
+      },
+      "risk_signals": {
+        "context_loss": 0.58,
+        "overgeneralization": 0.52,
+        "formula_drift": 0.46,
+        "power_blindness": 0.7,
+        "missing_counterexamples": 0.54
+      },
+      "readiness_signals": {
+        "method_limits": 0.78,
+        "counterexamples": 0.74,
+        "uncertainty_notes": 0.82,
+        "review_owner": 0.78,
+        "publication_ready": 0.72
+      }
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fragmented Narrative Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "fragmentation_sensitivity",
+    "witness_care",
+    "trauma_narrative_risk",
+    "interpretation_readiness",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "fragmentation_sensitivity": {"type": "number"},
+    "witness_care": {"type": "number"},
+    "trauma_narrative_risk": {"type": "number"},
+    "interpretation_readiness": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}
