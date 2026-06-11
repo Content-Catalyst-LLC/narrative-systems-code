@@ -1,10 +1,8 @@
 # Outputs
 
-Generated workflow outputs are written here.
+Generated outputs for article-level Catalyst Canvas workflows.
 
-- `tables/` contains CSV summaries.
-- `json/` contains Canvas-ready JSON outputs.
-- `markdown/` contains governance queues and review notes.
-- `figures/` contains generated charts.
-
-These outputs are generated from synthetic data and should be interpreted as methodological examples.
+- `tables/` contains CSV audit outputs.
+- `json/` contains Canvas-ready JSON cards and governance queues.
+- `markdown/` contains governance review queues.
+- `figures/` is reserved for generated charts and visual diagnostics.

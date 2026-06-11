@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "article_title": "Myths, Legends, Folktales, and Epics",
+  "article_slug": "myths-legends-folktales-and-epics",
+  "upgrade_date": "2026-06-10",
+  "advanced_python_layer": "python/catalyst_canvas",
+  "runner": "python/run_catalyst_canvas_audit.py",
+  "outputs": [
+    "outputs/tables/catalyst_canvas_audit.csv",
+    "outputs/tables/catalyst_canvas_governance_queue.csv",
+    "outputs/json/catalyst_canvas_cards.json",
+    "outputs/json/catalyst_canvas_governance_queue.json",
+    "outputs/markdown/catalyst_canvas_governance_queue.md"
+  ],
+  "notes": "Additive advanced Catalyst Canvas upgrade. Existing article-specific workflows are preserved."
+}

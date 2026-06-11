@@ -1,0 +1,30 @@
+{
+  "article_title": "Story as a Mode of Human Understanding",
+  "article_slug": "story-as-a-mode-of-human-understanding",
+  "module_name": "catalyst_canvas",
+  "metric_weights": {
+    "source_context": 1.0,
+    "conceptual_depth": 1.0,
+    "structure_fit": 0.8,
+    "ethical_framing": 1.0,
+    "governance_value": 0.9
+  },
+  "risk_weights": {
+    "context_loss": 1.0,
+    "overgeneralization": 0.9,
+    "formula_drift": 0.9,
+    "power_blindness": 1.0,
+    "missing_counterexamples": 0.8
+  },
+  "readiness_weights": {
+    "method_limits": 1.0,
+    "counterexamples": 1.0,
+    "uncertainty_notes": 0.8,
+    "review_owner": 0.7,
+    "publication_ready": 0.9
+  },
+  "thresholds": {
+    "medium": 0.45,
+    "high": 0.62
+  }
+}
