@@ -1,0 +1,39 @@
+{
+  "canvas_module": "alternative_structure_canvas",
+  "article_title": "Alternative Story Structures Beyond the Monomyth",
+  "article_slug": "alternative-story-structures-beyond-the-monomyth",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Article-specific Canvas module for structural plurality, monomyth-overfit risk, alternative story forms, medium fit, and governance review.",
+  "inputs": [
+    "alternative_structure_claims",
+    "structure_taxonomy_notes",
+    "monomyth_overfit_notes",
+    "medium_fit_notes",
+    "digital_structure_governance_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "alternative_structure_audit.csv",
+    "alternative_structure_governance_queue.csv",
+    "alternative_structure_canvas_cards.json",
+    "alternative_structure_governance_queue.json",
+    "alternative_structure_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "structural plurality",
+      "monomyth-overfit risk",
+      "alternative-structure readiness",
+      "medium fit",
+      "care narrative",
+      "archive form",
+      "interactive structure",
+      "cyclical form",
+      "AI template forcing"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "2b767482c47250a9",
+    "card_type": "alternative_story_structure_beyond_monomyth",
+    "article_title": "Alternative Story Structures Beyond the Monomyth",
+    "article_slug": "alternative-story-structures-beyond-the-monomyth",
+    "item": "Caregiving memoir",
+    "claim_context": "relational care structure and monomyth overfit audit",
+    "scores": {
+      "structural_plurality": 0.5571,
+      "monomyth_overfit_risk": 0.6764,
+      "alternative_readiness": 0.8533,
+      "medium_fit": 0.6733,
+      "governance_priority_score": 0.5638
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Monomyth-overfit risk is elevated. Review hero forcing, conflict substitution, return pressure, individualization pressure, template forcing, and evidence visibility. Use relational and care based structure before heroic quest."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "89926907720743b8",
+    "card_type": "alternative_story_structure_beyond_monomyth",
+    "article_title": "Alternative Story Structures Beyond the Monomyth",
+    "article_slug": "alternative-story-structures-beyond-the-monomyth",
+    "item": "Archive novel",
+    "claim_context": "mosaic evidence gap and fragmented structure audit",
+    "scores": {
+      "structural_plurality": 0.6714,
+      "monomyth_overfit_risk": 0.5676,
+      "alternative_readiness": 0.8733,
+      "medium_fit": 0.6867,
+      "governance_priority_score": 0.5536
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Monomyth-overfit risk is elevated. Review hero forcing, conflict substitution, return pressure, individualization pressure, template forcing, and evidence visibility. Structural plurality is strong. Compare arc, cycle, braid, mosaic, network, relational, and fragmented forms before selecting a framework. Preserve gaps and documentary logic. Do not force clean resolution."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "e38dcfd2f3cc4dc2",
+    "card_type": "alternative_story_structure_beyond_monomyth",
+    "article_title": "Alternative Story Structures Beyond the Monomyth",
+    "article_slug": "alternative-story-structures-beyond-the-monomyth",
+    "item": "Interactive fiction",
+    "claim_context": "branching network and player agency audit",
+    "scores": {
+      "structural_plurality": 0.5429,
+      "monomyth_overfit_risk": 0.5052,
+      "alternative_readiness": 0.83,
+      "medium_fit": 0.8433,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority alternative-structure governance review required. Escalate medium fit and agency design review for branching structure."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "b463f88f3bdffc91",
+    "card_type": "alternative_story_structure_beyond_monomyth",
+    "article_title": "Alternative Story Structures Beyond the Monomyth",
+    "article_slug": "alternative-story-structures-beyond-the-monomyth",
+    "item": "Ecological narrative",
+    "claim_context": "cycle feedback and distributed agency audit",
+    "scores": {
+      "structural_plurality": 0.6486,
+      "monomyth_overfit_risk": 0.656,
+      "alternative_readiness": 0.8733,
+      "medium_fit": 0.77,
+      "governance_priority_score": 0.5813
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Monomyth-overfit risk is elevated. Review hero forcing, conflict substitution, return pressure, individualization pressure, template forcing, and evidence visibility. Use ecological cyclic feedback and systems narrative before monomythic climax."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "7c389c339938acbe",
+    "card_type": "alternative_story_structure_beyond_monomyth",
+    "article_title": "Alternative Story Structures Beyond the Monomyth",
+    "article_slug": "alternative-story-structures-beyond-the-monomyth",
+    "item": "Kishotenketsu inspired story",
+    "claim_context": "turn juxtaposition and non conflict structure audit",
+    "scores": {
+      "structural_plurality": 0.4743,
+      "monomyth_overfit_risk": 0.6532,
+      "alternative_readiness": 0.83,
+      "medium_fit": 0.7,
+      "governance_priority_score": 0.5417
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Monomyth-overfit risk is elevated. Review hero forcing, conflict substitution, return pressure, individualization pressure, template forcing, and evidence visibility. Review conflict forcing and preserve turn based structure."
+    }
+  }
+]

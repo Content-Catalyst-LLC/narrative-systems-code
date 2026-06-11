@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "92141f21a7ecbe91",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Alternative Story Structures Beyond the Monomyth",
+    "article_slug": "alternative-story-structures-beyond-the-monomyth",
+    "module_name": "catalyst_canvas",
+    "item": "Alternative structure core claim",
+    "claim_context": "article level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.896,
+      "risk_score": 0.3513,
+      "interpretation_readiness": 0.8532,
+      "governance_priority_score": 0.2302
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core structural pluralism claim is suitable for Canvas reuse after standard review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.88,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.9,
+        "ethical_framing": 0.9,
+        "governance_value": 0.88
+      },
+      "risk_signals": {
+        "context_loss": 0.32,
+        "overgeneralization": 0.36,
+        "formula_drift": 0.34,
+        "power_blindness": 0.38,
+        "missing_counterexamples": 0.36
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.86,
+        "uncertainty_notes": 0.86,
+        "review_owner": 0.84,
+        "publication_ready": 0.82
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "6566b52b1fbbbf22",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Alternative Story Structures Beyond the Monomyth",
+    "article_slug": "alternative-story-structures-beyond-the-monomyth",
+    "module_name": "catalyst_canvas",
+    "item": "Monomyth overfit review",
+    "claim_context": "risk power counterexample and interpretation readiness audit",
+    "scores": {
+      "domain_strength": 0.888,
+      "risk_score": 0.6058,
+      "interpretation_readiness": 0.8498,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate claims involving monomyth overfit hero forcing conflict substitution return pressure or template forcing."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.92,
+        "governance_value": 0.9
+      },
+      "risk_signals": {
+        "context_loss": 0.56,
+        "overgeneralization": 0.62,
+        "formula_drift": 0.7,
+        "power_blindness": 0.5,
+        "missing_counterexamples": 0.64
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.78
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "4398b594f5d9d49f",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Alternative Story Structures Beyond the Monomyth",
+    "article_slug": "alternative-story-structures-beyond-the-monomyth",
+    "module_name": "catalyst_canvas",
+    "item": "Digital structure governance",
+    "claim_context": "structured data reuse editorial workflow and future automation audit",
+    "scores": {
+      "domain_strength": 0.856,
+      "risk_score": 0.6575,
+      "interpretation_readiness": 0.8013,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review AI generated outlines for conventional plot bias and missing alternative structures."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.78,
+        "conceptual_depth": 0.86,
+        "structure_fit": 0.84,
+        "ethical_framing": 0.88,
+        "governance_value": 0.92
+      },
+      "risk_signals": {
+        "context_loss": 0.62,
+        "overgeneralization": 0.68,
+        "formula_drift": 0.72,
+        "power_blindness": 0.56,
+        "missing_counterexamples": 0.7
+      },
+      "readiness_signals": {
+        "method_limits": 0.8,
+        "counterexamples": 0.82,
+        "uncertainty_notes": 0.84,
+        "review_owner": 0.8,
+        "publication_ready": 0.74
+      }
+    }
+  }
+]

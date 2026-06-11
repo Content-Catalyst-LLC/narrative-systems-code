@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Alternative Structure Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "structural_plurality",
+    "monomyth_overfit_risk",
+    "alternative_readiness",
+    "medium_fit",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "structural_plurality": {"type": "number"},
+    "monomyth_overfit_risk": {"type": "number"},
+    "alternative_readiness": {"type": "number"},
+    "medium_fit": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

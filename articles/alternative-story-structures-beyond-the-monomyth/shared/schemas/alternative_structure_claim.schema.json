@@ -1,0 +1,12 @@
+{
+  "title": "Alternative Structure Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "arc_signal", "cycle_signal", "alternative_lens"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "arc_signal": {"type": "number", "minimum": 0, "maximum": 1},
+    "cycle_signal": {"type": "number", "minimum": 0, "maximum": 1},
+    "alternative_lens": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
