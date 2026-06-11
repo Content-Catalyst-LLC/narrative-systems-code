@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "5f2a302b2fddcd4a",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Postcolonial Storytelling and the Politics of Narrative Form",
+    "article_slug": "postcolonial-storytelling-and-the-politics-of-narrative-form",
+    "module_name": "catalyst_canvas",
+    "item": "Colonial form risk review",
+    "claim_context": "archive language gaze and template forcing governance audit",
+    "scores": {
+      "domain_strength": 0.908,
+      "risk_score": 0.6529,
+      "interpretation_readiness": 0.8498,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate claims involving archive dominance language hierarchy colonial gaze and template forcing."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.86,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.96,
+        "governance_value": 0.94
+      },
+      "risk_signals": {
+        "context_loss": 0.56,
+        "overgeneralization": 0.62,
+        "formula_drift": 0.68,
+        "power_blindness": 0.76,
+        "missing_counterexamples": 0.64
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.78
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "f1e22fb818bc8abb",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Postcolonial Storytelling and the Politics of Narrative Form",
+    "article_slug": "postcolonial-storytelling-and-the-politics-of-narrative-form",
+    "module_name": "catalyst_canvas",
+    "item": "Digital coloniality governance",
+    "claim_context": "AI platform archive translation and visual representation audit",
+    "scores": {
+      "domain_strength": 0.884,
+      "risk_score": 0.7246,
+      "interpretation_readiness": 0.8132,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review AI and platform workflows for English dominance stereotype bias extraction risk visual orientalism and weak community governance."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.8,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.84,
+        "ethical_framing": 0.96,
+        "governance_value": 0.94
+      },
+      "risk_signals": {
+        "context_loss": 0.66,
+        "overgeneralization": 0.7,
+        "formula_drift": 0.74,
+        "power_blindness": 0.8,
+        "missing_counterexamples": 0.72
+      },
+      "readiness_signals": {
+        "method_limits": 0.82,
+        "counterexamples": 0.82,
+        "uncertainty_notes": 0.86,
+        "review_owner": 0.82,
+        "publication_ready": 0.74
+      }
+    }
+  }
+]

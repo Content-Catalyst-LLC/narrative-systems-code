@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "01290eb4f090b3bb",
+    "card_type": "postcolonial_narrative_form",
+    "article_title": "Postcolonial Storytelling and the Politics of Narrative Form",
+    "article_slug": "postcolonial-storytelling-and-the-politics-of-narrative-form",
+    "item": "Counter-archive novel",
+    "claim_context": "archive critique and contested memory audit",
+    "scores": {
+      "colonial_form_risk": 0.5732,
+      "postcolonial_form_strength": 0.8143,
+      "translation_governance": 0.8,
+      "digital_coloniality": 0.5896,
+      "governance_priority_score": 0.53
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Colonial-form risk is elevated. Review archive dominance, language hierarchy, gaze centrality, template forcing, extraction anxiety, and opacity protection. Digital coloniality risk is elevated. Review English dominance, stereotype bias, extraction risk, archive flattening, visual orientalism, and community governance. Postcolonial-form strength is high. Preserve voice complexity, language politics, memory fragmentation, archive critique, temporal multiplicity, spatial politics, and land/context relation. Preserve contested archive logic and avoid treating colonial records as neutral evidence."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "027d93ca16631703",
+    "card_type": "postcolonial_narrative_form",
+    "article_title": "Postcolonial Storytelling and the Politics of Narrative Form",
+    "article_slug": "postcolonial-storytelling-and-the-politics-of-narrative-form",
+    "item": "Multilingual diaspora story",
+    "claim_context": "language politics translation opacity and braided identity audit",
+    "scores": {
+      "colonial_form_risk": 0.5216,
+      "postcolonial_form_strength": 0.8057,
+      "translation_governance": 0.8833,
+      "digital_coloniality": 0.5136,
+      "governance_priority_score": 0.475
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Postcolonial-form strength is high. Preserve voice complexity, language politics, memory fragmentation, archive critique, temporal multiplicity, spatial politics, and land/context relation. Preserve multilingual opacity and avoid smoothing diasporic form into assimilation arc."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "faab36b480bae2dc",
+    "card_type": "postcolonial_narrative_form",
+    "article_title": "Postcolonial Storytelling and the Politics of Narrative Form",
+    "article_slug": "postcolonial-storytelling-and-the-politics-of-narrative-form",
+    "item": "AI cultural story generator",
+    "claim_context": "digital coloniality stereotype and template forcing audit",
+    "scores": {
+      "colonial_form_risk": 0.7648,
+      "postcolonial_form_strength": 0.5457,
+      "translation_governance": 0.5467,
+      "digital_coloniality": 0.8228,
+      "governance_priority_score": 0.7231
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority postcolonial narrative-form governance review required. Colonial-form risk is elevated. Review archive dominance, language hierarchy, gaze centrality, template forcing, extraction anxiety, and opacity protection. Digital coloniality risk is elevated. Review English dominance, stereotype bias, extraction risk, archive flattening, visual orientalism, and community governance. Translation governance is limited. Strengthen cultural specificity, local authority, opacity notes, untranslated term handling, reviewer visibility, and harm review. Escalate AI representation review for English dominance stereotype bias extraction risk and visual orientalism."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "e42c2da93c08180e",
+    "card_type": "postcolonial_narrative_form",
+    "article_title": "Postcolonial Storytelling and the Politics of Narrative Form",
+    "article_slug": "postcolonial-storytelling-and-the-politics-of-narrative-form",
+    "item": "Oral memory structure",
+    "claim_context": "oral tradition written form and communal authority audit",
+    "scores": {
+      "colonial_form_risk": 0.5068,
+      "postcolonial_form_strength": 0.8086,
+      "translation_governance": 0.8567,
+      "digital_coloniality": 0.5908,
+      "governance_priority_score": 0.4972
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Digital coloniality risk is elevated. Review English dominance, stereotype bias, extraction risk, archive flattening, visual orientalism, and community governance. Postcolonial-form strength is high. Preserve voice complexity, language politics, memory fragmentation, archive critique, temporal multiplicity, spatial politics, and land/context relation. Preserve oral tradition as structure and knowledge rather than local color."
+    }
+  }
+]

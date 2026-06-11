@@ -1,0 +1,40 @@
+{
+  "canvas_module": "postcolonial_narrative_form_canvas",
+  "article_title": "Postcolonial Storytelling and the Politics of Narrative Form",
+  "article_slug": "postcolonial-storytelling-and-the-politics-of-narrative-form",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Article-specific Canvas module for colonial-form risk, postcolonial-form strength, translation governance, digital coloniality, counter-archive analysis, language politics, and AI-mediated representation review.",
+  "inputs": [
+    "postcolonial_narrative_form_claims",
+    "colonial_form_risk_notes",
+    "language_translation_notes",
+    "counter_archive_notes",
+    "digital_coloniality_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "postcolonial_narrative_form_audit.csv",
+    "postcolonial_narrative_form_governance_queue.csv",
+    "postcolonial_narrative_form_canvas_cards.json",
+    "postcolonial_narrative_form_governance_queue.json",
+    "postcolonial_narrative_form_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "colonial-form risk",
+      "postcolonial-form strength",
+      "translation governance",
+      "digital coloniality",
+      "archive dominance",
+      "language hierarchy",
+      "gaze centrality",
+      "template forcing",
+      "opacity protection",
+      "community governance"
+    ]
+  }
+}

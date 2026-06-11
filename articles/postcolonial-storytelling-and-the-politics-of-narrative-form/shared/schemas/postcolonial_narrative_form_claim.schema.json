@@ -1,0 +1,12 @@
+{
+  "title": "Postcolonial Narrative Form Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "archive_dominance", "language_hierarchy", "opacity_protection"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "archive_dominance": {"type": "number", "minimum": 0, "maximum": 1},
+    "language_hierarchy": {"type": "number", "minimum": 0, "maximum": 1},
+    "opacity_protection": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
