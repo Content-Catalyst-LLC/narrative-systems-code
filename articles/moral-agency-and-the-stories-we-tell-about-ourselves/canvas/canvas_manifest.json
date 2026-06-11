@@ -1,0 +1,40 @@
+{
+  "canvas_module": "moral_agency_canvas",
+  "article_title": "Moral Agency and the Stories We Tell About Ourselves",
+  "article_slug": "moral-agency-and-the-stories-we-tell-about-ourselves",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Article-specific Canvas module for moral agency, self-narration, responsibility, excuse risk, repair readiness, witness visibility, digital moral selfhood, and governance review.",
+  "inputs": [
+    "moral_agency_claims",
+    "apology_repair_notes",
+    "excuse_risk_notes",
+    "public_moral_narrative_notes",
+    "digital_moral_selfhood_governance_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "moral_agency_audit.csv",
+    "moral_agency_governance_queue.csv",
+    "moral_agency_canvas_cards.json",
+    "moral_agency_governance_queue.json",
+    "moral_agency_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "moral clarity",
+      "excuse risk",
+      "repair readiness",
+      "harm marking",
+      "other-person visibility",
+      "context overuse",
+      "intention shielding",
+      "victimhood shielding",
+      "growth substitution",
+      "digital moral selfhood"
+    ]
+  }
+}

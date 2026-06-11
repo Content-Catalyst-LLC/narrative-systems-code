@@ -1,0 +1,112 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "1816b2df612ab957",
+    "card_type": "moral_agency_self_narrative",
+    "article_title": "Moral Agency and the Stories We Tell About Ourselves",
+    "article_slug": "moral-agency-and-the-stories-we-tell-about-ourselves",
+    "item": "Personal apology",
+    "claim_context": "action harm repair and accountability audit",
+    "scores": {
+      "moral_clarity": 0.8367,
+      "excuse_risk": 0.3572,
+      "repair_readiness": 0.7967,
+      "interpretation_readiness": 0.82,
+      "governance_priority_score": 0.3574
+    },
+    "review": {
+      "priority": "standard",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard editorial review sufficient. Standard review; check whether repair follows apology."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "d23a9d18cf4b6fa0",
+    "card_type": "moral_agency_self_narrative",
+    "article_title": "Moral Agency and the Stories We Tell About Ourselves",
+    "article_slug": "moral-agency-and-the-stories-we-tell-about-ourselves",
+    "item": "Institutional reform story",
+    "claim_context": "closure language legitimacy and repair audit",
+    "scores": {
+      "moral_clarity": 0.64,
+      "excuse_risk": 0.7048,
+      "repair_readiness": 0.5033,
+      "interpretation_readiness": 0.77,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority moral-agency governance review required. Excuse risk is elevated; review context overuse, intention shielding, victimhood shielding, blame shifting, growth substitution, and harm minimization. Repair readiness is limited; strengthen harm acknowledgment, apology precision, material response, conduct change, future accountability, and oversight. Escalate premature closure and reputation management."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "ce98882f8f2aaf60",
+    "card_type": "moral_agency_self_narrative",
+    "article_title": "Moral Agency and the Stories We Tell About Ourselves",
+    "article_slug": "moral-agency-and-the-stories-we-tell-about-ourselves",
+    "item": "Victimhood shielding",
+    "claim_context": "harm suffered harm caused and agency audit",
+    "scores": {
+      "moral_clarity": 0.6533,
+      "excuse_risk": 0.6652,
+      "repair_readiness": 0.55,
+      "interpretation_readiness": 0.79,
+      "governance_priority_score": 0.5521
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Excuse risk is elevated; review context overuse, intention shielding, victimhood shielding, blame shifting, growth substitution, and harm minimization. Repair readiness is limited; strengthen harm acknowledgment, apology precision, material response, conduct change, future accountability, and oversight. Honor harm suffered while reviewing responsibility for harm caused."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "a133eaf6c62a48b7",
+    "card_type": "moral_agency_self_narrative",
+    "article_title": "Moral Agency and the Stories We Tell About Ourselves",
+    "article_slug": "moral-agency-and-the-stories-we-tell-about-ourselves",
+    "item": "AI-generated apology",
+    "claim_context": "automated moral language and accountability audit",
+    "scores": {
+      "moral_clarity": 0.6133,
+      "excuse_risk": 0.6196,
+      "repair_readiness": 0.47,
+      "interpretation_readiness": 0.7733,
+      "governance_priority_score": 0.5549
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Excuse risk is elevated; review context overuse, intention shielding, victimhood shielding, blame shifting, growth substitution, and harm minimization. Repair readiness is limited; strengthen harm acknowledgment, apology precision, material response, conduct change, future accountability, and oversight. Review generated moral language for accountability without moral labor."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "6a0d7b59b5fbe124",
+    "card_type": "moral_agency_self_narrative",
+    "article_title": "Moral Agency and the Stories We Tell About Ourselves",
+    "article_slug": "moral-agency-and-the-stories-we-tell-about-ourselves",
+    "item": "Movement righteousness story",
+    "claim_context": "public moral identity internal harm and accountability audit",
+    "scores": {
+      "moral_clarity": 0.6767,
+      "excuse_risk": 0.65,
+      "repair_readiness": 0.54,
+      "interpretation_readiness": 0.8133,
+      "governance_priority_score": 0.5475
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Excuse risk is elevated; review context overuse, intention shielding, victimhood shielding, blame shifting, growth substitution, and harm minimization. Repair readiness is limited; strengthen harm acknowledgment, apology precision, material response, conduct change, future accountability, and oversight. Review cause-based justification and harmed insiders."
+    }
+  }
+]

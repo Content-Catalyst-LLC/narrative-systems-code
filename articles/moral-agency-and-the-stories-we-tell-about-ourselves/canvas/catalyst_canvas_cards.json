@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "13d66f703374e175",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Moral Agency and the Stories We Tell About Ourselves",
+    "article_slug": "moral-agency-and-the-stories-we-tell-about-ourselves",
+    "module_name": "catalyst_canvas",
+    "item": "Moral agency core claim",
+    "claim_context": "article-level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.892,
+      "risk_score": 0.3404,
+      "interpretation_readiness": 0.8451,
+      "governance_priority_score": 0.229
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core moral agency claim is suitable for Canvas reuse after standard review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.86,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.92,
+        "governance_value": 0.9
+      },
+      "risk_signals": {
+        "context_loss": 0.3,
+        "overgeneralization": 0.34,
+        "formula_drift": 0.32,
+        "power_blindness": 0.4,
+        "missing_counterexamples": 0.34
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.86,
+        "review_owner": 0.82,
+        "publication_ready": 0.84
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "89d77f3d67c17a1f",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Moral Agency and the Stories We Tell About Ourselves",
+    "article_slug": "moral-agency-and-the-stories-we-tell-about-ourselves",
+    "module_name": "catalyst_canvas",
+    "item": "Excuse risk review",
+    "claim_context": "risk power counterexample and interpretation-readiness audit",
+    "scores": {
+      "domain_strength": 0.884,
+      "risk_score": 0.4991,
+      "interpretation_readiness": 0.8417,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Escalate claims involving excuse risk victimhood shielding blame shifting harm minimization or growth substitution."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.82,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.94,
+        "governance_value": 0.92
+      },
+      "risk_signals": {
+        "context_loss": 0.5,
+        "overgeneralization": 0.44,
+        "formula_drift": 0.4,
+        "power_blindness": 0.64,
+        "missing_counterexamples": 0.5
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.82,
+        "publication_ready": 0.8
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "fcf36c1f38eb9114",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Moral Agency and the Stories We Tell About Ourselves",
+    "article_slug": "moral-agency-and-the-stories-we-tell-about-ourselves",
+    "module_name": "catalyst_canvas",
+    "item": "Digital moral language reuse",
+    "claim_context": "structured data reuse editorial workflow and future automation audit",
+    "scores": {
+      "domain_strength": 0.852,
+      "risk_score": 0.5634,
+      "interpretation_readiness": 0.7685,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Review AI generated apologies and digital moral selfhood for accountable action and source visibility."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.76,
+        "conceptual_depth": 0.84,
+        "structure_fit": 0.84,
+        "ethical_framing": 0.9,
+        "governance_value": 0.92
+      },
+      "risk_signals": {
+        "context_loss": 0.58,
+        "overgeneralization": 0.52,
+        "formula_drift": 0.46,
+        "power_blindness": 0.7,
+        "missing_counterexamples": 0.54
+      },
+      "readiness_signals": {
+        "method_limits": 0.78,
+        "counterexamples": 0.74,
+        "uncertainty_notes": 0.82,
+        "review_owner": 0.78,
+        "publication_ready": 0.72
+      }
+    }
+  }
+]

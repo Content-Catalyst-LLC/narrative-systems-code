@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Moral Agency Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "moral_clarity",
+    "excuse_risk",
+    "repair_readiness",
+    "interpretation_readiness",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "moral_clarity": {"type": "number"},
+    "excuse_risk": {"type": "number"},
+    "repair_readiness": {"type": "number"},
+    "interpretation_readiness": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}
