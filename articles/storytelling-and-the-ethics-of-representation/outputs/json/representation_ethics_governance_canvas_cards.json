@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "c7b462d644786f4e",
+    "card_type": "representation_ethics_governance",
+    "article_title": "Storytelling and the Ethics of Representation",
+    "article_slug": "storytelling-and-the-ethics-of-representation",
+    "item": "Survivor testimony feature",
+    "representation_context": "public story using first-person testimony, portrait, and institutional framing",
+    "scores": {
+      "representation_integrity": 0.73,
+      "representation_risk": 0.4756,
+      "consent_adequacy": 0.65,
+      "cultural_and_visual_strength": 0.6767,
+      "ai_representation_risk": 0.2488,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority representation review recommended. Strong testimony model. Review withdrawal clarity, platform circulation, and exposure risk."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "1ebb9b414c866977",
+    "card_type": "representation_ethics_governance",
+    "article_title": "Storytelling and the Ethics of Representation",
+    "article_slug": "storytelling-and-the-ethics-of-representation",
+    "item": "Institutional fundraising story",
+    "representation_context": "nonprofit campaign portraying community need through beneficiary narrative",
+    "scores": {
+      "representation_integrity": 0.4933,
+      "representation_risk": 0.6912,
+      "consent_adequacy": 0.42,
+      "cultural_and_visual_strength": 0.4533,
+      "ai_representation_risk": 0.344,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority representation ethics review required. Representation integrity is limited. Strengthen voice agency, context, dignity, source accuracy, provenance, and accountability. Representation risk is elevated. Review stereotype tendency, exposure risk, context loss, voice replacement, power asymmetry, and governance. Consent adequacy is limited. Review informed consent, ongoing consent, use clarity, platform circulation, withdrawal, and reuse/AI clarity. Cultural/visual strength is limited. Review cultural protocols, community review, attribution, image context, visual dignity, and captions. Escalate. Story risks dignity loss, weak agency, power asymmetry, exposure, and unclear benefit to represented people."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "3926dce2ba89a462",
+    "card_type": "representation_ethics_governance",
+    "article_title": "Storytelling and the Ethics of Representation",
+    "article_slug": "storytelling-and-the-ethics-of-representation",
+    "item": "AI-generated cultural scene",
+    "representation_context": "synthetic illustration representing a cultural community for educational storytelling",
+    "scores": {
+      "representation_integrity": 0.3767,
+      "representation_risk": 0.73,
+      "consent_adequacy": 0.27,
+      "cultural_and_visual_strength": 0.3,
+      "ai_representation_risk": 0.828,
+      "governance_priority_score": 0.7456
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority representation ethics review required. Representation integrity is limited. Strengthen voice agency, context, dignity, source accuracy, provenance, and accountability. Representation risk is elevated. Review stereotype tendency, exposure risk, context loss, voice replacement, power asymmetry, and governance. Consent adequacy is limited. Review informed consent, ongoing consent, use clarity, platform circulation, withdrawal, and reuse/AI clarity. Cultural/visual strength is limited. Review cultural protocols, community review, attribution, image context, visual dignity, and captions. AI representation risk is elevated. Review synthetic opacity, likeness imitation, cultural fabrication, provenance loss, evidence confusion, and human review. Escalate. Synthetic cultural representation has high stereotype, fabrication, provenance, evidence-confusion, and weak human-review risk."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "215c102399fb4432",
+    "card_type": "representation_ethics_governance",
+    "article_title": "Storytelling and the Ethics of Representation",
+    "article_slug": "storytelling-and-the-ethics-of-representation",
+    "item": "Community-reviewed cultural profile",
+    "representation_context": "collaborative cultural profile with source review and consent renewal",
+    "scores": {
+      "representation_integrity": 0.87,
+      "representation_risk": 0.2312,
+      "consent_adequacy": 0.85,
+      "cultural_and_visual_strength": 0.89,
+      "ai_representation_risk": 0.1204,
+      "governance_priority_score": 0.2481
+    },
+    "review": {
+      "priority": "standard",
+      "owner": "community review",
+      "status": "active",
+      "governance_note": "Standard editorial review sufficient. Strong model for representation ethics with consent renewal, community review, and cultural protocols."
+    }
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "article_title": "Storytelling and the Ethics of Representation",
+  "article_slug": "storytelling-and-the-ethics-of-representation",
+  "module_name": "catalyst_canvas",
+  "metric_weights": {
+    "source_context": 1.0,
+    "conceptual_depth": 1.0,
+    "structure_fit": 1.0,
+    "ethical_framing": 1.0,
+    "governance_value": 1.0
+  },
+  "risk_weights": {
+    "context_loss": 1.0,
+    "overgeneralization": 0.9,
+    "formula_drift": 0.9,
+    "power_blindness": 1.0,
+    "missing_counterexamples": 1.0
+  },
+  "readiness_weights": {
+    "method_limits": 1.0,
+    "counterexamples": 1.0,
+    "uncertainty_notes": 1.0,
+    "review_owner": 0.8,
+    "publication_ready": 0.9
+  },
+  "thresholds": {
+    "medium": 0.45,
+    "high": 0.62
+  }
+}

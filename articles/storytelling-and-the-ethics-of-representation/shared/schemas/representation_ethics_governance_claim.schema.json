@@ -1,0 +1,12 @@
+{
+  "title": "Representation Ethics Governance Claim",
+  "type": "object",
+  "required": ["item", "representation_context", "voice_agency", "context_preservation", "dignity_protection"],
+  "properties": {
+    "item": {"type": "string"},
+    "representation_context": {"type": "string"},
+    "voice_agency": {"type": "number", "minimum": 0, "maximum": 1},
+    "context_preservation": {"type": "number", "minimum": 0, "maximum": 1},
+    "dignity_protection": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

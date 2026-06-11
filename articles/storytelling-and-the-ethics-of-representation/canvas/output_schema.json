@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Representation Ethics Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "representation_context",
+    "representation_integrity",
+    "representation_risk",
+    "consent_adequacy",
+    "cultural_and_visual_strength",
+    "ai_representation_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "representation_context": {"type": "string"},
+    "representation_integrity": {"type": "number"},
+    "representation_risk": {"type": "number"},
+    "consent_adequacy": {"type": "number"},
+    "cultural_and_visual_strength": {"type": "number"},
+    "ai_representation_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

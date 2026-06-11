@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "68e96c0c688fda70",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Storytelling and the Ethics of Representation",
+    "article_slug": "storytelling-and-the-ethics-of-representation",
+    "module_name": "catalyst_canvas",
+    "item": "Representation ethics core claim",
+    "claim_context": "article level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.94,
+      "risk_score": 0.4129,
+      "interpretation_readiness": 0.8736,
+      "governance_priority_score": 0.242
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core claim about representation as ethical power is suitable for Canvas reuse after standard review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.9,
+        "conceptual_depth": 0.94,
+        "structure_fit": 0.9,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.38,
+        "overgeneralization": 0.42,
+        "formula_drift": 0.36,
+        "power_blindness": 0.48,
+        "missing_counterexamples": 0.42
+      },
+      "readiness_signals": {
+        "method_limits": 0.9,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.9,
+        "review_owner": 0.86,
+        "publication_ready": 0.82
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "c363c934e105ee79",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Storytelling and the Ethics of Representation",
+    "article_slug": "storytelling-and-the-ethics-of-representation",
+    "module_name": "catalyst_canvas",
+    "item": "Consent visibility and testimony risk review",
+    "claim_context": "testimony image consent platform circulation and exposure risk audit",
+    "scores": {
+      "domain_strength": 0.928,
+      "risk_score": 0.6792,
+      "interpretation_readiness": 0.846,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate stories where testimony, exposure, consent, or platform circulation create safety and dignity risks."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.88,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.7,
+        "overgeneralization": 0.62,
+        "formula_drift": 0.58,
+        "power_blindness": 0.78,
+        "missing_counterexamples": 0.7
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.86,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "8deb934790f9080e",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Storytelling and the Ethics of Representation",
+    "article_slug": "storytelling-and-the-ethics-of-representation",
+    "module_name": "catalyst_canvas",
+    "item": "AI synthetic representation governance",
+    "claim_context": "generated image voice persona and cultural scene audit",
+    "scores": {
+      "domain_strength": 0.912,
+      "risk_score": 0.805,
+      "interpretation_readiness": 0.8294,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review synthetic representation for stereotype, likeness misuse, cultural fabrication, provenance loss, evidence confusion, and weak human review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.78,
+        "overgeneralization": 0.8,
+        "formula_drift": 0.76,
+        "power_blindness": 0.86,
+        "missing_counterexamples": 0.82
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "canvas_module": "representation_ethics_governance_canvas",
+  "article_title": "Storytelling and the Ethics of Representation",
+  "article_slug": "storytelling-and-the-ethics-of-representation",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for representation integrity, representation risk, consent adequacy, cultural/visual ethics strength, and AI representation risk.",
+  "inputs": [
+    "representation_ethics_governance_claims",
+    "representation_integrity_notes",
+    "consent_adequacy_notes",
+    "cultural_visual_ethics_notes",
+    "ai_representation_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "representation_ethics_governance_audit.csv",
+    "representation_ethics_governance_queue.csv",
+    "representation_ethics_governance_canvas_cards.json",
+    "representation_ethics_governance_queue.json",
+    "representation_ethics_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "voice agency",
+      "context preservation",
+      "dignity protection",
+      "consent adequacy",
+      "power asymmetry",
+      "visual ethics",
+      "cultural protocols",
+      "testimony and trauma risk",
+      "AI representation risk",
+      "human review"
+    ]
+  }
+}
