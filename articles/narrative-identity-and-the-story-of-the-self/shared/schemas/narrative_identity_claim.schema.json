@@ -1,0 +1,28 @@
+{
+  "title": "Narrative Identity Claim",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "memory_continuity",
+    "agency"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "claim_context": {
+      "type": "string"
+    },
+    "memory_continuity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "agency": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

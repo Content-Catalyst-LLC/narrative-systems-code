@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "f871d07fc094b983",
+    "card_type": "narrative_identity_story_of_self",
+    "article_title": "Narrative Identity and the Story of the Self",
+    "article_slug": "narrative-identity-and-the-story-of-the-self",
+    "item": "Trauma testimony",
+    "claim_context": "fragmented self-story witness dignity and consent audit",
+    "scores": {
+      "narrative_coherence": 0.71,
+      "revision_readiness": 0.8633,
+      "identity_story_risk": 0.5912,
+      "interpretation_readiness": 0.8467,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Identity-story risk is elevated; review reduction forced coherence power blindness trauma extraction and algorithmic capture. Protect witness dignity and avoid forced coherence"
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "5ad75c7716a4feed",
+    "card_type": "narrative_identity_story_of_self",
+    "article_title": "Narrative Identity and the Story of the Self",
+    "article_slug": "narrative-identity-and-the-story-of-the-self",
+    "item": "AI-generated life summary",
+    "claim_context": "algorithmic identity compression and bias audit",
+    "scores": {
+      "narrative_coherence": 0.6,
+      "revision_readiness": 0.61,
+      "identity_story_risk": 0.7504,
+      "interpretation_readiness": 0.7633,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority narrative-identity governance review required. Identity-story risk is elevated; review reduction forced coherence power blindness trauma extraction and algorithmic capture. Escalate algorithmic capture and identity reduction risks"
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "2ae1317c4cb60ddd",
+    "card_type": "narrative_identity_story_of_self",
+    "article_title": "Narrative Identity and the Story of the Self",
+    "article_slug": "narrative-identity-and-the-story-of-the-self",
+    "item": "Institutional biography",
+    "claim_context": "public profile role achievement and omitted selfhood audit",
+    "scores": {
+      "narrative_coherence": 0.7,
+      "revision_readiness": 0.67,
+      "identity_story_risk": 0.6232,
+      "interpretation_readiness": 0.77,
+      "governance_priority_score": 0.5041
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Identity-story risk is elevated; review reduction forced coherence power blindness trauma extraction and algorithmic capture. Review profile reduction and institutional self protection"
+    }
+  }
+]

@@ -1,0 +1,135 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Narrative Identity Canvas Input",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "memory_continuity",
+    "agency",
+    "method_limits"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "claim_context": {
+      "type": "string"
+    },
+    "memory_continuity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "temporal_progression": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "agency": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "relational_grounding": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "promise_responsibility": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "future_openness": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "change_handling": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "memory_revision": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "uncertainty_notes": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "counter_memory": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "silence_respect": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "openness_to_retelling": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "reduction_risk": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "forced_coherence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "power_blindness": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "trauma_extraction": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "algorithmic_capture": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "source_context": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "cultural_context": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "method_limits": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "ethics_governance": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "review_owner_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "public_consequence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

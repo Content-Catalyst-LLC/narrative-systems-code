@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "de10b0d859cb29b8",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Narrative Identity and the Story of the Self",
+    "article_slug": "narrative-identity-and-the-story-of-the-self",
+    "item": "Narrative identity core claim",
+    "claim_context": "article-level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.884,
+      "risk_score": 0.3081,
+      "interpretation_readiness": 0.8217,
+      "governance_priority_score": 0.2242
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Core narrative identity claim suitable for standard review"
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "97dd530aaa76bda5",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Narrative Identity and the Story of the Self",
+    "article_slug": "narrative-identity-and-the-story-of-the-self",
+    "item": "Identity ethics review",
+    "claim_context": "risk power counterexample and interpretation readiness audit",
+    "scores": {
+      "domain_strength": 0.88,
+      "risk_score": 0.4826,
+      "interpretation_readiness": 0.8183,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Escalate forced coherence trauma extraction and identity reduction"
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "89337134d20c42fa",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Narrative Identity and the Story of the Self",
+    "article_slug": "narrative-identity-and-the-story-of-the-self",
+    "item": "Digital identity reuse",
+    "claim_context": "structured data reuse editorial workflow and future automation audit",
+    "scores": {
+      "domain_strength": 0.844,
+      "risk_score": 0.5596,
+      "interpretation_readiness": 0.7451,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Review AI mediated identity summaries for consent and contestability"
+    }
+  }
+]

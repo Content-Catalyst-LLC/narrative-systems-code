@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Narrative Identity Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "narrative_coherence",
+    "revision_readiness",
+    "identity_story_risk",
+    "interpretation_readiness",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "narrative_coherence": {
+      "type": "number"
+    },
+    "revision_readiness": {
+      "type": "number"
+    },
+    "identity_story_risk": {
+      "type": "number"
+    },
+    "interpretation_readiness": {
+      "type": "number"
+    },
+    "review_priority": {
+      "type": "string"
+    }
+  }
+}

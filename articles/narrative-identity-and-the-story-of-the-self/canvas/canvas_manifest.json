@@ -1,0 +1,20 @@
+{
+  "canvas_module": "narrative_identity_canvas",
+  "article_title": "Narrative Identity and the Story of the Self",
+  "article_slug": "narrative-identity-and-the-story-of-the-self",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Narrative identity Canvas module for self-story analysis, revision readiness, ethical risk, and governance review.",
+  "inputs": [
+    "narrative_identity_claims.csv",
+    "catalyst_canvas_assessment.csv"
+  ],
+  "outputs": [
+    "narrative_identity_audit.csv",
+    "narrative_identity_canvas_cards.json",
+    "narrative_identity_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true
+  }
+}
