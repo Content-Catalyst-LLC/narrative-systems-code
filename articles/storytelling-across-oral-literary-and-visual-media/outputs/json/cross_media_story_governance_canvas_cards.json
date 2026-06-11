@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "372e4ecef98e4ced",
+    "card_type": "cross_media_story_governance",
+    "article_title": "Storytelling Across Oral, Literary, and Visual Media",
+    "article_slug": "storytelling-across-oral-literary-and-visual-media",
+    "item": "Oral story to transcript",
+    "transfer_context": "performance memory to written archive",
+    "scores": {
+      "medium_affordance_fit": 0.5733,
+      "media_transfer_risk": 0.6112,
+      "multimodal_coherence": 0.5033,
+      "consent_and_context_strength": 0.6933,
+      "ai_cross_media_risk": 0.3836,
+      "governance_priority_score": 0.5203
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "archive review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Medium affordance fit is limited. Check whether this medium supports embodiment, interiority, spatial relation, temporal control, audience relation, and context. Media-transfer risk is elevated. Review voice loss, context loss, provenance loss, audience shift, representational distortion, and governance review. Multimodal coherence is limited. Strengthen text-image integration, sequence logic, sound alignment, rhythm, provenance, and uncertainty notation. Preserve performance notes, voice metadata, speaker authority, and reuse boundaries."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "80ba527dfe776f18",
+    "card_type": "cross_media_story_governance",
+    "article_title": "Storytelling Across Oral, Literary, and Visual Media",
+    "article_slug": "storytelling-across-oral-literary-and-visual-media",
+    "item": "Memoir to documentary",
+    "transfer_context": "literary interiority to moving-image adaptation",
+    "scores": {
+      "medium_affordance_fit": 0.72,
+      "media_transfer_risk": 0.452,
+      "multimodal_coherence": 0.75,
+      "consent_and_context_strength": 0.7133,
+      "ai_cross_media_risk": 0.3776,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Check interiority loss and image-sound emphasis."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "f6ef6dace774f433",
+    "card_type": "cross_media_story_governance",
+    "article_title": "Storytelling Across Oral, Literary, and Visual Media",
+    "article_slug": "storytelling-across-oral-literary-and-visual-media",
+    "item": "Archive to AI-generated visual summary",
+    "transfer_context": "archival memory to synthetic multimodal output",
+    "scores": {
+      "medium_affordance_fit": 0.5033,
+      "media_transfer_risk": 0.7676,
+      "multimodal_coherence": 0.4,
+      "consent_and_context_strength": 0.35,
+      "ai_cross_media_risk": 0.8132,
+      "governance_priority_score": 0.7263
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority cross-media story governance review required. Medium affordance fit is limited. Check whether this medium supports embodiment, interiority, spatial relation, temporal control, audience relation, and context. Media-transfer risk is elevated. Review voice loss, context loss, provenance loss, audience shift, representational distortion, and governance review. Multimodal coherence is limited. Strengthen text-image integration, sequence logic, sound alignment, rhythm, provenance, and uncertainty notation. Consent and context strength is limited. Review authorization, source authority, cultural context, reuse boundaries, provenance, and governance. AI cross-media risk is elevated. Review synthetic-documentary ambiguity, provenance opacity, voice or likeness imitation, bias reproduction, and human review. Escalate. Synthetic output may create documentary ambiguity and provenance loss."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "1864d5839e02b03f",
+    "card_type": "cross_media_story_governance",
+    "article_title": "Storytelling Across Oral, Literary, and Visual Media",
+    "article_slug": "storytelling-across-oral-literary-and-visual-media",
+    "item": "Comic to animation",
+    "transfer_context": "panel sequence to moving-image adaptation",
+    "scores": {
+      "medium_affordance_fit": 0.68,
+      "media_transfer_risk": 0.4528,
+      "multimodal_coherence": 0.7067,
+      "consent_and_context_strength": 0.6867,
+      "ai_cross_media_risk": 0.3616,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "adaptation review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Review panel pacing loss and reader-controlled inference."
+    }
+  }
+]

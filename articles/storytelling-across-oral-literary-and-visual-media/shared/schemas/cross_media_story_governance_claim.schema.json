@@ -1,0 +1,12 @@
+{
+  "title": "Cross-Media Story Governance Claim",
+  "type": "object",
+  "required": ["item", "transfer_context", "embodiment", "contextual_fit", "governance_review"],
+  "properties": {
+    "item": {"type": "string"},
+    "transfer_context": {"type": "string"},
+    "embodiment": {"type": "number", "minimum": 0, "maximum": 1},
+    "contextual_fit": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_review": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

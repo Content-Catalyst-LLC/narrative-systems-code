@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Cross-Media Story Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "transfer_context",
+    "medium_affordance_fit",
+    "media_transfer_risk",
+    "multimodal_coherence",
+    "consent_and_context_strength",
+    "ai_cross_media_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "transfer_context": {"type": "string"},
+    "medium_affordance_fit": {"type": "number"},
+    "media_transfer_risk": {"type": "number"},
+    "multimodal_coherence": {"type": "number"},
+    "consent_and_context_strength": {"type": "number"},
+    "ai_cross_media_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

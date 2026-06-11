@@ -1,0 +1,39 @@
+{
+  "canvas_module": "cross_media_story_governance_canvas",
+  "article_title": "Storytelling Across Oral, Literary, and Visual Media",
+  "article_slug": "storytelling-across-oral-literary-and-visual-media",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for medium affordance, media transfer risk, multimodal coherence, provenance, consent, and AI cross-media risk.",
+  "inputs": [
+    "cross_media_story_governance_claims",
+    "medium_affordance_notes",
+    "transfer_risk_notes",
+    "multimodal_coherence_notes",
+    "ai_cross_media_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "cross_media_story_governance_audit.csv",
+    "cross_media_story_governance_queue.csv",
+    "cross_media_story_governance_canvas_cards.json",
+    "cross_media_story_governance_queue.json",
+    "cross_media_story_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "medium affordance",
+      "voice loss",
+      "context loss",
+      "provenance loss",
+      "consent clarity",
+      "multimodal coherence",
+      "synthetic-documentary ambiguity",
+      "voice or likeness imitation",
+      "human review"
+    ]
+  }
+}
