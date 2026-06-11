@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "51cadae66825b5a9",
+    "card_type": "maureen_murdock_heroine_journey",
+    "article_title": "Maureen Murdock and the Heroine's Journey",
+    "article_slug": "maureen-murdock-and-the-heroines-journey",
+    "item": "Universal heroine template",
+    "claim_context": "gender essentialism and template forcing audit",
+    "scores": {
+      "heroine_alignment": 0.6467,
+      "framework_risk": 0.7812,
+      "critique_readiness": 0.6067,
+      "integration_quality": 0.58,
+      "governance_priority_score": 0.6469
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority heroine-journey governance review required. Framework risk is elevated; review template forcing, gender essentialism, universal womanhood assumptions, psychological overreach, healing pressure, and cultural context. Critique readiness is limited; strengthen source context, cultural context, alternative lenses, gender-complexity notes, uncertainty notes, and review ownership. Integration quality is limited; review whether wholeness is claimed too quickly or agency, relationship, embodiment, healthy power, emotional maturity, and open process remain underdeveloped. Escalate universal womanhood and gender-essentialist assumptions."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "9bb325d0c7b67782",
+    "card_type": "maureen_murdock_heroine_journey",
+    "article_title": "Maureen Murdock and the Heroine's Journey",
+    "article_slug": "maureen-murdock-and-the-heroines-journey",
+    "item": "AI story classifier",
+    "claim_context": "automated stage assignment and uncertainty audit",
+    "scores": {
+      "heroine_alignment": 0.6367,
+      "framework_risk": 0.6808,
+      "critique_readiness": 0.7,
+      "integration_quality": 0.62,
+      "governance_priority_score": 0.5711
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Framework risk is elevated; review template forcing, gender essentialism, universal womanhood assumptions, psychological overreach, healing pressure, and cultural context. Review automated stage assignment uncertainty and alternative frameworks."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "a3c09eaa603b9688",
+    "card_type": "maureen_murdock_heroine_journey",
+    "article_title": "Maureen Murdock and the Heroine's Journey",
+    "article_slug": "maureen-murdock-and-the-heroines-journey",
+    "item": "Mother-daughter memoir",
+    "claim_context": "lineage wound healing and relational complexity audit",
+    "scores": {
+      "heroine_alignment": 0.79,
+      "framework_risk": 0.4884,
+      "critique_readiness": 0.8167,
+      "integration_quality": 0.7933,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Preserve mother as full person; avoid forced reconciliation."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "ed1bb0299b7be469",
+    "card_type": "maureen_murdock_heroine_journey",
+    "article_title": "Maureen Murdock and the Heroine's Journey",
+    "article_slug": "maureen-murdock-and-the-heroines-journey",
+    "item": "Wellness content summary",
+    "claim_context": "commercial empowerment and healing pressure audit",
+    "scores": {
+      "heroine_alignment": 0.6167,
+      "framework_risk": 0.7668,
+      "critique_readiness": 0.6,
+      "integration_quality": 0.5733,
+      "governance_priority_score": 0.6282
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "High-priority heroine-journey governance review required. Framework risk is elevated; review template forcing, gender essentialism, universal womanhood assumptions, psychological overreach, healing pressure, and cultural context. Critique readiness is limited; strengthen source context, cultural context, alternative lenses, gender-complexity notes, uncertainty notes, and review ownership. Integration quality is limited; review whether wholeness is claimed too quickly or agency, relationship, embodiment, healthy power, emotional maturity, and open process remain underdeveloped. Review motivational simplification and archetypal overclaiming."
+    }
+  }
+]

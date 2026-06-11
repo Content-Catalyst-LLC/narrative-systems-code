@@ -1,0 +1,12 @@
+{
+  "title": "Heroine Journey Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "separation_from_feminine", "masculine_identification", "aridity_after_success"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "separation_from_feminine": {"type": "number", "minimum": 0, "maximum": 1},
+    "masculine_identification": {"type": "number", "minimum": 0, "maximum": 1},
+    "aridity_after_success": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

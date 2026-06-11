@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "81cc49765f05aa01",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Maureen Murdock and the Heroine's Journey",
+    "article_slug": "maureen-murdock-and-the-heroines-journey",
+    "module_name": "catalyst_canvas",
+    "item": "Framework risk review",
+    "claim_context": "risk power counterexample and interpretation-readiness audit",
+    "scores": {
+      "domain_strength": 0.884,
+      "risk_score": 0.5528,
+      "interpretation_readiness": 0.8417,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Escalate claims involving template forcing gender essentialism universal womanhood psychological overreach or healing pressure."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.82,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.94,
+        "governance_value": 0.92
+      },
+      "risk_signals": {
+        "context_loss": 0.5,
+        "overgeneralization": 0.48,
+        "formula_drift": 0.58,
+        "power_blindness": 0.64,
+        "missing_counterexamples": 0.56
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.82,
+        "publication_ready": 0.8
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "915e276b4af5f0f8",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Maureen Murdock and the Heroine's Journey",
+    "article_slug": "maureen-murdock-and-the-heroines-journey",
+    "module_name": "catalyst_canvas",
+    "item": "Digital heroine journey reuse",
+    "claim_context": "structured data reuse editorial workflow and future automation audit",
+    "scores": {
+      "domain_strength": 0.852,
+      "risk_score": 0.6094,
+      "interpretation_readiness": 0.7685,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated; review power, omissions, ethical framing, and distortion. Record note: Review AI stage assignment and digital summaries for uncertainty alternative lenses and source context."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.76,
+        "conceptual_depth": 0.84,
+        "structure_fit": 0.84,
+        "ethical_framing": 0.9,
+        "governance_value": 0.92
+      },
+      "risk_signals": {
+        "context_loss": 0.58,
+        "overgeneralization": 0.52,
+        "formula_drift": 0.66,
+        "power_blindness": 0.7,
+        "missing_counterexamples": 0.58
+      },
+      "readiness_signals": {
+        "method_limits": 0.78,
+        "counterexamples": 0.74,
+        "uncertainty_notes": 0.82,
+        "review_owner": 0.78,
+        "publication_ready": 0.72
+      }
+    }
+  }
+]

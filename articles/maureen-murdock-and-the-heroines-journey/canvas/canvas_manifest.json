@@ -1,0 +1,40 @@
+{
+  "canvas_module": "heroine_journey_canvas",
+  "article_title": "Maureen Murdock and the Heroine's Journey",
+  "article_slug": "maureen-murdock-and-the-heroines-journey",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Article-specific Canvas module for Maureen Murdock, the heroine's journey, stage alignment, framework risk, gender critique, integration quality, digital and AI-mediated uses, and governance review.",
+  "inputs": [
+    "heroine_journey_claims",
+    "murdock_stage_notes",
+    "framework_risk_notes",
+    "gender_critique_notes",
+    "digital_heroine_journey_governance_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "heroine_journey_audit.csv",
+    "heroine_journey_governance_queue.csv",
+    "heroine_journey_canvas_cards.json",
+    "heroine_journey_governance_queue.json",
+    "heroine_journey_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "heroine alignment",
+      "framework risk",
+      "critique readiness",
+      "integration quality",
+      "template forcing",
+      "gender essentialism",
+      "universal womanhood assumptions",
+      "psychological overreach",
+      "healing pressure",
+      "AI stage assignment"
+    ]
+  }
+}
