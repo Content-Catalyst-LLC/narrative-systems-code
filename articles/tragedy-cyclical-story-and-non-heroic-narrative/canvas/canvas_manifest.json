@@ -1,0 +1,40 @@
+{
+  "canvas_module": "non_heroic_narrative_canvas",
+  "article_title": "Tragedy, Cyclical Story, and Non-Heroic Narrative",
+  "article_slug": "tragedy-cyclical-story-and-non-heroic-narrative",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Article-specific Canvas module for tragedy, cyclical story, non-heroic agency, heroic-overfit risk, care, witness, refusal, survival, institutional tragedy, ecological cycles, and governance review.",
+  "inputs": [
+    "non_heroic_narrative_claims",
+    "tragic_structure_notes",
+    "cyclical_structure_notes",
+    "non_heroic_agency_notes",
+    "heroic_overfit_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "non_heroic_narrative_audit.csv",
+    "non_heroic_narrative_governance_queue.csv",
+    "non_heroic_narrative_canvas_cards.json",
+    "non_heroic_narrative_governance_queue.json",
+    "non_heroic_narrative_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "tragic structure",
+      "cyclical structure",
+      "non-heroic agency",
+      "heroic-overfit risk",
+      "care narrative",
+      "witness structure",
+      "institutional tragedy",
+      "ecological cycles",
+      "false closure",
+      "AI heroic template forcing"
+    ]
+  }
+}

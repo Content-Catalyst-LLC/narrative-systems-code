@@ -1,0 +1,117 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "b9dd7105924c5d3b",
+    "card_type": "tragedy_cyclical_non_heroic_narrative",
+    "article_title": "Tragedy, Cyclical Story, and Non-Heroic Narrative",
+    "article_slug": "tragedy-cyclical-story-and-non-heroic-narrative",
+    "item": "Institutional tragedy",
+    "claim_context": "distributed responsibility and delayed recognition audit",
+    "scores": {
+      "tragic_structure": 0.8433,
+      "cyclical_structure": 0.6233,
+      "non_heroic_agency": 0.5933,
+      "heroic_overfit_risk": 0.648,
+      "review_readiness": 0.86,
+      "governance_priority_score": 0.6313
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "High-priority non-heroic narrative governance review required. Heroic-overfit risk is elevated. Review hero forcing, victory pressure, closure pressure, return pressure, growth pressure, and evidence visibility. Tragic structure is strong. Preserve consequence, limit, reversal, recognition, irreversibility, and witness burden. Preserve institutional pattern and avoid reducing tragedy to individual flaw."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "be9127a07c2031d4",
+    "card_type": "tragedy_cyclical_non_heroic_narrative",
+    "article_title": "Tragedy, Cyclical Story, and Non-Heroic Narrative",
+    "article_slug": "tragedy-cyclical-story-and-non-heroic-narrative",
+    "item": "Caregiving memoir",
+    "claim_context": "care endurance and maintenance agency audit",
+    "scores": {
+      "tragic_structure": 0.59,
+      "cyclical_structure": 0.6033,
+      "non_heroic_agency": 0.8333,
+      "heroic_overfit_risk": 0.6696,
+      "review_readiness": 0.848,
+      "governance_priority_score": 0.6205
+    },
+    "review": {
+      "priority": "high",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "High-priority non-heroic narrative governance review required. Heroic-overfit risk is elevated. Review hero forcing, victory pressure, closure pressure, return pressure, growth pressure, and evidence visibility. Non-heroic agency is strong. Preserve care, endurance, witness, refusal, maintenance, and survival as narrative action. Preserve care and maintenance as primary narrative action."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "f28e39e29b9b7e28",
+    "card_type": "tragedy_cyclical_non_heroic_narrative",
+    "article_title": "Tragedy, Cyclical Story, and Non-Heroic Narrative",
+    "article_slug": "tragedy-cyclical-story-and-non-heroic-narrative",
+    "item": "Ecological cycle",
+    "claim_context": "feedback delay threshold and recurrence audit",
+    "scores": {
+      "tragic_structure": 0.77,
+      "cyclical_structure": 0.83,
+      "non_heroic_agency": 0.69,
+      "heroic_overfit_risk": 0.6812,
+      "review_readiness": 0.876,
+      "governance_priority_score": 0.6412
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority non-heroic narrative governance review required. Heroic-overfit risk is elevated. Review hero forcing, victory pressure, closure pressure, return pressure, growth pressure, and evidence visibility. Non-heroic agency is strong. Preserve care, endurance, witness, refusal, maintenance, and survival as narrative action. Cyclical structure is strong. Preserve recurrence, ritual, generational, institutional, ecological, and variation patterns. Tragic structure is strong. Preserve consequence, limit, reversal, recognition, irreversibility, and witness burden. Escalate systemic and ecological cycle review. Avoid forcing single protagonist solution."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "7f884840a8ec691f",
+    "card_type": "tragedy_cyclical_non_heroic_narrative",
+    "article_title": "Tragedy, Cyclical Story, and Non-Heroic Narrative",
+    "article_slug": "tragedy-cyclical-story-and-non-heroic-narrative",
+    "item": "Witness narrative",
+    "claim_context": "testimony memory and refusal of false closure audit",
+    "scores": {
+      "tragic_structure": 0.7767,
+      "cyclical_structure": 0.6167,
+      "non_heroic_agency": 0.79,
+      "heroic_overfit_risk": 0.6616,
+      "review_readiness": 0.896,
+      "governance_priority_score": 0.6129
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Heroic-overfit risk is elevated. Review hero forcing, victory pressure, closure pressure, return pressure, growth pressure, and evidence visibility. Non-heroic agency is strong. Preserve care, endurance, witness, refusal, maintenance, and survival as narrative action. Tragic structure is strong. Preserve consequence, limit, reversal, recognition, irreversibility, and witness burden. Protect testimony from cathartic smoothing or entertainment framing."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "a250dba69ddae05c",
+    "card_type": "tragedy_cyclical_non_heroic_narrative",
+    "article_title": "Tragedy, Cyclical Story, and Non-Heroic Narrative",
+    "article_slug": "tragedy-cyclical-story-and-non-heroic-narrative",
+    "item": "Family cycle",
+    "claim_context": "generational recurrence and attempted repair audit",
+    "scores": {
+      "tragic_structure": 0.6967,
+      "cyclical_structure": 0.71,
+      "non_heroic_agency": 0.7567,
+      "heroic_overfit_risk": 0.6584,
+      "review_readiness": 0.852,
+      "governance_priority_score": 0.6068
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Heroic-overfit risk is elevated. Review hero forcing, victory pressure, closure pressure, return pressure, growth pressure, and evidence visibility. Non-heroic agency is strong. Preserve care, endurance, witness, refusal, maintenance, and survival as narrative action. Cyclical structure is strong. Preserve recurrence, ritual, generational, institutional, ecological, and variation patterns. Tragic structure is strong. Preserve consequence, limit, reversal, recognition, irreversibility, and witness burden. Preserve recurrence and variation instead of converting cycle into one-time growth arc."
+    }
+  }
+]

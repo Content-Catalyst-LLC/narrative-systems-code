@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Non-Heroic Narrative Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "tragic_structure",
+    "cyclical_structure",
+    "non_heroic_agency",
+    "heroic_overfit_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "tragic_structure": {"type": "number"},
+    "cyclical_structure": {"type": "number"},
+    "non_heroic_agency": {"type": "number"},
+    "heroic_overfit_risk": {"type": "number"},
+    "review_readiness": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}
