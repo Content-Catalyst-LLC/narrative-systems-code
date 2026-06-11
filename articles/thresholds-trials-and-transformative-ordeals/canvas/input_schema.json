@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Threshold Ordeal Canvas Input",
+  "type": "object",
+  "required": ["item", "claim_context", "threshold_strength", "trial_depth", "ordeal_transformation", "method_limits"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "threshold_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "trial_depth": {"type": "number", "minimum": 0, "maximum": 1},
+    "ordeal_transformation": {"type": "number", "minimum": 0, "maximum": 1},
+    "harm_romanticization": {"type": "number", "minimum": 0, "maximum": 1},
+    "suffering_spectacle": {"type": "number", "minimum": 0, "maximum": 1},
+    "forced_closure": {"type": "number", "minimum": 0, "maximum": 1},
+    "context_loss": {"type": "number", "minimum": 0, "maximum": 1},
+    "power_hiding": {"type": "number", "minimum": 0, "maximum": 1},
+    "unresolved_marking": {"type": "number", "minimum": 0, "maximum": 1},
+    "specificity_preservation": {"type": "number", "minimum": 0, "maximum": 1},
+    "counterexample_inclusion": {"type": "number", "minimum": 0, "maximum": 1},
+    "method_limits": {"type": "number", "minimum": 0, "maximum": 1},
+    "ethics_governance": {"type": "number", "minimum": 0, "maximum": 1},
+    "uncertainty_marking": {"type": "number", "minimum": 0, "maximum": 1},
+    "community_sensitivity": {"type": "number", "minimum": 0, "maximum": 1},
+    "public_consequence": {"type": "number", "minimum": 0, "maximum": 1},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

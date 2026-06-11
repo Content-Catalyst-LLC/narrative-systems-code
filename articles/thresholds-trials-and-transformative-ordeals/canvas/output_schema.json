@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Threshold Ordeal Canvas Output",
+  "type": "object",
+  "required": ["item", "claim_context", "threshold_strength", "trial_depth", "ordeal_transformation", "ethical_risk", "interpretation_readiness", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "threshold_strength": {"type": "number"},
+    "trial_depth": {"type": "number"},
+    "ordeal_transformation": {"type": "number"},
+    "ethical_risk": {"type": "number"},
+    "interpretation_readiness": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

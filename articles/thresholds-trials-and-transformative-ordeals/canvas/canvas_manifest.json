@@ -1,0 +1,37 @@
+{
+  "canvas_module": "threshold_ordeal_canvas",
+  "article_title": "Thresholds, Trials, and Transformative Ordeals",
+  "article_slug": "thresholds-trials-and-transformative-ordeals",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready audit module for threshold strength, trial depth, ordeal transformation, ethical risk, source specificity, counterexamples, and governance review.",
+  "inputs": [
+    "threshold_ordeal_claims",
+    "threshold_features",
+    "trial_features",
+    "ordeal_features",
+    "ethical_risk_notes",
+    "threshold_ordeal_governance_notes"
+  ],
+  "outputs": [
+    "threshold_ordeal_audit.csv",
+    "threshold_ordeal_governance_queue.csv",
+    "threshold_ordeal_canvas_cards.json",
+    "threshold_ordeal_governance_queue.json",
+    "threshold_ordeal_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "threshold strength",
+      "trial depth",
+      "ordeal transformation",
+      "ethical risk",
+      "descent and symbolic death",
+      "formula drift",
+      "source context",
+      "counterexamples",
+      "cultural specificity"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+item,claim_context,threshold_strength,trial_depth,ordeal_transformation,ethical_risk,interpretation_readiness,governance_priority_score,review_priority,owner,status
+Brand manufactured ordeal,marketing hero journey,0.553,0.373,0.27,0.855,0.248,0.794,high,governance,revise
+Memoir trauma ordeal,testimony and unresolved harm,0.767,0.793,0.8,0.448,0.812,0.536,medium,ethics review,review
+Collective public trial,movement and shared risk,0.743,0.83,0.737,0.406,0.78,0.553,medium,public narrative review,active
+Coming-of-age ordeal,identity transition story,0.677,0.747,0.66,0.353,0.688,0.437,standard,story review,active
+Quest threshold,source-tradition myth passage,0.787,0.77,0.753,0.276,0.74,0.425,standard,editorial,active

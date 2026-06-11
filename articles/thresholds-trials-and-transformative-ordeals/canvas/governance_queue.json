@@ -1,0 +1,41 @@
+[
+  {
+    "item": "Brand manufactured ordeal",
+    "claim_context": "marketing hero journey",
+    "threshold_strength": 0.553,
+    "trial_depth": 0.373,
+    "ordeal_transformation": 0.27,
+    "ethical_risk": 0.855,
+    "interpretation_readiness": 0.248,
+    "governance_priority_score": 0.794,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "revise"
+  },
+  {
+    "item": "Memoir trauma ordeal",
+    "claim_context": "testimony and unresolved harm",
+    "threshold_strength": 0.767,
+    "trial_depth": 0.793,
+    "ordeal_transformation": 0.8,
+    "ethical_risk": 0.448,
+    "interpretation_readiness": 0.812,
+    "governance_priority_score": 0.536,
+    "review_priority": "medium",
+    "owner": "ethics review",
+    "status": "review"
+  },
+  {
+    "item": "Collective public trial",
+    "claim_context": "movement and shared risk",
+    "threshold_strength": 0.743,
+    "trial_depth": 0.83,
+    "ordeal_transformation": 0.737,
+    "ethical_risk": 0.406,
+    "interpretation_readiness": 0.78,
+    "governance_priority_score": 0.553,
+    "review_priority": "medium",
+    "owner": "public narrative review",
+    "status": "active"
+  }
+]
