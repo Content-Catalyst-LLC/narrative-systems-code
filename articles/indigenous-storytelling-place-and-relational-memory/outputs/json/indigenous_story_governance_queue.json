@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "d63bec3af7f5a51b",
+    "card_type": "indigenous_story_governance",
+    "article_title": "Indigenous Storytelling, Place, and Relational Memory",
+    "article_slug": "indigenous-storytelling-place-and-relational-memory",
+    "item": "Place-name story",
+    "claim_context": "place memory and relational accountability audit",
+    "scores": {
+      "relational_accountability": 0.8533,
+      "protocol_risk": 0.3972,
+      "place_memory_strength": 0.8767,
+      "translation_governance": 0.8433,
+      "digital_sovereignty_risk": 0.484,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Place-memory strength is high. Preserve land naming, ecological knowledge, ancestral memory, route teaching, seasonal context, and future-generation responsibility. Preserve place as participant in memory, not as scenery."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "690ab1e71223bc89",
+    "card_type": "indigenous_story_governance",
+    "article_title": "Indigenous Storytelling, Place, and Relational Memory",
+    "article_slug": "indigenous-storytelling-place-and-relational-memory",
+    "item": "Archive recording",
+    "claim_context": "access protocol and data sovereignty audit",
+    "scores": {
+      "relational_accountability": 0.61,
+      "protocol_risk": 0.724,
+      "place_memory_strength": 0.6,
+      "translation_governance": 0.7033,
+      "digital_sovereignty_risk": 0.8168,
+      "governance_priority_score": 0.6798
+    },
+    "review": {
+      "priority": "high",
+      "owner": "ethics review",
+      "status": "revise",
+      "governance_note": "High-priority Indigenous story governance review required. Protocol risk is elevated. Review access pressure, seasonal restriction, ceremonial restriction, template forcing, digital exposure, and governance visibility. Digital-sovereignty risk is elevated. Review extraction risk, open-access assumptions, AI training risk, stereotype bias, metadata flattening, and community governance. Relational accountability is limited. Strengthen place specificity, community authority, teller relationship, listener context, obligation visibility, and governance visibility. Escalate review. Institutional possession does not equal permission for access, digitization, reuse, or AI training."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "c35a5160494e0dc2",
+    "card_type": "indigenous_story_governance",
+    "article_title": "Indigenous Storytelling, Place, and Relational Memory",
+    "article_slug": "indigenous-storytelling-place-and-relational-memory",
+    "item": "AI generated Indigenous-style story",
+    "claim_context": "template forcing stereotype and false authority audit",
+    "scores": {
+      "relational_accountability": 0.2267,
+      "protocol_risk": 0.8072,
+      "place_memory_strength": 0.2667,
+      "translation_governance": 0.3033,
+      "digital_sovereignty_risk": 0.92,
+      "governance_priority_score": 0.8445
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority Indigenous story governance review required. Protocol risk is elevated. Review access pressure, seasonal restriction, ceremonial restriction, template forcing, digital exposure, and governance visibility. Digital-sovereignty risk is elevated. Review extraction risk, open-access assumptions, AI training risk, stereotype bias, metadata flattening, and community governance. Relational accountability is limited. Strengthen place specificity, community authority, teller relationship, listener context, obligation visibility, and governance visibility. Translation governance is limited. Strengthen cultural specificity, language context, opacity notes, untranslated terms, reviewer visibility, and harm review. Reject generic Indigenous-style generation without specific community authority, consent, and governance."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "e3cd5fc225574288",
+    "card_type": "indigenous_story_governance",
+    "article_title": "Indigenous Storytelling, Place, and Relational Memory",
+    "article_slug": "indigenous-storytelling-place-and-relational-memory",
+    "item": "Seasonal teaching story",
+    "claim_context": "season ceremony timing and listener readiness audit",
+    "scores": {
+      "relational_accountability": 0.8433,
+      "protocol_risk": 0.5932,
+      "place_memory_strength": 0.8533,
+      "translation_governance": 0.85,
+      "digital_sovereignty_risk": 0.5808,
+      "governance_priority_score": 0.5158
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Protocol risk is elevated. Review access pressure, seasonal restriction, ceremonial restriction, template forcing, digital exposure, and governance visibility. Digital-sovereignty risk is elevated. Review extraction risk, open-access assumptions, AI training risk, stereotype bias, metadata flattening, and community governance. Place-memory strength is high. Preserve land naming, ecological knowledge, ancestral memory, route teaching, seasonal context, and future-generation responsibility. Preserve timing, seasonality, and listener readiness as part of story governance."
+    }
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "canvas_module": "indigenous_story_governance_canvas",
+  "article_title": "Indigenous Storytelling, Place, and Relational Memory",
+  "article_slug": "indigenous-storytelling-place-and-relational-memory",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Article-specific Canvas module for relational accountability, protocol risk, place-memory strength, translation governance, digital sovereignty, archive ethics, and AI-mediated representation review.",
+  "inputs": [
+    "indigenous_story_governance_claims",
+    "protocol_risk_notes",
+    "place_memory_notes",
+    "translation_governance_notes",
+    "digital_sovereignty_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "indigenous_story_governance_audit.csv",
+    "indigenous_story_governance_queue.csv",
+    "indigenous_story_governance_canvas_cards.json",
+    "indigenous_story_governance_queue.json",
+    "indigenous_story_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "relational accountability",
+      "protocol risk",
+      "place-memory strength",
+      "translation governance",
+      "digital sovereignty",
+      "story authority",
+      "archive ethics",
+      "AI training risk",
+      "metadata flattening",
+      "pan-Indigenous generalization"
+    ]
+  }
+}

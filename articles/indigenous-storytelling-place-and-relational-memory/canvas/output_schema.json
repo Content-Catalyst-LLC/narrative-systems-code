@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Indigenous Story Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "relational_accountability",
+    "protocol_risk",
+    "place_memory_strength",
+    "digital_sovereignty_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "relational_accountability": {"type": "number"},
+    "protocol_risk": {"type": "number"},
+    "place_memory_strength": {"type": "number"},
+    "translation_governance": {"type": "number"},
+    "digital_sovereignty_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

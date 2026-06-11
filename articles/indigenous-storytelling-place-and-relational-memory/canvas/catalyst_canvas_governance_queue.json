@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "c0753b2b6c655867",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Indigenous Storytelling, Place, and Relational Memory",
+    "article_slug": "indigenous-storytelling-place-and-relational-memory",
+    "module_name": "catalyst_canvas",
+    "item": "Protocol and sovereignty review",
+    "claim_context": "protocol restriction access permission and story authority governance audit",
+    "scores": {
+      "domain_strength": 0.924,
+      "risk_score": 0.6938,
+      "interpretation_readiness": 0.8617,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate claims involving protocol restrictions access assumptions story authority and reuse permissions."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.88,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.96
+      },
+      "risk_signals": {
+        "context_loss": 0.64,
+        "overgeneralization": 0.7,
+        "formula_drift": 0.62,
+        "power_blindness": 0.82,
+        "missing_counterexamples": 0.68
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.9,
+        "review_owner": 0.86,
+        "publication_ready": 0.78
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "279900d0a9d99199",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Indigenous Storytelling, Place, and Relational Memory",
+    "article_slug": "indigenous-storytelling-place-and-relational-memory",
+    "module_name": "catalyst_canvas",
+    "item": "Digital sovereignty governance",
+    "claim_context": "archive digitization AI training metadata and platform exposure audit",
+    "scores": {
+      "domain_strength": 0.908,
+      "risk_score": 0.7496,
+      "interpretation_readiness": 0.8294,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review digital workflows for extraction risk open access assumptions AI training risk metadata flattening stereotype bias and weak community governance."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.7,
+        "overgeneralization": 0.76,
+        "formula_drift": 0.68,
+        "power_blindness": 0.86,
+        "missing_counterexamples": 0.74
+      },
+      "readiness_signals": {
+        "method_limits": 0.84,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.74
+      }
+    }
+  }
+]

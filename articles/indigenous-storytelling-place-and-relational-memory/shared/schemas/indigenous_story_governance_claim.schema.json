@@ -1,0 +1,12 @@
+{
+  "title": "Indigenous Story Governance Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "place_specificity", "community_authority", "governance_visibility"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "place_specificity": {"type": "number", "minimum": 0, "maximum": 1},
+    "community_authority": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_visibility": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
