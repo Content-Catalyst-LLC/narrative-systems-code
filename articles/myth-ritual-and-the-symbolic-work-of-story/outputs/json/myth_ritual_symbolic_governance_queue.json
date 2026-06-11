@@ -1,0 +1,54 @@
+[
+  {
+    "item": "Appropriated ritual symbol",
+    "symbolic_context": "symbolic reuse without authority",
+    "symbolic_function": 0.487,
+    "ritual_context": 0.32,
+    "ethical_risk": 0.619,
+    "interpretation_readiness": 0.26,
+    "governance_priority_score": 0.773,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "revise",
+    "governance_note": "Requires review for appropriation, totalizing myth, scapegoating, exclusion, harm exposure, weak ritual context, and weak interpretation readiness."
+  },
+  {
+    "item": "National founding myth",
+    "symbolic_context": "public origin story and civic ritual",
+    "symbolic_function": 0.833,
+    "ritual_context": 0.77,
+    "ethical_risk": 0.578,
+    "interpretation_readiness": 0.687,
+    "governance_priority_score": 0.646,
+    "review_priority": "high",
+    "owner": "ethics review",
+    "status": "review",
+    "governance_note": "Requires review for appropriation, totalizing myth, scapegoating, exclusion, harm exposure, weak ritual context, and weak interpretation readiness."
+  },
+  {
+    "item": "Corporate origin story",
+    "symbolic_context": "institutional founding myth",
+    "symbolic_function": 0.667,
+    "ritual_context": 0.47,
+    "ethical_risk": 0.416,
+    "interpretation_readiness": 0.453,
+    "governance_priority_score": 0.516,
+    "review_priority": "high",
+    "owner": "institutional review",
+    "status": "review",
+    "governance_note": "Requires review for appropriation, totalizing myth, scapegoating, exclusion, harm exposure, weak ritual context, and weak interpretation readiness."
+  },
+  {
+    "item": "Initiation rite",
+    "symbolic_context": "threshold ritual and transformation story",
+    "symbolic_function": 0.79,
+    "ritual_context": 0.813,
+    "ethical_risk": 0.35,
+    "interpretation_readiness": 0.737,
+    "governance_priority_score": 0.52,
+    "review_priority": "medium",
+    "owner": "cultural review",
+    "status": "active",
+    "governance_note": "Review symbolic function, ritual context, language notes, access controls, public consequence, and interpretive uncertainty."
+  }
+]

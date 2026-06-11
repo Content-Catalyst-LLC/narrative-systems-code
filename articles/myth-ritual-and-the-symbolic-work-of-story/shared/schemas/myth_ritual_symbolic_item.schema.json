@@ -1,0 +1,12 @@
+{
+  "title": "Myth Ritual Symbolic Item",
+  "type": "object",
+  "required": ["item", "symbolic_context", "origin_function", "memory_function", "context_explanation"],
+  "properties": {
+    "item": {"type": "string"},
+    "symbolic_context": {"type": "string"},
+    "origin_function": {"type": "number", "minimum": 0, "maximum": 1},
+    "memory_function": {"type": "number", "minimum": 0, "maximum": 1},
+    "context_explanation": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

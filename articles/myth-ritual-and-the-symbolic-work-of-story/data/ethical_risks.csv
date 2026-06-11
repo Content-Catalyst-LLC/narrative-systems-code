@@ -1,0 +1,10 @@
+item,risk_type,severity,note
+Appropriated ritual symbol,appropriation,high,Symbol reused without authority or protocol
+Appropriated ritual symbol,context removal,high,Ritual meaning detached from source context
+Appropriated ritual symbol,commercial harm,high,Symbol becomes market asset
+National founding myth,totalizing order,high,One public story may suppress alternative memories
+National founding myth,exclusion risk,high,Founding identity may define outsiders
+National founding myth,scapegoating risk,medium,Public emotion may mark internal enemies
+Corporate origin story,institutional power,medium,Founder myth may shield authority from critique
+Initiation rite,access protocol,medium,Threshold ritual may include restricted material
+Creation story and renewal festival,source context,low,Requires careful cultural and ritual framing

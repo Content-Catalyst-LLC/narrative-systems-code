@@ -1,0 +1,17 @@
+.cc-canvas-card {
+  border: 1px solid #111;
+  padding: 1rem;
+  background: #f7f1e3;
+}
+
+.cc-canvas-card-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+.cc-canvas-card-grid div {
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 0.75rem;
+}

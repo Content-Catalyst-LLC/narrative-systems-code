@@ -1,0 +1,6 @@
+item,symbolic_context,symbolic_function,ritual_context,ethical_risk,interpretation_readiness,governance_priority_score,review_priority,owner,status,governance_note
+Appropriated ritual symbol,symbolic reuse without authority,0.487,0.32,0.619,0.26,0.773,high,governance,revise,"Requires review for appropriation, totalizing myth, scapegoating, exclusion, harm exposure, weak ritual context, and weak interpretation readiness."
+National founding myth,public origin story and civic ritual,0.833,0.77,0.578,0.687,0.646,high,ethics review,review,"Requires review for appropriation, totalizing myth, scapegoating, exclusion, harm exposure, weak ritual context, and weak interpretation readiness."
+Corporate origin story,institutional founding myth,0.667,0.47,0.416,0.453,0.516,high,institutional review,review,"Requires review for appropriation, totalizing myth, scapegoating, exclusion, harm exposure, weak ritual context, and weak interpretation readiness."
+Initiation rite,threshold ritual and transformation story,0.79,0.813,0.35,0.737,0.52,medium,cultural review,active,"Review symbolic function, ritual context, language notes, access controls, public consequence, and interpretive uncertainty."
+Creation story and renewal festival,origin myth and ritual calendar,0.823,0.77,0.265,0.737,0.454,standard,editorial,active,Standard myth and ritual symbolic review.

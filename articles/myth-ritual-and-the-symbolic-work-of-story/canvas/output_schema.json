@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Myth Ritual Symbolic Canvas Output",
+  "type": "object",
+  "required": ["item", "symbolic_context", "symbolic_function", "ritual_context", "ethical_risk", "interpretation_readiness", "governance_priority_score", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "symbolic_context": {"type": "string"},
+    "symbolic_function": {"type": "number"},
+    "ritual_context": {"type": "number"},
+    "ethical_risk": {"type": "number"},
+    "interpretation_readiness": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

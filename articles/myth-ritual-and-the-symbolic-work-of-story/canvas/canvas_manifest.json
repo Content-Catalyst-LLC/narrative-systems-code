@@ -1,0 +1,38 @@
+{
+  "canvas_module": "myth_ritual_symbolic_canvas",
+  "article_title": "Myth, Ritual, and the Symbolic Work of Story",
+  "article_slug": "myth-ritual-and-the-symbolic-work-of-story",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing myth, ritual, symbolic function, ritual context, interpretation readiness, ethical risk, power, authority, access governance, and symbolic story misuse.",
+  "inputs": [
+    "myth_ritual_symbolic_items",
+    "symbolic_functions",
+    "ritual_contexts",
+    "power_and_authority_notes",
+    "ethical_risks",
+    "myth_ritual_governance_notes"
+  ],
+  "outputs": [
+    "myth_ritual_symbolic_audit.csv",
+    "myth_ritual_symbolic_governance_queue.csv",
+    "myth_ritual_symbolic_canvas_cards.json",
+    "myth_ritual_symbolic_governance_queue.json",
+    "myth_ritual_symbolic_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "symbolic function",
+      "ritual context",
+      "interpretation readiness",
+      "ethical risk",
+      "totalizing myth",
+      "scapegoating risk",
+      "exclusion risk",
+      "appropriation risk",
+      "harm exposure",
+      "community governance"
+    ]
+  }
+}
