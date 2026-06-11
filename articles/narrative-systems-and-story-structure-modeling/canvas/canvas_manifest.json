@@ -1,0 +1,40 @@
+{
+  "canvas_module": "narrative_systems_governance_canvas",
+  "article_title": "Narrative Systems and Story Structure Modeling",
+  "article_slug": "narrative-systems-and-story-structure-modeling",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for narrative coherence, formula-drift risk, responsibility balance, network-system strength, and AI story-structure risk.",
+  "inputs": [
+    "narrative_systems_governance_claims",
+    "narrative_coherence_notes",
+    "formula_drift_notes",
+    "responsibility_balance_notes",
+    "ai_story_structure_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "narrative_systems_governance_audit.csv",
+    "narrative_systems_governance_queue.csv",
+    "narrative_systems_governance_canvas_cards.json",
+    "narrative_systems_governance_queue.json",
+    "narrative_systems_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "narrative coherence",
+      "causal alignment",
+      "state-transition clarity",
+      "agent-goal fit",
+      "world-rule consistency",
+      "temporal mapping",
+      "responsibility balance",
+      "network-system strength",
+      "formula drift",
+      "AI story-structure risk"
+    ]
+  }
+}

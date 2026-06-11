@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Narrative Systems Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "modeling_context",
+    "narrative_coherence",
+    "formula_drift_risk",
+    "responsibility_balance",
+    "network_system_strength",
+    "ai_story_structure_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "modeling_context": {"type": "string"},
+    "narrative_coherence": {"type": "number"},
+    "formula_drift_risk": {"type": "number"},
+    "responsibility_balance": {"type": "number"},
+    "network_system_strength": {"type": "number"},
+    "ai_story_structure_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

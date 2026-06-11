@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "e3c7a28370f3f754",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Narrative Systems and Story Structure Modeling",
+    "article_slug": "narrative-systems-and-story-structure-modeling",
+    "module_name": "catalyst_canvas",
+    "item": "Narrative systems core claim",
+    "claim_context": "article level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.944,
+      "risk_score": 0.4082,
+      "interpretation_readiness": 0.8736,
+      "governance_priority_score": 0.2391
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core claim about stories as systems of agents, events, states, constraints, causality, feedback, and interpretation is suitable for Canvas reuse."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.92,
+        "conceptual_depth": 0.94,
+        "structure_fit": 0.92,
+        "ethical_framing": 0.96,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.36,
+        "overgeneralization": 0.4,
+        "formula_drift": 0.42,
+        "power_blindness": 0.46,
+        "missing_counterexamples": 0.4
+      },
+      "readiness_signals": {
+        "method_limits": 0.9,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.9,
+        "review_owner": 0.86,
+        "publication_ready": 0.82
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "c0b7e641fcdc0bcf",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Narrative Systems and Story Structure Modeling",
+    "article_slug": "narrative-systems-and-story-structure-modeling",
+    "module_name": "catalyst_canvas",
+    "item": "Formula drift and template capture review",
+    "claim_context": "beat template dependence universal model claims context loss and model overconfidence audit",
+    "scores": {
+      "domain_strength": 0.928,
+      "risk_score": 0.7555,
+      "interpretation_readiness": 0.846,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate structural models that impose familiar beats before testing fit against genre, medium, culture, and storyworld constraints."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.88,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.74,
+        "overgeneralization": 0.78,
+        "formula_drift": 0.86,
+        "power_blindness": 0.7,
+        "missing_counterexamples": 0.7
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.86,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "4419829aece5a427",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Narrative Systems and Story Structure Modeling",
+    "article_slug": "narrative-systems-and-story-structure-modeling",
+    "module_name": "catalyst_canvas",
+    "item": "AI story structure governance",
+    "claim_context": "plot hallucination causal invention stereotype tendency formula generation and weak human review audit",
+    "scores": {
+      "domain_strength": 0.912,
+      "risk_score": 0.8118,
+      "interpretation_readiness": 0.8294,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review AI-generated structure for invented causality, generic beats, stereotype, weak evidence, and missing human interpretation."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.78,
+        "overgeneralization": 0.82,
+        "formula_drift": 0.88,
+        "power_blindness": 0.76,
+        "missing_counterexamples": 0.82
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]

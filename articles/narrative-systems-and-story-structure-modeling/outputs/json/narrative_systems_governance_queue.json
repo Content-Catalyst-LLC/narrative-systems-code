@@ -1,0 +1,48 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "2ebe612ab4672cca",
+    "card_type": "narrative_systems_governance",
+    "article_title": "Narrative Systems and Story Structure Modeling",
+    "article_slug": "narrative-systems-and-story-structure-modeling",
+    "item": "Template-driven hero outline",
+    "modeling_context": "forcing a complex community story into universal individual transformation beats",
+    "scores": {
+      "narrative_coherence": 0.4533,
+      "formula_drift_risk": 0.8176,
+      "responsibility_balance": 0.52,
+      "network_system_strength": 0.41,
+      "ai_story_structure_risk": 0.672,
+      "governance_priority_score": 0.6777
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority narrative systems governance review required. Narrative coherence is limited. Strengthen causality, state transitions, agent-goal fit, world rules, temporal mapping, and evidence. Formula-drift risk is elevated. Review beat-template dependence, universal model claims, context loss, genre flattening, overconfidence, and judgment review. Responsibility balance is weak. Review whether individual or systemic agency is being erased. Network/system strength is limited. Review relationships, constraints, feedback loops, agents, and world rules. AI story-structure risk is elevated. Review plot hallucination, causal invention, stereotype tendency, formula generation, corpus bias, and human review. Escalate. Template capture erases collective agency, system constraints, and genre/context specificity."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "9721d9492105895a",
+    "card_type": "narrative_systems_governance",
+    "article_title": "Narrative Systems and Story Structure Modeling",
+    "article_slug": "narrative-systems-and-story-structure-modeling",
+    "item": "AI-generated plot map",
+    "modeling_context": "machine-produced story structure with invented causal links and generic character functions",
+    "scores": {
+      "narrative_coherence": 0.3933,
+      "formula_drift_risk": 0.7896,
+      "responsibility_balance": 0.86,
+      "network_system_strength": 0.36,
+      "ai_story_structure_risk": 0.8356,
+      "governance_priority_score": 0.6863
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority narrative systems governance review required. Narrative coherence is limited. Strengthen causality, state transitions, agent-goal fit, world rules, temporal mapping, and evidence. Formula-drift risk is elevated. Review beat-template dependence, universal model claims, context loss, genre flattening, overconfidence, and judgment review. Network/system strength is limited. Review relationships, constraints, feedback loops, agents, and world rules. AI story-structure risk is elevated. Review plot hallucination, causal invention, stereotype tendency, formula generation, corpus bias, and human review. Escalate. AI model invents causality and relies on formula generation without adequate human review."
+    }
+  }
+]

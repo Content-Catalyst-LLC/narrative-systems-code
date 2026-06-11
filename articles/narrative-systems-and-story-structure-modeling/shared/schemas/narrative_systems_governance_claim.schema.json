@@ -1,0 +1,12 @@
+{
+  "title": "Narrative Systems Governance Claim",
+  "type": "object",
+  "required": ["item", "modeling_context", "causal_alignment", "state_transition_clarity", "agent_goal_fit"],
+  "properties": {
+    "item": {"type": "string"},
+    "modeling_context": {"type": "string"},
+    "causal_alignment": {"type": "number", "minimum": 0, "maximum": 1},
+    "state_transition_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "agent_goal_fit": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
