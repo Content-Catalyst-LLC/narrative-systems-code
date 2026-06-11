@@ -1,0 +1,163 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Ricoeur Narrative Time Canvas Input",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "memory_mapping",
+    "plot_logic",
+    "configuration",
+    "refiguration",
+    "method_limits"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "claim_context": {
+      "type": "string"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "memory_mapping": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "anticipation": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "plot_logic": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "configuration": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "refiguration": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "ending_function": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "event_selection": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "causal_articulation": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "reversal_recognition": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "concordance": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "discordance": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "whole_plot_coherence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "continuity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "change": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "promise_responsibility": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "memory_revision": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "agency": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "relational_recognition": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "premature_closure": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "redemptive_shortcut": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "erased_continuity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "delayed_accountability": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "nostalgic_origin": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "uncertainty_notes": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "source_context": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "counterexamples": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "method_limits": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Ricoeur Narrative Time Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "narrative_time_configuration",
+    "emplotment_strength",
+    "narrative_identity_readiness",
+    "temporal_governance_risk",
+    "interpretation_readiness",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "claim_context": {
+      "type": "string"
+    },
+    "narrative_time_configuration": {
+      "type": "number"
+    },
+    "emplotment_strength": {
+      "type": "number"
+    },
+    "narrative_identity_readiness": {
+      "type": "number"
+    },
+    "temporal_governance_risk": {
+      "type": "number"
+    },
+    "interpretation_readiness": {
+      "type": "number"
+    },
+    "governance_priority_score": {
+      "type": "number"
+    },
+    "review_priority": {
+      "type": "string"
+    }
+  }
+}

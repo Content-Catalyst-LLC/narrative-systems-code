@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0.0",
+  "article_title": "Paul Ricoeur and Narrative Time",
+  "article_slug": "paul-ricoeur-and-narrative-time",
+  "advanced_python_layer": "python/catalyst_canvas",
+  "article_specific_layer": "python/ricoeur_narrative_time_canvas",
+  "runner": "python/run_catalyst_canvas_audit.py",
+  "notes": "Advanced additive Catalyst Canvas layer is the standard for this and future article companions."
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "3e48fc8e2b729152",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Paul Ricoeur and Narrative Time",
+    "article_slug": "paul-ricoeur-and-narrative-time",
+    "module_name": "catalyst_canvas",
+    "item": "Temporal ethics review",
+    "claim_context": "risk power counterexample and interpretation-readiness audit",
+    "scores": {
+      "domain_strength": 0.872,
+      "risk_score": 0.4783,
+      "interpretation_readiness": 0.8183,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Escalate claims involving premature closure redemptive shortcut erased continuity or delayed accountability."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.78,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.92,
+        "governance_value": 0.92
+      },
+      "risk_signals": {
+        "context_loss": 0.46,
+        "overgeneralization": 0.44,
+        "formula_drift": 0.4,
+        "power_blindness": 0.6,
+        "missing_counterexamples": 0.48
+      },
+      "readiness_signals": {
+        "method_limits": 0.84,
+        "counterexamples": 0.82,
+        "uncertainty_notes": 0.86,
+        "review_owner": 0.78,
+        "publication_ready": 0.78
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "acf4aa5829e5068e",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Paul Ricoeur and Narrative Time",
+    "article_slug": "paul-ricoeur-and-narrative-time",
+    "module_name": "catalyst_canvas",
+    "item": "Institutional narrative time reuse",
+    "claim_context": "structured data reuse editorial workflow and future automation audit",
+    "scores": {
+      "domain_strength": 0.836,
+      "risk_score": 0.5434,
+      "interpretation_readiness": 0.7451,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Review institutional reform narratives for accountability gaps and temporal manipulation."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.74,
+        "conceptual_depth": 0.82,
+        "structure_fit": 0.84,
+        "ethical_framing": 0.88,
+        "governance_value": 0.9
+      },
+      "risk_signals": {
+        "context_loss": 0.56,
+        "overgeneralization": 0.5,
+        "formula_drift": 0.44,
+        "power_blindness": 0.68,
+        "missing_counterexamples": 0.52
+      },
+      "readiness_signals": {
+        "method_limits": 0.76,
+        "counterexamples": 0.72,
+        "uncertainty_notes": 0.8,
+        "review_owner": 0.74,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]

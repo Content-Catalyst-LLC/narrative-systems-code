@@ -1,0 +1,40 @@
+{
+  "canvas_module": "ricoeur_narrative_time_canvas",
+  "article_title": "Paul Ricoeur and Narrative Time",
+  "article_slug": "paul-ricoeur-and-narrative-time",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Article-specific Canvas module for Ricoeurian narrative time, emplotment, threefold mimesis, narrative identity, memory, refiguration, and temporal-governance review.",
+  "inputs": [
+    "ricoeur_narrative_time_claims",
+    "emplotment_notes",
+    "threefold_mimesis_notes",
+    "narrative_identity_notes",
+    "temporal_governance_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "ricoeur_narrative_time_audit.csv",
+    "ricoeur_narrative_time_governance_queue.csv",
+    "ricoeur_narrative_time_canvas_cards.json",
+    "ricoeur_narrative_time_governance_queue.json",
+    "ricoeur_narrative_time_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "narrative-time configuration",
+      "emplotment strength",
+      "narrative identity readiness",
+      "premature closure",
+      "redemptive shortcut",
+      "erased continuity",
+      "delayed accountability",
+      "nostalgic origin",
+      "method limits",
+      "source context"
+    ]
+  }
+}

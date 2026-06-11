@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "48edb5464560320c",
+    "card_type": "ricoeur_narrative_time",
+    "article_title": "Paul Ricoeur and Narrative Time",
+    "article_slug": "paul-ricoeur-and-narrative-time",
+    "item": "Institutional reform narrative",
+    "claim_context": "crisis renewal and accountability plot audit",
+    "scores": {
+      "narrative_time_configuration": 0.8233,
+      "emplotment_strength": 0.7767,
+      "narrative_identity_readiness": 0.71,
+      "temporal_governance_risk": 0.674,
+      "interpretation_readiness": 0.72,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority narrative-time governance review required. Temporal governance risk is elevated; review premature closure, redemptive shortcut, erased continuity, delayed accountability, and nostalgic origin. Escalate when renewal creates premature closure or delayed accountability."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "e06c6e158b2d138a",
+    "card_type": "ricoeur_narrative_time",
+    "article_title": "Paul Ricoeur and Narrative Time",
+    "article_slug": "paul-ricoeur-and-narrative-time",
+    "item": "Memoir and narrative identity",
+    "claim_context": "memory continuity change and selfhood audit",
+    "scores": {
+      "narrative_time_configuration": 0.8333,
+      "emplotment_strength": 0.7633,
+      "narrative_identity_readiness": 0.8533,
+      "temporal_governance_risk": 0.3596,
+      "interpretation_readiness": 0.8267,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Review memory revision identity complexity and false coherence."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "6f52531283a94e72",
+    "card_type": "ricoeur_narrative_time",
+    "article_title": "Paul Ricoeur and Narrative Time",
+    "article_slug": "paul-ricoeur-and-narrative-time",
+    "item": "Historical narrative",
+    "claim_context": "evidence emplotment and public memory audit",
+    "scores": {
+      "narrative_time_configuration": 0.83,
+      "emplotment_strength": 0.81,
+      "narrative_identity_readiness": 0.76,
+      "temporal_governance_risk": 0.4628,
+      "interpretation_readiness": 0.8367,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Review archive bias counter-memory and evidentiary limits."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "475e0f60f620511f",
+    "card_type": "ricoeur_narrative_time",
+    "article_title": "Paul Ricoeur and Narrative Time",
+    "article_slug": "paul-ricoeur-and-narrative-time",
+    "item": "Trauma testimony",
+    "claim_context": "fragmented memory delayed understanding and witness time audit",
+    "scores": {
+      "narrative_time_configuration": 0.7567,
+      "emplotment_strength": 0.7133,
+      "narrative_identity_readiness": 0.7767,
+      "temporal_governance_risk": 0.5184,
+      "interpretation_readiness": 0.8167,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Do not force linear coherence or premature repair onto witness testimony."
+    }
+  }
+]

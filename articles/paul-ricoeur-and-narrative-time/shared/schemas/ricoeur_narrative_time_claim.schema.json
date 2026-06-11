@@ -1,0 +1,40 @@
+{
+  "title": "Ricoeur Narrative Time Claim",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "memory_mapping",
+    "plot_logic",
+    "configuration",
+    "refiguration"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "claim_context": {
+      "type": "string"
+    },
+    "memory_mapping": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "plot_logic": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "configuration": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "refiguration": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}
