@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Compact Oral Forms Canvas Output",
+  "type": "object",
+  "required": ["item", "oral_form", "oral_form_context", "sound_and_repetition", "ritual_authority", "archive_risk", "governance_priority_score", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "oral_form": {"type": "string"},
+    "oral_form_context": {"type": "number"},
+    "sound_and_repetition": {"type": "number"},
+    "ritual_authority": {"type": "number"},
+    "archive_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

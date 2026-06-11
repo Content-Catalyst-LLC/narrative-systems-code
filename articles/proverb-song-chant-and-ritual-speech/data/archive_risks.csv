@@ -1,0 +1,9 @@
+item,risk_type,severity,note
+Ritual phrase used in marketing,quote extraction,high,Ritual phrase is detached from authority and context
+Ritual phrase used in marketing,commercial extraction,high,Spiritual or communal language becomes brand material
+Ritual phrase used in marketing,governance failure,high,Consent and access control are weak
+Ceremonial chant,restricted speech,high,Ceremonial context requires access protocol
+Ceremonial chant,sound and context loss,medium,Transcript alone misses cadence and performance
+Funerary lament,privacy and grief exposure,medium,Names and mourning context require review
+Work song,audio sampling,medium,Recording may be reused without benefit sharing
+Proverb in conflict mediation,context removal,low,Proverb may be quoted as generic wisdom

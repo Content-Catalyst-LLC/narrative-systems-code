@@ -1,0 +1,6 @@
+item,oral_form,form_identification,speaker_role,audience_documentation,occasion_notes,place_linkage,use_context,rhythm,melody,cadence,refrain_or_formula,participation,embodiment,role_legitimacy,protocol_review,consent_status,access_control,governance_oversight,benefit_sharing,quote_extraction_risk,context_removal,sound_loss,translation_loss,extraction_risk,governance_control,community_sensitivity,public_consequence,owner,status
+Proverb in conflict mediation,proverb,0.92,0.78,0.72,0.82,0.58,0.88,0.54,0.10,0.48,0.76,0.46,0.40,0.70,0.62,0.68,0.70,0.66,0.58,0.46,0.38,0.44,0.56,0.40,0.72,0.68,0.58,editorial,active
+Work song,song,0.88,0.82,0.76,0.78,0.70,0.82,0.86,0.90,0.80,0.84,0.82,0.76,0.72,0.66,0.70,0.68,0.64,0.62,0.36,0.34,0.46,0.48,0.42,0.76,0.72,0.62,performance review,active
+Ceremonial chant,chant,0.86,0.84,0.64,0.92,0.80,0.86,0.88,0.62,0.92,0.88,0.78,0.84,0.86,0.92,0.58,0.46,0.82,0.54,0.58,0.72,0.70,0.66,0.64,0.44,0.96,0.84,cultural review,review
+Funerary lament,ritual speech,0.90,0.88,0.82,0.94,0.76,0.88,0.70,0.76,0.78,0.72,0.68,0.86,0.82,0.80,0.74,0.70,0.76,0.66,0.42,0.48,0.58,0.56,0.46,0.70,0.88,0.80,archive review,active
+Ritual phrase used in marketing,ritual speech adaptation,0.44,0.28,0.24,0.30,0.22,0.34,0.32,0.20,0.28,0.36,0.18,0.20,0.24,0.20,0.18,0.16,0.18,0.12,0.92,0.88,0.74,0.76,0.94,0.16,0.94,0.88,governance,revise

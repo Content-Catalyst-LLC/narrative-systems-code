@@ -1,0 +1,67 @@
+[
+  {
+    "item": "Ritual phrase used in marketing",
+    "oral_form": "ritual speech adaptation",
+    "oral_form_context": 0.303,
+    "sound_and_repetition": 0.257,
+    "ritual_authority": 0.18,
+    "archive_risk": 0.851,
+    "governance_priority_score": 0.873,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "revise",
+    "governance_note": "Requires review for ritual authority, consent, access control, quote extraction, sound loss, translation loss, commercial reuse, and governance control."
+  },
+  {
+    "item": "Ceremonial chant",
+    "oral_form": "chant",
+    "oral_form_context": 0.82,
+    "sound_and_repetition": 0.82,
+    "ritual_authority": 0.697,
+    "archive_risk": 0.645,
+    "governance_priority_score": 0.694,
+    "review_priority": "high",
+    "owner": "cultural review",
+    "status": "review",
+    "governance_note": "Requires review for ritual authority, consent, access control, quote extraction, sound loss, translation loss, commercial reuse, and governance control."
+  },
+  {
+    "item": "Funerary lament",
+    "oral_form": "ritual speech",
+    "oral_form_context": 0.863,
+    "sound_and_repetition": 0.75,
+    "ritual_authority": 0.747,
+    "archive_risk": 0.469,
+    "governance_priority_score": 0.595,
+    "review_priority": "medium",
+    "owner": "archive review",
+    "status": "active",
+    "governance_note": "Review oral-form context, sound documentation, protocol, source context, and archive risk."
+  },
+  {
+    "item": "Proverb in conflict mediation",
+    "oral_form": "proverb",
+    "oral_form_context": 0.783,
+    "sound_and_repetition": 0.457,
+    "ritual_authority": 0.657,
+    "archive_risk": 0.422,
+    "governance_priority_score": 0.503,
+    "review_priority": "medium",
+    "owner": "editorial",
+    "status": "active",
+    "governance_note": "Review oral-form context, sound documentation, protocol, source context, and archive risk."
+  },
+  {
+    "item": "Work song",
+    "oral_form": "song",
+    "oral_form_context": 0.793,
+    "sound_and_repetition": 0.83,
+    "ritual_authority": 0.67,
+    "archive_risk": 0.386,
+    "governance_priority_score": 0.505,
+    "review_priority": "medium",
+    "owner": "performance review",
+    "status": "active",
+    "governance_note": "Review oral-form context, sound documentation, protocol, source context, and archive risk."
+  }
+]

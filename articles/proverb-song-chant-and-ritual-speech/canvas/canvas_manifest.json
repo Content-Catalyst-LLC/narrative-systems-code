@@ -1,0 +1,38 @@
+{
+  "canvas_module": "compact_oral_forms_canvas",
+  "article_title": "Proverb, Song, Chant, and Ritual Speech",
+  "article_slug": "proverb-song-chant-and-ritual-speech",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing proverbs, songs, chants, ritual speech, oral-form context, sound and repetition, ritual authority, translation risk, archive risk, platform circulation, and governance priority.",
+  "inputs": [
+    "compact_oral_forms_items",
+    "oral_form_contexts",
+    "sound_repetition_features",
+    "ritual_authority_notes",
+    "archive_risks",
+    "compact_oral_forms_governance_notes"
+  ],
+  "outputs": [
+    "compact_oral_forms_audit.csv",
+    "compact_oral_forms_governance_queue.csv",
+    "compact_oral_forms_canvas_cards.json",
+    "compact_oral_forms_governance_queue.json",
+    "compact_oral_forms_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "oral-form context",
+      "sound and repetition",
+      "ritual authority",
+      "translation limits",
+      "access protocol",
+      "quote extraction",
+      "archive risk",
+      "platform circulation",
+      "benefit sharing",
+      "community governance"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Compact Oral Form Item",
+  "type": "object",
+  "required": ["item", "oral_form", "form_identification", "speaker_role", "occasion_notes"],
+  "properties": {
+    "item": {"type": "string"},
+    "oral_form": {"type": "string"},
+    "form_identification": {"type": "number", "minimum": 0, "maximum": 1},
+    "speaker_role": {"type": "number", "minimum": 0, "maximum": 1},
+    "occasion_notes": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

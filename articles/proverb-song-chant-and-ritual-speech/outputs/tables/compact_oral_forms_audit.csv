@@ -1,0 +1,6 @@
+item,oral_form,oral_form_context,sound_and_repetition,ritual_authority,archive_risk,governance_priority_score,review_priority,owner,status,governance_note
+Ritual phrase used in marketing,ritual speech adaptation,0.303,0.257,0.18,0.851,0.873,high,governance,revise,"Requires review for ritual authority, consent, access control, quote extraction, sound loss, translation loss, commercial reuse, and governance control."
+Ceremonial chant,chant,0.82,0.82,0.697,0.645,0.694,high,cultural review,review,"Requires review for ritual authority, consent, access control, quote extraction, sound loss, translation loss, commercial reuse, and governance control."
+Funerary lament,ritual speech,0.863,0.75,0.747,0.469,0.595,medium,archive review,active,"Review oral-form context, sound documentation, protocol, source context, and archive risk."
+Proverb in conflict mediation,proverb,0.783,0.457,0.657,0.422,0.503,medium,editorial,active,"Review oral-form context, sound documentation, protocol, source context, and archive risk."
+Work song,song,0.793,0.83,0.67,0.386,0.505,medium,performance review,active,"Review oral-form context, sound documentation, protocol, source context, and archive risk."
