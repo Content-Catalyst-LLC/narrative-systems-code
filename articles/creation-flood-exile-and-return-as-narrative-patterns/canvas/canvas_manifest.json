@@ -1,0 +1,45 @@
+{
+  "canvas_module": "narrative_pattern_canvas",
+  "article_title": "Creation, Flood, Exile, and Return as Narrative Patterns",
+  "article_slug": "creation-flood-exile-and-return-as-narrative-patterns",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Article-specific Canvas module for creation, flood, exile, and return pattern analysis, rupture-renewal strength, ethical risk, interpretation readiness, and governance review.",
+  "inputs": [
+    "narrative_pattern_claims",
+    "creation_pattern_notes",
+    "flood_pattern_notes",
+    "exile_pattern_notes",
+    "return_pattern_notes",
+    "pattern_governance_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "creation_flood_exile_return_audit.csv",
+    "creation_flood_exile_return_governance_queue.csv",
+    "creation_flood_exile_return_canvas_cards.json",
+    "creation_flood_exile_return_governance_queue.json",
+    "creation_flood_exile_return_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "creation signal",
+      "flood signal",
+      "exile signal",
+      "return signal",
+      "rupture-renewal strength",
+      "origin nostalgia",
+      "cleansing fantasy",
+      "exile romanticization",
+      "false return",
+      "power blindness",
+      "source context",
+      "historical context",
+      "counterexamples",
+      "method limits"
+    ]
+  }
+}

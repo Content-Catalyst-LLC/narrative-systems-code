@@ -1,0 +1,13 @@
+{
+  "title": "Narrative Pattern Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "creation_signal", "flood_signal", "exile_signal", "return_signal"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "creation_signal": {"type": "number", "minimum": 0, "maximum": 1},
+    "flood_signal": {"type": "number", "minimum": 0, "maximum": 1},
+    "exile_signal": {"type": "number", "minimum": 0, "maximum": 1},
+    "return_signal": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

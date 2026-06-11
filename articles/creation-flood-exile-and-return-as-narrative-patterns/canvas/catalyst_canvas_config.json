@@ -1,0 +1,30 @@
+{
+  "article_title": "Creation, Flood, Exile, and Return as Narrative Patterns",
+  "article_slug": "creation-flood-exile-and-return-as-narrative-patterns",
+  "module_name": "catalyst_canvas",
+  "metric_weights": {
+    "source_context": 1.0,
+    "conceptual_depth": 1.0,
+    "structure_fit": 0.9,
+    "ethical_framing": 1.0,
+    "governance_value": 1.0
+  },
+  "risk_weights": {
+    "context_loss": 1.0,
+    "overgeneralization": 1.0,
+    "formula_drift": 1.0,
+    "power_blindness": 1.0,
+    "missing_counterexamples": 0.9
+  },
+  "readiness_weights": {
+    "method_limits": 1.0,
+    "counterexamples": 1.0,
+    "uncertainty_notes": 1.0,
+    "review_owner": 0.75,
+    "publication_ready": 0.9
+  },
+  "thresholds": {
+    "medium": 0.45,
+    "high": 0.62
+  }
+}

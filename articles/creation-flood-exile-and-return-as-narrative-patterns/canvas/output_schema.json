@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Creation Flood Exile Return Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "pattern_strength",
+    "rupture_renewal_strength",
+    "ethical_risk",
+    "interpretation_readiness",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "pattern_strength": {"type": "number"},
+    "rupture_renewal_strength": {"type": "number"},
+    "ethical_risk": {"type": "number"},
+    "interpretation_readiness": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

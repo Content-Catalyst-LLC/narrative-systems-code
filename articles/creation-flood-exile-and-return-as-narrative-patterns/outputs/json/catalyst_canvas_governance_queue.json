@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "fe67ce6cb5198224",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Creation, Flood, Exile, and Return as Narrative Patterns",
+    "article_slug": "creation-flood-exile-and-return-as-narrative-patterns",
+    "module_name": "catalyst_canvas",
+    "item": "Pattern ethics review",
+    "claim_context": "risk power counterexample and interpretation-readiness audit",
+    "scores": {
+      "domain_strength": 0.8559,
+      "risk_score": 0.5412,
+      "interpretation_readiness": 0.8019,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Escalate claims involving cleansing fantasy exile romanticization false return or land memory."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.76,
+        "conceptual_depth": 0.84,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.9,
+        "governance_value": 0.92
+      },
+      "risk_signals": {
+        "context_loss": 0.5,
+        "overgeneralization": 0.54,
+        "formula_drift": 0.58,
+        "power_blindness": 0.6,
+        "missing_counterexamples": 0.48
+      },
+      "readiness_signals": {
+        "method_limits": 0.82,
+        "counterexamples": 0.8,
+        "uncertainty_notes": 0.84,
+        "review_owner": 0.78,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "5872e38d09ebf3b1",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Creation, Flood, Exile, and Return as Narrative Patterns",
+    "article_slug": "creation-flood-exile-and-return-as-narrative-patterns",
+    "module_name": "catalyst_canvas",
+    "item": "Institutional pattern reuse",
+    "claim_context": "structured data reuse editorial workflow and future automation audit",
+    "scores": {
+      "domain_strength": 0.8078,
+      "risk_score": 0.5935,
+      "interpretation_readiness": 0.7452,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Record note: Review institutional origin crisis and comeback stories for accountability gaps."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.72,
+        "conceptual_depth": 0.78,
+        "structure_fit": 0.82,
+        "ethical_framing": 0.84,
+        "governance_value": 0.88
+      },
+      "risk_signals": {
+        "context_loss": 0.58,
+        "overgeneralization": 0.56,
+        "formula_drift": 0.62,
+        "power_blindness": 0.68,
+        "missing_counterexamples": 0.52
+      },
+      "readiness_signals": {
+        "method_limits": 0.76,
+        "counterexamples": 0.72,
+        "uncertainty_notes": 0.8,
+        "review_owner": 0.74,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]

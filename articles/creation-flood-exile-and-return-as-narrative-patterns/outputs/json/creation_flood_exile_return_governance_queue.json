@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "e44e0decded874f3",
+    "card_type": "creation_flood_exile_return_pattern",
+    "article_title": "Creation, Flood, Exile, and Return as Narrative Patterns",
+    "article_slug": "creation-flood-exile-and-return-as-narrative-patterns",
+    "item": "Flood and renewal",
+    "claim_context": "catastrophe survival and covenant pattern",
+    "scores": {
+      "pattern_strength": 0.64,
+      "rupture_renewal_strength": 0.755,
+      "ethical_risk": 0.4132,
+      "interpretation_readiness": 0.7867,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Review cleansing language and catastrophe framing."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "d9d7ea8bacd76f1f",
+    "card_type": "creation_flood_exile_return_pattern",
+    "article_title": "Creation, Flood, Exile, and Return as Narrative Patterns",
+    "article_slug": "creation-flood-exile-and-return-as-narrative-patterns",
+    "item": "Exile and return",
+    "claim_context": "displacement memory and contested restoration",
+    "scores": {
+      "pattern_strength": 0.685,
+      "rupture_renewal_strength": 0.81,
+      "ethical_risk": 0.458,
+      "interpretation_readiness": 0.83,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Review land memory displacement and false return."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "8bdf840505b860a7",
+    "card_type": "creation_flood_exile_return_pattern",
+    "article_title": "Creation, Flood, Exile, and Return as Narrative Patterns",
+    "article_slug": "creation-flood-exile-and-return-as-narrative-patterns",
+    "item": "Institutional renewal story",
+    "claim_context": "founding crisis mission loss and reform",
+    "scores": {
+      "pattern_strength": 0.745,
+      "rupture_renewal_strength": 0.7,
+      "ethical_risk": 0.5912,
+      "interpretation_readiness": 0.6967,
+      "governance_priority_score": 0.62
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority narrative-pattern governance review required. Ethical risk is elevated; review origin nostalgia, cleansing fantasy, exile romanticization, false return, and power blindness. High governance concern when renewal hides institutional harm."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "28305425bab66acf",
+    "card_type": "creation_flood_exile_return_pattern",
+    "article_title": "Creation, Flood, Exile, and Return as Narrative Patterns",
+    "article_slug": "creation-flood-exile-and-return-as-narrative-patterns",
+    "item": "Climate displacement story",
+    "claim_context": "ecological rupture exile and uncertain return",
+    "scores": {
+      "pattern_strength": 0.7,
+      "rupture_renewal_strength": 0.84,
+      "ethical_risk": 0.436,
+      "interpretation_readiness": 0.84,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "climate ethics",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Keep material systems and unequal exposure visible."
+    }
+  }
+]

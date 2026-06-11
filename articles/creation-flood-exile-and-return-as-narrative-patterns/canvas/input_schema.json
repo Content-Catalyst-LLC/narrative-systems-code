@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Creation Flood Exile Return Canvas Input",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "creation_signal",
+    "flood_signal",
+    "exile_signal",
+    "return_signal",
+    "source_context",
+    "method_limits"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "creation_signal": {"type": "number", "minimum": 0, "maximum": 1},
+    "flood_signal": {"type": "number", "minimum": 0, "maximum": 1},
+    "exile_signal": {"type": "number", "minimum": 0, "maximum": 1},
+    "return_signal": {"type": "number", "minimum": 0, "maximum": 1},
+    "memory_maintenance": {"type": "number", "minimum": 0, "maximum": 1},
+    "repair_responsibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "source_context": {"type": "number", "minimum": 0, "maximum": 1},
+    "historical_context": {"type": "number", "minimum": 0, "maximum": 1},
+    "counterexamples": {"type": "number", "minimum": 0, "maximum": 1},
+    "method_limits": {"type": "number", "minimum": 0, "maximum": 1},
+    "ethics_governance": {"type": "number", "minimum": 0, "maximum": 1},
+    "uncertainty_notes": {"type": "number", "minimum": 0, "maximum": 1},
+    "origin_nostalgia": {"type": "number", "minimum": 0, "maximum": 1},
+    "cleansing_fantasy": {"type": "number", "minimum": 0, "maximum": 1},
+    "exile_romanticization": {"type": "number", "minimum": 0, "maximum": 1},
+    "false_return": {"type": "number", "minimum": 0, "maximum": 1},
+    "power_blindness": {"type": "number", "minimum": 0, "maximum": 1},
+    "public_consequence": {"type": "number", "minimum": 0, "maximum": 1},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}
