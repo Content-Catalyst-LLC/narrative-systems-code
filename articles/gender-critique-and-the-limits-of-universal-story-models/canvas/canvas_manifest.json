@@ -1,0 +1,40 @@
+{
+  "canvas_module": "universal_story_model_canvas",
+  "article_title": "Gender, Critique, and the Limits of Universal Story Models",
+  "article_slug": "gender-critique-and-the-limits-of-universal-story-models",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Article-specific Canvas module for auditing universal story models through gender critique, intersectionality, queer and trans narrative pressure, cultural context, alternative structures, and AI-mediated template governance.",
+  "inputs": [
+    "universal_story_model_claims",
+    "gender_critique_notes",
+    "intersectionality_notes",
+    "alternative_structure_notes",
+    "digital_story_model_governance_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "universal_story_model_audit.csv",
+    "universal_story_model_governance_queue.csv",
+    "universal_story_model_canvas_cards.json",
+    "universal_story_model_governance_queue.json",
+    "universal_story_model_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "universal model fit",
+      "universalism risk",
+      "critique readiness",
+      "alternative structure signal",
+      "gender binary pressure",
+      "intersectional erasure",
+      "queer and trans narrative pressure",
+      "cultural flattening",
+      "archive bias",
+      "AI stage assignment"
+    ]
+  }
+}

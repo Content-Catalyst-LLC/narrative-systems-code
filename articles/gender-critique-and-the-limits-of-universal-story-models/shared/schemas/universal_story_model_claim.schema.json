@@ -1,0 +1,12 @@
+{
+  "title": "Universal Story Model Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "stage_evidence", "archive_bias", "local_context"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "stage_evidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "archive_bias": {"type": "number", "minimum": 0, "maximum": 1},
+    "local_context": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

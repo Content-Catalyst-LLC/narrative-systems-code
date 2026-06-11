@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "6756d0df74d953ef",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Gender, Critique, and the Limits of Universal Story Models",
+    "article_slug": "gender-critique-and-the-limits-of-universal-story-models",
+    "module_name": "catalyst_canvas",
+    "item": "Universal story model critique core claim",
+    "claim_context": "article level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.9,
+      "risk_score": 0.4045,
+      "interpretation_readiness": 0.8574,
+      "governance_priority_score": 0.2519
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core critique claim is suitable for Canvas reuse after standard review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.88,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.94,
+        "governance_value": 0.92
+      },
+      "risk_signals": {
+        "context_loss": 0.36,
+        "overgeneralization": 0.42,
+        "formula_drift": 0.38,
+        "power_blindness": 0.46,
+        "missing_counterexamples": 0.4
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.86,
+        "review_owner": 0.84,
+        "publication_ready": 0.82
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "53cd4e17cfecc9db",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Gender, Critique, and the Limits of Universal Story Models",
+    "article_slug": "gender-critique-and-the-limits-of-universal-story-models",
+    "module_name": "catalyst_canvas",
+    "item": "Universalism risk review",
+    "claim_context": "risk power counterexample and interpretation readiness audit",
+    "scores": {
+      "domain_strength": 0.896,
+      "risk_score": 0.649,
+      "interpretation_readiness": 0.8498,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power omissions ethical framing and distortion. Record note: Escalate claims involving gender binary pressure archive bias cultural flattening or intersectional erasure."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.84,
+        "ethical_framing": 0.96,
+        "governance_value": 0.94
+      },
+      "risk_signals": {
+        "context_loss": 0.58,
+        "overgeneralization": 0.64,
+        "formula_drift": 0.6,
+        "power_blindness": 0.72,
+        "missing_counterexamples": 0.7
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.78
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "bc9a3dce8f61c959",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Gender, Critique, and the Limits of Universal Story Models",
+    "article_slug": "gender-critique-and-the-limits-of-universal-story-models",
+    "module_name": "catalyst_canvas",
+    "item": "AI story model governance",
+    "claim_context": "structured data reuse editorial workflow and future automation audit",
+    "scores": {
+      "domain_strength": 0.86,
+      "risk_score": 0.7037,
+      "interpretation_readiness": 0.7928,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power omissions ethical framing and distortion. Record note: Review automated model fit archetype assignment and universal stage labeling."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.78,
+        "conceptual_depth": 0.84,
+        "structure_fit": 0.82,
+        "ethical_framing": 0.92,
+        "governance_value": 0.94
+      },
+      "risk_signals": {
+        "context_loss": 0.66,
+        "overgeneralization": 0.7,
+        "formula_drift": 0.72,
+        "power_blindness": 0.74,
+        "missing_counterexamples": 0.7
+      },
+      "readiness_signals": {
+        "method_limits": 0.8,
+        "counterexamples": 0.78,
+        "uncertainty_notes": 0.84,
+        "review_owner": 0.8,
+        "publication_ready": 0.74
+      }
+    }
+  }
+]
