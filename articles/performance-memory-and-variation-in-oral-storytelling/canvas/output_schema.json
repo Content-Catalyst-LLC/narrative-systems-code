@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Oral Storytelling Variation Canvas Output",
+  "type": "object",
+  "required": ["item", "storytelling_context", "performance_context", "memory_support", "variation_accountability", "archive_risk", "governance_priority_score", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "storytelling_context": {"type": "string"},
+    "performance_context": {"type": "number"},
+    "memory_support": {"type": "number"},
+    "variation_accountability": {"type": "number"},
+    "archive_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

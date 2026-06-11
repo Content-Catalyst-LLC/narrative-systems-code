@@ -1,0 +1,38 @@
+{
+  "canvas_module": "oral_storytelling_variation_canvas",
+  "article_title": "Performance, Memory, and Variation in Oral Storytelling",
+  "article_slug": "performance-memory-and-variation-in-oral-storytelling",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing oral storytelling performance context, memory support, variation accountability, transmission pathways, formula use, archive risk, platform circulation, and governance priority.",
+  "inputs": [
+    "oral_storytelling_variation_items",
+    "performance_contexts",
+    "memory_supports",
+    "variation_patterns",
+    "archive_risks",
+    "oral_storytelling_governance_notes"
+  ],
+  "outputs": [
+    "oral_storytelling_variation_audit.csv",
+    "oral_storytelling_variation_governance_queue.csv",
+    "oral_storytelling_variation_canvas_cards.json",
+    "oral_storytelling_variation_governance_queue.json",
+    "oral_storytelling_variation_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "performance context",
+      "memory support",
+      "variation accountability",
+      "audience documentation",
+      "occasion context",
+      "formula use",
+      "transmission pathways",
+      "language notes",
+      "archive risk",
+      "platform circulation"
+    ]
+  }
+}

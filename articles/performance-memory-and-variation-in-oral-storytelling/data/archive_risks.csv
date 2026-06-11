@@ -1,0 +1,10 @@
+item,risk_type,severity,note
+Digital clip of local legend,context removal,high,Platform circulation strips performance setting
+Digital clip of local legend,fixation risk,high,Clip may become treated as full version
+Digital clip of local legend,extraction risk,high,Digital reuse and remix risk are high
+Ritual story omission,restricted protocol,high,Omission may signal access control
+Ritual story omission,performance omission,high,Transcript may expose or flatten ritual frame
+Translated folktale variant,translation loss,high,Original language and performance cues may be lost
+Translated folktale variant,source review,medium,Collector and translation context required
+Festival folktale performance,public framing,low,Festival staging may shape expectations
+Repeated family story,privacy,low,Family memory may require consent notes

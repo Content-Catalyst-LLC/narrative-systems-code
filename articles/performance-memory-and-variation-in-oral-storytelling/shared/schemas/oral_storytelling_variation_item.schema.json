@@ -1,0 +1,12 @@
+{
+  "title": "Oral Storytelling Variation Item",
+  "type": "object",
+  "required": ["item", "storytelling_context", "teller_role", "audience_documentation", "variation_tracking"],
+  "properties": {
+    "item": {"type": "string"},
+    "storytelling_context": {"type": "string"},
+    "teller_role": {"type": "number", "minimum": 0, "maximum": 1},
+    "audience_documentation": {"type": "number", "minimum": 0, "maximum": 1},
+    "variation_tracking": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

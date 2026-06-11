@@ -1,0 +1,67 @@
+[
+  {
+    "item": "Digital clip of local legend",
+    "storytelling_context": "platform circulation",
+    "performance_context": 0.317,
+    "memory_support": 0.297,
+    "variation_accountability": 0.26,
+    "archive_risk": 0.816,
+    "governance_priority_score": 0.805,
+    "review_priority": "high",
+    "owner": "platform review",
+    "status": "revise",
+    "governance_note": "Requires review for performance omission, fixation risk, context removal, translation loss, extraction risk, access protocol, and platform circulation."
+  },
+  {
+    "item": "Ritual story omission",
+    "storytelling_context": "restricted ritual context",
+    "performance_context": 0.8,
+    "memory_support": 0.77,
+    "variation_accountability": 0.727,
+    "archive_risk": 0.593,
+    "governance_priority_score": 0.666,
+    "review_priority": "high",
+    "owner": "cultural review",
+    "status": "review",
+    "governance_note": "Requires review for performance omission, fixation risk, context removal, translation loss, extraction risk, access protocol, and platform circulation."
+  },
+  {
+    "item": "Translated folktale variant",
+    "storytelling_context": "translated collected folktale",
+    "performance_context": 0.55,
+    "memory_support": 0.593,
+    "variation_accountability": 0.537,
+    "archive_risk": 0.574,
+    "governance_priority_score": 0.617,
+    "review_priority": "high",
+    "owner": "archive review",
+    "status": "review",
+    "governance_note": "Requires review for performance omission, fixation risk, context removal, translation loss, extraction risk, access protocol, and platform circulation."
+  },
+  {
+    "item": "Festival folktale performance",
+    "storytelling_context": "public festival performance",
+    "performance_context": 0.813,
+    "memory_support": 0.777,
+    "variation_accountability": 0.7,
+    "archive_risk": 0.326,
+    "governance_priority_score": 0.486,
+    "review_priority": "medium",
+    "owner": "performance review",
+    "status": "active",
+    "governance_note": "Review teller role, audience documentation, occasion context, language notes, source review, and variation accountability."
+  },
+  {
+    "item": "Repeated family story",
+    "storytelling_context": "family memory gathering",
+    "performance_context": 0.723,
+    "memory_support": 0.76,
+    "variation_accountability": 0.68,
+    "archive_risk": 0.297,
+    "governance_priority_score": 0.442,
+    "review_priority": "medium",
+    "owner": "editorial",
+    "status": "active",
+    "governance_note": "Review teller role, audience documentation, occasion context, language notes, source review, and variation accountability."
+  }
+]
