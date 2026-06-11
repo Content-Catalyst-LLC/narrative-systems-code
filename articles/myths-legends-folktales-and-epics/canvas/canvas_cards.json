@@ -1,0 +1,67 @@
+[
+  {
+    "item": "Sacred story adapted as game quest",
+    "proposed_form": "hybrid adaptation",
+    "form_classification": 0.423,
+    "narrative_distinction": 0.38,
+    "cultural_memory_function": 0.613,
+    "adaptation_risk": 0.811,
+    "governance_priority_score": 0.815,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "revise",
+    "governance_note": "Requires review for sacred or restricted material, context removal, performance omission, translation loss, extraction risk, and weak governance control."
+  },
+  {
+    "item": "Creation story",
+    "proposed_form": "myth",
+    "form_classification": 0.853,
+    "narrative_distinction": 0.78,
+    "cultural_memory_function": 0.793,
+    "adaptation_risk": 0.484,
+    "governance_priority_score": 0.591,
+    "review_priority": "medium",
+    "owner": "cultural review",
+    "status": "review",
+    "governance_note": "Review form classification, truth claim, hybrid boundaries, source context, performance trace, and adaptation constraints."
+  },
+  {
+    "item": "Oral epic performance",
+    "proposed_form": "epic",
+    "form_classification": 0.87,
+    "narrative_distinction": 0.828,
+    "cultural_memory_function": 0.767,
+    "adaptation_risk": 0.316,
+    "governance_priority_score": 0.506,
+    "review_priority": "medium",
+    "owner": "performance review",
+    "status": "active",
+    "governance_note": "Review form classification, truth claim, hybrid boundaries, source context, performance trace, and adaptation constraints."
+  },
+  {
+    "item": "Haunted bridge story",
+    "proposed_form": "legend",
+    "form_classification": 0.74,
+    "narrative_distinction": 0.728,
+    "cultural_memory_function": 0.583,
+    "adaptation_risk": 0.308,
+    "governance_priority_score": 0.461,
+    "review_priority": "standard",
+    "owner": "editorial",
+    "status": "active",
+    "governance_note": "Standard traditional narrative form review."
+  },
+  {
+    "item": "Trickster tale",
+    "proposed_form": "folktale",
+    "form_classification": 0.733,
+    "narrative_distinction": 0.812,
+    "cultural_memory_function": 0.48,
+    "adaptation_risk": 0.251,
+    "governance_priority_score": 0.398,
+    "review_priority": "standard",
+    "owner": "research",
+    "status": "active",
+    "governance_note": "Standard traditional narrative form review."
+  }
+]

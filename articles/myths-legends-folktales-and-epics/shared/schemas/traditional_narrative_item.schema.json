@@ -1,0 +1,34 @@
+{
+  "title": "Traditional Narrative Item",
+  "type": "object",
+  "required": [
+    "item",
+    "proposed_form",
+    "truth_claim_clarity",
+    "social_function",
+    "memory_orientation"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "proposed_form": {
+      "type": "string"
+    },
+    "truth_claim_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "social_function": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "memory_orientation": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

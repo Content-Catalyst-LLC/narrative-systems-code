@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Traditional Narrative Forms Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "proposed_form",
+    "form_classification",
+    "narrative_distinction",
+    "cultural_memory_function",
+    "adaptation_risk",
+    "governance_priority_score",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {
+      "type": "string"
+    },
+    "proposed_form": {
+      "type": "string"
+    },
+    "form_classification": {
+      "type": "number"
+    },
+    "narrative_distinction": {
+      "type": "number"
+    },
+    "cultural_memory_function": {
+      "type": "number"
+    },
+    "adaptation_risk": {
+      "type": "number"
+    },
+    "governance_priority_score": {
+      "type": "number"
+    },
+    "review_priority": {
+      "type": "string"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+item,risk_type,severity,note
+Creation story,sacred context,high,Mythic material may require ritual or community context
+Creation story,translation loss,medium,Sacred terms may shift across language
+Haunted bridge story,place detachment,medium,Tourist or media reuse may flatten local history
+Trickster tale,context simplification,low,Trickster logic may be moralized too narrowly
+Oral epic performance,performance omission,medium,Summarizing plot may erase oral performance and formula
+Sacred story adapted as game quest,sacred material,high,Sacred material may be turned into generic quest content
+Sacred story adapted as game quest,extraction risk,high,Commercial reuse may benefit adapters without community governance
+Sacred story adapted as game quest,context removal,high,Source ritual and authority context are omitted

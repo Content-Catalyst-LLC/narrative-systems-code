@@ -1,0 +1,151 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Traditional Narrative Forms Canvas Input",
+  "type": "object",
+  "required": [
+    "item",
+    "proposed_form",
+    "truth_claim_clarity",
+    "social_function",
+    "memory_orientation"
+  ],
+  "properties": {
+    "truth_claim_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "social_function": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "memory_orientation": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "performance_trace": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "authority_context": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "genre_notes": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "boundary_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "category_specificity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "hybrid_tracking": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "responsible_analogy": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "variation_management": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "origin_memory": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "place_memory": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "ritual_memory": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "heroic_memory": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "identity_memory": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "future_obligation": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "context_removal": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "sacred_or_restricted_material": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "performance_omission": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "translation_loss": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "extraction_risk": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "governance_control": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "community_sensitivity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "public_consequence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "item": {
+      "type": "string"
+    },
+    "proposed_form": {
+      "type": "string"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

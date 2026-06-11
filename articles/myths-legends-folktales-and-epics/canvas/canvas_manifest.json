@@ -1,0 +1,38 @@
+{
+  "canvas_module": "traditional_narrative_forms_canvas",
+  "article_title": "Myths, Legends, Folktales, and Epics",
+  "article_slug": "myths-legends-folktales-and-epics",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing myth, legend, folktale, epic, hybrid narrative classification, truth claims, cultural memory, adaptation risk, extraction risk, and governance priority.",
+  "inputs": [
+    "traditional_narrative_forms_items",
+    "form_distinctions",
+    "truth_claims",
+    "memory_functions",
+    "adaptation_risks",
+    "traditional_narrative_governance_notes"
+  ],
+  "outputs": [
+    "traditional_narrative_forms_audit.csv",
+    "traditional_narrative_forms_governance_queue.csv",
+    "traditional_narrative_forms_canvas_cards.json",
+    "traditional_narrative_forms_governance_queue.json",
+    "traditional_narrative_forms_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "form classification",
+      "truth claim clarity",
+      "narrative distinction",
+      "hybrid tracking",
+      "cultural memory",
+      "performance trace",
+      "source context",
+      "translation loss",
+      "adaptation risk",
+      "governance control"
+    ]
+  }
+}
