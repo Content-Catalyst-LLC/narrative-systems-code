@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "37294bcfe130ce3b",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Storytelling in Religion, Politics, and Public Life",
+    "article_slug": "storytelling-in-religion-politics-and-public-life",
+    "module_name": "catalyst_canvas",
+    "item": "Public story governance core claim",
+    "claim_context": "article level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.924,
+      "risk_score": 0.4,
+      "interpretation_readiness": 0.8651,
+      "governance_priority_score": 0.2424
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core claim about public stories shaping memory, authority, and action is suitable for Canvas reuse after standard review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.88,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.9,
+        "ethical_framing": 0.96,
+        "governance_value": 0.96
+      },
+      "risk_signals": {
+        "context_loss": 0.36,
+        "overgeneralization": 0.42,
+        "formula_drift": 0.38,
+        "power_blindness": 0.44,
+        "missing_counterexamples": 0.4
+      },
+      "readiness_signals": {
+        "method_limits": 0.9,
+        "counterexamples": 0.86,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.82
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "8e58e800e26a5b85",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Storytelling in Religion, Politics, and Public Life",
+    "article_slug": "storytelling-in-religion-politics-and-public-life",
+    "module_name": "catalyst_canvas",
+    "item": "Mythic simplification and scapegoating review",
+    "claim_context": "enemy simplification crisis compression and boundary hardening audit",
+    "scores": {
+      "domain_strength": 0.912,
+      "risk_score": 0.7012,
+      "interpretation_readiness": 0.8536,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate when public stories compress complexity into enemy, purity, urgency, or scapegoating frames."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.96
+      },
+      "risk_signals": {
+        "context_loss": 0.64,
+        "overgeneralization": 0.72,
+        "formula_drift": 0.62,
+        "power_blindness": 0.82,
+        "missing_counterexamples": 0.7
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.9,
+        "review_owner": 0.86,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "8e45c53065dd29bd",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Storytelling in Religion, Politics, and Public Life",
+    "article_slug": "storytelling-in-religion-politics-and-public-life",
+    "module_name": "catalyst_canvas",
+    "item": "AI public rhetoric governance",
+    "claim_context": "automated public persuasion and identity boundary audit",
+    "scores": {
+      "domain_strength": 0.904,
+      "risk_score": 0.7637,
+      "interpretation_readiness": 0.8255,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review AI-generated public rhetoric for outrage intensity, missing context, identity hardening, formulaic moral language, and weak human accountability."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.82,
+        "conceptual_depth": 0.88,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.72,
+        "overgeneralization": 0.76,
+        "formula_drift": 0.78,
+        "power_blindness": 0.82,
+        "missing_counterexamples": 0.74
+      },
+      "readiness_signals": {
+        "method_limits": 0.84,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.72
+      }
+    }
+  }
+]

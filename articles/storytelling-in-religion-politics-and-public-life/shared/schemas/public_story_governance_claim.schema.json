@@ -1,0 +1,11 @@
+{
+  "title": "Public Story Governance Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "shared_value_clarity", "evidence_visibility"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "shared_value_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "evidence_visibility": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

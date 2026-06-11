@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "b93df696a28e006c",
+    "card_type": "public_story_governance",
+    "article_title": "Storytelling in Religion, Politics, and Public Life",
+    "article_slug": "storytelling-in-religion-politics-and-public-life",
+    "item": "Campaign public narrative",
+    "claim_context": "story of self us and now civic mobilization audit",
+    "scores": {
+      "public_narrative_strength": 0.81,
+      "mythic_simplification_risk": 0.5406,
+      "civil_religion_accountability": 0.7,
+      "testimony_ethics": 0.71,
+      "ai_public_rhetoric_risk": 0.6016,
+      "governance_priority_score": 0.5634
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. AI-public-rhetoric risk is elevated. Review formulaic defaults, outrage intensity, resolution smoothing, identity-boundary pressure, missing context, and human governance. Review urgency and boundary language before publication."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "52117fba291ea8b2",
+    "card_type": "public_story_governance",
+    "article_title": "Storytelling in Religion, Politics, and Public Life",
+    "article_slug": "storytelling-in-religion-politics-and-public-life",
+    "item": "Civil-religious national ceremony",
+    "claim_context": "national memory sacred language and dissent-space audit",
+    "scores": {
+      "public_narrative_strength": 0.66,
+      "mythic_simplification_risk": 0.5764,
+      "civil_religion_accountability": 0.4733,
+      "testimony_ethics": 0.5767,
+      "ai_public_rhetoric_risk": 0.5532,
+      "governance_priority_score": 0.6062
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Mythic-simplification risk is elevated. Review enemy simplification, boundary hardening, crisis compression, urgency pressure, scapegoating, and evidence visibility. AI-public-rhetoric risk is elevated. Review formulaic defaults, outrage intensity, resolution smoothing, identity-boundary pressure, missing context, and human governance. Civil-religion accountability is limited. Strengthen memory plurality, historical truthfulness, public limits, dissent space, repair justice, and anti-idolatry critique. Testimony ethics is limited. Strengthen witness care, context, harm visibility, extraction resistance, responsibility, and repair. Strengthen memory plurality, dissent space, and historical truthfulness."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "9efc6d45c9722ea2",
+    "card_type": "public_story_governance",
+    "article_title": "Storytelling in Religion, Politics, and Public Life",
+    "article_slug": "storytelling-in-religion-politics-and-public-life",
+    "item": "AI-generated public message",
+    "claim_context": "automated persuasion outrage and identity boundary audit",
+    "scores": {
+      "public_narrative_strength": 0.4967,
+      "mythic_simplification_risk": 0.7904,
+      "civil_religion_accountability": 0.3967,
+      "testimony_ethics": 0.4167,
+      "ai_public_rhetoric_risk": 0.8532,
+      "governance_priority_score": 0.7844
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority public-story governance review required. Mythic-simplification risk is elevated. Review enemy simplification, boundary hardening, crisis compression, urgency pressure, scapegoating, and evidence visibility. AI-public-rhetoric risk is elevated. Review formulaic defaults, outrage intensity, resolution smoothing, identity-boundary pressure, missing context, and human governance. Civil-religion accountability is limited. Strengthen memory plurality, historical truthfulness, public limits, dissent space, repair justice, and anti-idolatry critique. Testimony ethics is limited. Strengthen witness care, context, harm visibility, extraction resistance, responsibility, and repair. Escalate. Automation may be optimizing emotional pressure rather than public judgment."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "fffca13a1406bfde",
+    "card_type": "public_story_governance",
+    "article_title": "Storytelling in Religion, Politics, and Public Life",
+    "article_slug": "storytelling-in-religion-politics-and-public-life",
+    "item": "Public testimony archive",
+    "claim_context": "witness memory extraction and repair responsibility audit",
+    "scores": {
+      "public_narrative_strength": 0.7033,
+      "mythic_simplification_risk": 0.4004,
+      "civil_religion_accountability": 0.7967,
+      "testimony_ethics": 0.8633,
+      "ai_public_rhetoric_risk": 0.3908,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "ethics review",
+      "status": "review",
+      "governance_note": "Medium-priority review recommended before reuse. Strong witness ethics. Maintain consent, context, and repair obligations."
+    }
+  }
+]

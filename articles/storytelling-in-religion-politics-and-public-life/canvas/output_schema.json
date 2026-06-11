@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public Story Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "claim_context",
+    "public_narrative_strength",
+    "mythic_simplification_risk",
+    "civil_religion_accountability",
+    "testimony_ethics",
+    "ai_public_rhetoric_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "public_narrative_strength": {"type": "number"},
+    "mythic_simplification_risk": {"type": "number"},
+    "civil_religion_accountability": {"type": "number"},
+    "testimony_ethics": {"type": "number"},
+    "ai_public_rhetoric_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

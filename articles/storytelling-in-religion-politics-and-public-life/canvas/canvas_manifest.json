@@ -1,0 +1,40 @@
+{
+  "canvas_module": "public_story_governance_canvas",
+  "article_title": "Storytelling in Religion, Politics, and Public Life",
+  "article_slug": "storytelling-in-religion-politics-and-public-life",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Article-specific Canvas module for public narrative strength, mythic simplification risk, civil-religion accountability, testimony ethics, AI-public-rhetoric risk, and institutional legitimacy review.",
+  "inputs": [
+    "public_story_governance_claims",
+    "public_narrative_notes",
+    "mythic_simplification_notes",
+    "civil_religion_notes",
+    "ai_public_rhetoric_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "public_story_governance_audit.csv",
+    "public_story_governance_queue.csv",
+    "public_story_governance_canvas_cards.json",
+    "public_story_governance_queue.json",
+    "public_story_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "public narrative strength",
+      "mythic simplification risk",
+      "civil religion accountability",
+      "testimony ethics",
+      "AI public rhetoric risk",
+      "boundary hardening",
+      "scapegoating",
+      "evidence visibility",
+      "dissent space",
+      "human governance"
+    ]
+  }
+}
