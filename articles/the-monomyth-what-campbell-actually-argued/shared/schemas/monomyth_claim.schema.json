@@ -1,0 +1,12 @@
+{
+  "title": "Monomyth Claim",
+  "type": "object",
+  "required": ["item", "claim_context", "departure_pattern", "threshold_crossing", "method_limits"],
+  "properties": {
+    "item": {"type": "string"},
+    "claim_context": {"type": "string"},
+    "departure_pattern": {"type": "number", "minimum": 0, "maximum": 1},
+    "threshold_crossing": {"type": "number", "minimum": 0, "maximum": 1},
+    "method_limits": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

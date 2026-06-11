@@ -1,0 +1,67 @@
+[
+  {
+    "item": "Corporate hero narrative",
+    "claim_context": "brand story using hero journey",
+    "monomyth_pattern": 0.717,
+    "specificity_preservation": 0.19,
+    "formula_drift": 0.888,
+    "interpretation_readiness": 0.208,
+    "governance_priority_score": 0.82,
+    "review_priority": "high",
+    "owner": "governance",
+    "status": "revise",
+    "governance_note": "Requires review for formula drift, stage literalism, context loss, overfitting, source authority, counterexamples, public consequence, and ethical risk."
+  },
+  {
+    "item": "Coming-of-age film",
+    "claim_context": "popular media analysis",
+    "monomyth_pattern": 0.717,
+    "specificity_preservation": 0.47,
+    "formula_drift": 0.615,
+    "interpretation_readiness": 0.522,
+    "governance_priority_score": 0.556,
+    "review_priority": "high",
+    "owner": "story review",
+    "status": "review",
+    "governance_note": "Requires review for formula drift, stage literalism, context loss, overfitting, source authority, counterexamples, public consequence, and ethical risk."
+  },
+  {
+    "item": "Indigenous place-based narrative",
+    "claim_context": "place-based oral tradition",
+    "monomyth_pattern": 0.273,
+    "specificity_preservation": 0.89,
+    "formula_drift": 0.196,
+    "interpretation_readiness": 0.882,
+    "governance_priority_score": 0.496,
+    "review_priority": "medium",
+    "owner": "cultural review",
+    "status": "active",
+    "governance_note": "Review monomyth pattern claim, source context, method limits, ritual verification, and uncertainty marking."
+  },
+  {
+    "item": "Quest myth",
+    "claim_context": "source-tradition myth analysis",
+    "monomyth_pattern": 0.813,
+    "specificity_preservation": 0.753,
+    "formula_drift": 0.34,
+    "interpretation_readiness": 0.742,
+    "governance_priority_score": 0.475,
+    "review_priority": "standard",
+    "owner": "editorial",
+    "status": "active",
+    "governance_note": "Standard monomyth claim review."
+  },
+  {
+    "item": "Heroine-centered story",
+    "claim_context": "alternative transformation structure",
+    "monomyth_pattern": 0.47,
+    "specificity_preservation": 0.627,
+    "formula_drift": 0.276,
+    "interpretation_readiness": 0.741,
+    "governance_priority_score": 0.455,
+    "review_priority": "standard",
+    "owner": "gender review",
+    "status": "active",
+    "governance_note": "Standard monomyth claim review."
+  }
+]

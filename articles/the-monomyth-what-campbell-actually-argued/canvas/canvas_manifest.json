@@ -1,0 +1,38 @@
+{
+  "canvas_module": "monomyth_canvas",
+  "article_title": "The Monomyth: What Campbell Actually Argued",
+  "article_slug": "the-monomyth-what-campbell-actually-argued",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing monomyth claims, departure-initiation-return pattern strength, specificity preservation, formula drift, interpretation readiness, counterexample inclusion, source authority, and ethical governance.",
+  "inputs": [
+    "monomyth_claims",
+    "source_contexts",
+    "pattern_features",
+    "specificity_notes",
+    "formula_drift_risks",
+    "monomyth_governance_notes"
+  ],
+  "outputs": [
+    "monomyth_claim_audit.csv",
+    "monomyth_claim_governance_queue.csv",
+    "monomyth_claim_canvas_cards.json",
+    "monomyth_claim_governance_queue.json",
+    "monomyth_claim_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "monomyth pattern",
+      "specificity preservation",
+      "formula drift",
+      "source context",
+      "ritual context",
+      "oral performance",
+      "authority notes",
+      "counterexamples",
+      "method limits",
+      "ethical governance"
+    ]
+  }
+}

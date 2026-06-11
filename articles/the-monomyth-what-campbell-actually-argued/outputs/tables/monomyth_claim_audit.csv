@@ -1,0 +1,6 @@
+item,claim_context,monomyth_pattern,specificity_preservation,formula_drift,interpretation_readiness,governance_priority_score,review_priority,owner,status,governance_note
+Corporate hero narrative,brand story using hero journey,0.717,0.19,0.888,0.208,0.82,high,governance,revise,"Requires review for formula drift, stage literalism, context loss, overfitting, source authority, counterexamples, public consequence, and ethical risk."
+Coming-of-age film,popular media analysis,0.717,0.47,0.615,0.522,0.556,high,story review,review,"Requires review for formula drift, stage literalism, context loss, overfitting, source authority, counterexamples, public consequence, and ethical risk."
+Indigenous place-based narrative,place-based oral tradition,0.273,0.89,0.196,0.882,0.496,medium,cultural review,active,"Review monomyth pattern claim, source context, method limits, ritual verification, and uncertainty marking."
+Quest myth,source-tradition myth analysis,0.813,0.753,0.34,0.742,0.475,standard,editorial,active,Standard monomyth claim review.
+Heroine-centered story,alternative transformation structure,0.47,0.627,0.276,0.741,0.455,standard,gender review,active,Standard monomyth claim review.
