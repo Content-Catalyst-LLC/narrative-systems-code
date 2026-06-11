@@ -1,0 +1,67 @@
+[
+  {
+    "item": "Ritual chant recording",
+    "heritage_context": "restricted ceremonial storytelling",
+    "living_continuity": 0.773,
+    "safeguarding_readiness": 0.573,
+    "heritage_context_preservation": 0.867,
+    "archive_risk": 0.77,
+    "governance_priority_score": 0.759,
+    "review_priority": "high",
+    "owner": "cultural review",
+    "status": "review",
+    "governance_note": "Requires review for restricted material, weak consent, access control, context removal, platform/data risk, extraction risk, and community governance."
+  },
+  {
+    "item": "Digital platform story collection",
+    "heritage_context": "public digital heritage platform",
+    "living_continuity": 0.45,
+    "safeguarding_readiness": 0.327,
+    "heritage_context_preservation": 0.35,
+    "archive_risk": 0.752,
+    "governance_priority_score": 0.774,
+    "review_priority": "high",
+    "owner": "platform review",
+    "status": "revise",
+    "governance_note": "Requires review for restricted material, weak consent, access control, context removal, platform/data risk, extraction risk, and community governance."
+  },
+  {
+    "item": "Community legend archive",
+    "heritage_context": "place-based memory archive",
+    "living_continuity": 0.73,
+    "safeguarding_readiness": 0.713,
+    "heritage_context_preservation": 0.697,
+    "archive_risk": 0.343,
+    "governance_priority_score": 0.504,
+    "review_priority": "medium",
+    "owner": "community archive",
+    "status": "active",
+    "governance_note": "Review safeguarding readiness, performance context, language vitality, transmission pathways, metadata quality, and access level."
+  },
+  {
+    "item": "Intergenerational folktale practice",
+    "heritage_context": "family and community oral tradition",
+    "living_continuity": 0.81,
+    "safeguarding_readiness": 0.683,
+    "heritage_context_preservation": 0.707,
+    "archive_risk": 0.284,
+    "governance_priority_score": 0.459,
+    "review_priority": "standard",
+    "owner": "editorial",
+    "status": "active",
+    "governance_note": "Standard storytelling heritage review."
+  },
+  {
+    "item": "Language revitalization storytelling workshop",
+    "heritage_context": "community-led language and story transmission",
+    "living_continuity": 0.86,
+    "safeguarding_readiness": 0.803,
+    "heritage_context_preservation": 0.723,
+    "archive_risk": 0.213,
+    "governance_priority_score": 0.454,
+    "review_priority": "standard",
+    "owner": "language team",
+    "status": "active",
+    "governance_note": "Standard storytelling heritage review."
+  }
+]

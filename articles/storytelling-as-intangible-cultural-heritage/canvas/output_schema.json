@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Storytelling Heritage Canvas Output",
+  "type": "object",
+  "required": ["item", "heritage_context", "living_continuity", "safeguarding_readiness", "heritage_context_preservation", "archive_risk", "governance_priority_score", "review_priority"],
+  "properties": {
+    "item": {"type": "string"},
+    "heritage_context": {"type": "string"},
+    "living_continuity": {"type": "number"},
+    "safeguarding_readiness": {"type": "number"},
+    "heritage_context_preservation": {"type": "number"},
+    "archive_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

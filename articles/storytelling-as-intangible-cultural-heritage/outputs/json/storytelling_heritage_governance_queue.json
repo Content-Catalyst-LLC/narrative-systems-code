@@ -1,0 +1,41 @@
+[
+  {
+    "item": "Ritual chant recording",
+    "heritage_context": "restricted ceremonial storytelling",
+    "living_continuity": 0.773,
+    "safeguarding_readiness": 0.573,
+    "heritage_context_preservation": 0.867,
+    "archive_risk": 0.77,
+    "governance_priority_score": 0.759,
+    "review_priority": "high",
+    "owner": "cultural review",
+    "status": "review",
+    "governance_note": "Requires review for restricted material, weak consent, access control, context removal, platform/data risk, extraction risk, and community governance."
+  },
+  {
+    "item": "Digital platform story collection",
+    "heritage_context": "public digital heritage platform",
+    "living_continuity": 0.45,
+    "safeguarding_readiness": 0.327,
+    "heritage_context_preservation": 0.35,
+    "archive_risk": 0.752,
+    "governance_priority_score": 0.774,
+    "review_priority": "high",
+    "owner": "platform review",
+    "status": "revise",
+    "governance_note": "Requires review for restricted material, weak consent, access control, context removal, platform/data risk, extraction risk, and community governance."
+  },
+  {
+    "item": "Community legend archive",
+    "heritage_context": "place-based memory archive",
+    "living_continuity": 0.73,
+    "safeguarding_readiness": 0.713,
+    "heritage_context_preservation": 0.697,
+    "archive_risk": 0.343,
+    "governance_priority_score": 0.504,
+    "review_priority": "medium",
+    "owner": "community archive",
+    "status": "active",
+    "governance_note": "Review safeguarding readiness, performance context, language vitality, transmission pathways, metadata quality, and access level."
+  }
+]

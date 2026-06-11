@@ -1,0 +1,6 @@
+item,heritage_context,living_continuity,safeguarding_readiness,heritage_context_preservation,archive_risk,governance_priority_score,review_priority,owner,status,governance_note
+Ritual chant recording,restricted ceremonial storytelling,0.773,0.573,0.867,0.77,0.759,high,cultural review,review,"Requires review for restricted material, weak consent, access control, context removal, platform/data risk, extraction risk, and community governance."
+Digital platform story collection,public digital heritage platform,0.45,0.327,0.35,0.752,0.774,high,platform review,revise,"Requires review for restricted material, weak consent, access control, context removal, platform/data risk, extraction risk, and community governance."
+Community legend archive,place-based memory archive,0.73,0.713,0.697,0.343,0.504,medium,community archive,active,"Review safeguarding readiness, performance context, language vitality, transmission pathways, metadata quality, and access level."
+Intergenerational folktale practice,family and community oral tradition,0.81,0.683,0.707,0.284,0.459,standard,editorial,active,Standard storytelling heritage review.
+Language revitalization storytelling workshop,community-led language and story transmission,0.86,0.803,0.723,0.213,0.454,standard,language team,active,Standard storytelling heritage review.

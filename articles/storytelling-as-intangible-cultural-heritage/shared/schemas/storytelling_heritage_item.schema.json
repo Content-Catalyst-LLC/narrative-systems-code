@@ -1,0 +1,12 @@
+{
+  "title": "Storytelling Heritage Item",
+  "type": "object",
+  "required": ["item", "heritage_context", "transmission_support", "performance_context", "consent_clarity"],
+  "properties": {
+    "item": {"type": "string"},
+    "heritage_context": {"type": "string"},
+    "transmission_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "performance_context": {"type": "number", "minimum": 0, "maximum": 1},
+    "consent_clarity": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

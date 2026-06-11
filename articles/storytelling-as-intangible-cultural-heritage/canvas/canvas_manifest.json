@@ -1,0 +1,38 @@
+{
+  "canvas_module": "storytelling_heritage_canvas",
+  "article_title": "Storytelling as Intangible Cultural Heritage",
+  "article_slug": "storytelling-as-intangible-cultural-heritage",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Catalyst Canvas-ready module for auditing storytelling heritage, living transmission, safeguarding readiness, heritage context, consent clarity, access control, archive risk, digital context collapse, extraction risk, and community governance priority.",
+  "inputs": [
+    "storytelling_heritage_items",
+    "safeguarding_contexts",
+    "transmission_pathways",
+    "consent_access_controls",
+    "archive_risks",
+    "storytelling_heritage_governance_notes"
+  ],
+  "outputs": [
+    "storytelling_heritage_audit.csv",
+    "storytelling_heritage_governance_queue.csv",
+    "storytelling_heritage_canvas_cards.json",
+    "storytelling_heritage_governance_queue.json",
+    "storytelling_heritage_governance_queue.md"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "living continuity",
+      "safeguarding readiness",
+      "heritage context preservation",
+      "transmission support",
+      "language vitality",
+      "consent clarity",
+      "access control",
+      "archive risk",
+      "digital context collapse",
+      "community governance"
+    ]
+  }
+}

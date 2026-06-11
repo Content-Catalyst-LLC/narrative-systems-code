@@ -1,0 +1,10 @@
+item,risk_type,severity,note
+Ritual chant recording,restricted material,high,Ceremonial content requires access protocol
+Ritual chant recording,performance omission,high,Transcript alone would flatten ritual performance
+Ritual chant recording,governance control,high,Community review required before archive access
+Digital platform story collection,context removal,high,Stories may circulate without original audience or explanation
+Digital platform story collection,extraction risk,high,Platform may capture value or data without community benefit
+Digital platform story collection,public reuse,high,Material may be remixed or used as training data
+Community legend archive,place detachment,medium,Legend may be detached from local memory and site
+Intergenerational folktale practice,translation loss,low,Local idiom may need notes if translated
+Language revitalization storytelling workshop,documentation burden,low,Documentation should not replace learner practice
