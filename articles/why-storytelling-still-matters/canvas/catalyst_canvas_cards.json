@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "54a1801aa0d73b54",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Why Storytelling Still Matters",
+    "article_slug": "why-storytelling-still-matters",
+    "module_name": "catalyst_canvas",
+    "item": "Storytelling value core claim",
+    "claim_context": "article level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.952,
+      "risk_score": 0.3646,
+      "interpretation_readiness": 0.8774,
+      "governance_priority_score": 0.2166
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core claim about storytelling as accountable meaning-making is suitable for Canvas reuse."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.92,
+        "conceptual_depth": 0.96,
+        "structure_fit": 0.92,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.34,
+        "overgeneralization": 0.38,
+        "formula_drift": 0.32,
+        "power_blindness": 0.4,
+        "missing_counterexamples": 0.38
+      },
+      "readiness_signals": {
+        "method_limits": 0.9,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.9,
+        "review_owner": 0.86,
+        "publication_ready": 0.84
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "85a44af8a71f97e6",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Why Storytelling Still Matters",
+    "article_slug": "why-storytelling-still-matters",
+    "module_name": "catalyst_canvas",
+    "item": "Responsible storytelling and misuse review",
+    "claim_context": "truth context consent uncertainty revision accountability and misuse risk audit",
+    "scores": {
+      "domain_strength": 0.94,
+      "risk_score": 0.7121,
+      "interpretation_readiness": 0.846,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate stories that become compelling while weakening evidence, dignity, context, or audience reasoning."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.9,
+        "conceptual_depth": 0.94,
+        "structure_fit": 0.9,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.68,
+        "overgeneralization": 0.72,
+        "formula_drift": 0.7,
+        "power_blindness": 0.76,
+        "missing_counterexamples": 0.7
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.86,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "09c0b6307177b177",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Why Storytelling Still Matters",
+    "article_slug": "why-storytelling-still-matters",
+    "module_name": "catalyst_canvas",
+    "item": "AI storytelling governance review",
+    "claim_context": "provenance source traceability synthetic witness consent discipline use limits correction and human review audit",
+    "scores": {
+      "domain_strength": 0.924,
+      "risk_score": 0.805,
+      "interpretation_readiness": 0.8294,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review AI-supported story work for provenance, synthetic authority, witness imitation, consent, and human accountability."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.86,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.8,
+        "overgeneralization": 0.8,
+        "formula_drift": 0.76,
+        "power_blindness": 0.84,
+        "missing_counterexamples": 0.82
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]

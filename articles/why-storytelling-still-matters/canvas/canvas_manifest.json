@@ -1,0 +1,39 @@
+{
+  "canvas_module": "storytelling_value_governance_canvas",
+  "article_title": "Why Storytelling Still Matters",
+  "article_slug": "why-storytelling-still-matters",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for storytelling value, narrative responsibility, misuse risk, memory continuity, public reasoning, and AI storytelling governance.",
+  "inputs": [
+    "storytelling_value_governance_claims",
+    "narrative_responsibility_notes",
+    "misuse_risk_notes",
+    "ai_storytelling_governance_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "storytelling_value_governance_audit.csv",
+    "storytelling_value_governance_queue.csv",
+    "storytelling_value_governance_canvas_cards.json",
+    "storytelling_value_governance_queue.json",
+    "storytelling_value_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "storytelling value",
+      "narrative responsibility",
+      "truthfulness",
+      "context adequacy",
+      "consent discipline",
+      "memory continuity",
+      "public reasoning",
+      "misuse risk",
+      "AI storytelling governance",
+      "human accountability"
+    ]
+  }
+}

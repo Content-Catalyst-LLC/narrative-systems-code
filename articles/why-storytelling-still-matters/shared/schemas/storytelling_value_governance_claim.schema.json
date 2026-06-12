@@ -1,0 +1,12 @@
+{
+  "title": "Storytelling Value Governance Claim",
+  "type": "object",
+  "required": ["item", "story_context", "clarity", "evidence_grounding", "ethical_stakes"],
+  "properties": {
+    "item": {"type": "string"},
+    "story_context": {"type": "string"},
+    "clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "evidence_grounding": {"type": "number", "minimum": 0, "maximum": 1},
+    "ethical_stakes": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

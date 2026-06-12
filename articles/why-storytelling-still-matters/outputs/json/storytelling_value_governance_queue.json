@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "60206c84944fef5d",
+    "card_type": "storytelling_value_governance",
+    "article_title": "Why Storytelling Still Matters",
+    "article_slug": "why-storytelling-still-matters",
+    "item": "Platform-optimized outrage story",
+    "story_context": "attention-driven public story optimized for anger shareability and identity conflict",
+    "scores": {
+      "storytelling_value": 0.42,
+      "narrative_responsibility": 0.33,
+      "misuse_risk": 0.8304,
+      "ai_storytelling_governance": 0.2833,
+      "governance_priority_score": 0.7306
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority storytelling governance review required. Storytelling value is limited. Strengthen clarity, evidence grounding, memory continuity, audience reasoning, dignity, and public usefulness. Narrative responsibility is limited. Strengthen truthfulness, context, consent, uncertainty disclosure, revision openness, and accountability. Misuse risk is elevated. Review oversimplification, emotional exploitation, scapegoating, context loss, platform frictionlessness, and human review. AI storytelling governance is limited. Improve provenance, source traceability, human review, consent discipline, use limits, and correction process. Escalate. Misuse risk is high and public reasoning is weak."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "43a9648d8534be3d",
+    "card_type": "storytelling_value_governance",
+    "article_title": "Why Storytelling Still Matters",
+    "article_slug": "why-storytelling-still-matters",
+    "item": "AI-generated witness narrative",
+    "story_context": "synthetic testimony-like story produced without provenance consent or source traceability",
+    "scores": {
+      "storytelling_value": 0.3367,
+      "narrative_responsibility": 0.2467,
+      "misuse_risk": 0.736,
+      "ai_storytelling_governance": 0.18,
+      "governance_priority_score": 0.7639
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority storytelling governance review required. Storytelling value is limited. Strengthen clarity, evidence grounding, memory continuity, audience reasoning, dignity, and public usefulness. Narrative responsibility is limited. Strengthen truthfulness, context, consent, uncertainty disclosure, revision openness, and accountability. Misuse risk is elevated. Review oversimplification, emotional exploitation, scapegoating, context loss, platform frictionlessness, and human review. AI storytelling governance is limited. Improve provenance, source traceability, human review, consent discipline, use limits, and correction process. Escalate. Synthetic witness narrative lacks provenance, consent, source traceability, and review."
+    }
+  }
+]

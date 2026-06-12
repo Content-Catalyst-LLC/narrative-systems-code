@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Storytelling Value Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "story_context",
+    "storytelling_value",
+    "narrative_responsibility",
+    "misuse_risk",
+    "ai_storytelling_governance",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "story_context": {"type": "string"},
+    "storytelling_value": {"type": "number"},
+    "narrative_responsibility": {"type": "number"},
+    "misuse_risk": {"type": "number"},
+    "ai_storytelling_governance": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}
