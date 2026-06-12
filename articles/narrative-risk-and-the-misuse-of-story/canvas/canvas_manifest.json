@@ -1,0 +1,40 @@
+{
+  "canvas_module": "narrative_risk_governance_canvas",
+  "article_title": "Narrative Risk and the Misuse of Story",
+  "article_slug": "narrative-risk-and-the-misuse-of-story",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for narrative risk, evidence integrity, trust-repair priority, platform amplification risk, and AI narrative risk.",
+  "inputs": [
+    "narrative_risk_governance_claims",
+    "evidence_integrity_notes",
+    "trust_repair_notes",
+    "scapegoating_risk_notes",
+    "ai_narrative_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "narrative_risk_governance_audit.csv",
+    "narrative_risk_governance_queue.csv",
+    "narrative_risk_governance_canvas_cards.json",
+    "narrative_risk_governance_queue.json",
+    "narrative_risk_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "disciplined suspicion",
+      "evidence integrity",
+      "revision openness",
+      "scapegoating risk",
+      "mythic simplification",
+      "institutional distortion",
+      "trust repair",
+      "platform amplification",
+      "synthetic evidence",
+      "AI narrative risk"
+    ]
+  }
+}

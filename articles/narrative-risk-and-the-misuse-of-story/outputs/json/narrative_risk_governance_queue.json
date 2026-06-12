@@ -1,0 +1,71 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "c1a47f82d05f89dc",
+    "card_type": "narrative_risk_governance",
+    "article_title": "Narrative Risk and the Misuse of Story",
+    "article_slug": "narrative-risk-and-the-misuse-of-story",
+    "item": "Institutional cover-up inquiry",
+    "narrative_context": "public concern about hidden institutional failure requiring evidence review and trust repair",
+    "scores": {
+      "narrative_risk": 0.266,
+      "evidence_integrity": 0.72,
+      "trust_repair_priority": 0.772,
+      "platform_amplification_risk": 0.364,
+      "ai_narrative_risk": 0.2136,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "owner": "editorial",
+      "status": "review",
+      "governance_note": "Medium-priority narrative risk review recommended. Trust-repair priority is elevated. Review institutional failure, opacity, historical distrust, public consequence, correction difficulty, and affected-listener stakes. Treat as legitimate inquiry. Strengthen transparency, records, evidence boundaries, and trust repair."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "4548011d45ca7909",
+    "card_type": "narrative_risk_governance",
+    "article_title": "Narrative Risk and the Misuse of Story",
+    "article_slug": "narrative-risk-and-the-misuse-of-story",
+    "item": "Scapegoating hidden-enemy story",
+    "narrative_context": "broad group blamed as secret cause of multiple unrelated public problems",
+    "scores": {
+      "narrative_risk": 0.8432,
+      "evidence_integrity": 0.2933,
+      "trust_repair_priority": 0.6556,
+      "platform_amplification_risk": 0.804,
+      "ai_narrative_risk": 0.5208,
+      "governance_priority_score": 0.7376
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority narrative risk governance review required. Narrative risk is elevated. Review scapegoating, evidence immunity, mythic simplification, context loss, group-blame intensity, and revision openness. Evidence integrity is limited. Strengthen corroboration, source quality, timeline clarity, uncertainty disclosure, accountability clarity, and disconfirmation openness. Trust-repair priority is elevated. Review institutional failure, opacity, historical distrust, public consequence, correction difficulty, and affected-listener stakes. Platform amplification risk is elevated. Review speed, repetition, social proof, monetization, and context loss. Escalate. Scapegoating, group-blame intensity, evidence immunity, and revision closure are high."
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "8c608c11ee01685e",
+    "card_type": "narrative_risk_governance",
+    "article_title": "Narrative Risk and the Misuse of Story",
+    "article_slug": "narrative-risk-and-the-misuse-of-story",
+    "item": "AI-generated evidence fragment",
+    "narrative_context": "synthetic image and generated analysis used to support a hidden-power claim",
+    "scores": {
+      "narrative_risk": 0.6596,
+      "evidence_integrity": 0.2967,
+      "trust_repair_priority": 0.6832,
+      "platform_amplification_risk": 0.8304,
+      "ai_narrative_risk": 0.8592,
+      "governance_priority_score": 0.7596
+    },
+    "review": {
+      "priority": "high",
+      "owner": "governance",
+      "status": "revise",
+      "governance_note": "High-priority narrative risk governance review required. Narrative risk is elevated. Review scapegoating, evidence immunity, mythic simplification, context loss, group-blame intensity, and revision openness. Evidence integrity is limited. Strengthen corroboration, source quality, timeline clarity, uncertainty disclosure, accountability clarity, and disconfirmation openness. Trust-repair priority is elevated. Review institutional failure, opacity, historical distrust, public consequence, correction difficulty, and affected-listener stakes. Platform amplification risk is elevated. Review speed, repetition, social proof, monetization, and context loss. AI narrative risk is elevated. Review synthetic evidence, provenance opacity, fabricated patterning, automated consensus, vulnerability targeting, and human review. Escalate. Synthetic evidence and provenance opacity threaten public reasoning."
+    }
+  }
+]

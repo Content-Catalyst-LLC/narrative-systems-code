@@ -1,0 +1,12 @@
+{
+  "title": "Narrative Risk Governance Claim",
+  "type": "object",
+  "required": ["item", "narrative_context", "scapegoating", "evidence_immunity", "revision_openness"],
+  "properties": {
+    "item": {"type": "string"},
+    "narrative_context": {"type": "string"},
+    "scapegoating": {"type": "number", "minimum": 0, "maximum": 1},
+    "evidence_immunity": {"type": "number", "minimum": 0, "maximum": 1},
+    "revision_openness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

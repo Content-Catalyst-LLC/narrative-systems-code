@@ -1,0 +1,94 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "e28288cceb86d472",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Narrative Risk and the Misuse of Story",
+    "article_slug": "narrative-risk-and-the-misuse-of-story",
+    "module_name": "catalyst_canvas",
+    "item": "Scapegoating and mythic simplification review",
+    "claim_context": "group blame evidence immunity enemy function mythic simplification and revision closure audit",
+    "scores": {
+      "domain_strength": 0.928,
+      "risk_score": 0.7908,
+      "interpretation_readiness": 0.8383,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate narratives that shift from specific accountability to broad group blame or mythic enemy construction."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.88,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.78,
+        "overgeneralization": 0.84,
+        "formula_drift": 0.72,
+        "power_blindness": 0.78,
+        "missing_counterexamples": 0.82
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.86,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.72
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "90e12d95ac5db515",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Narrative Risk and the Misuse of Story",
+    "article_slug": "narrative-risk-and-the-misuse-of-story",
+    "module_name": "catalyst_canvas",
+    "item": "Synthetic evidence and AI narrative risk review",
+    "claim_context": "synthetic evidence provenance opacity fabricated patterning automated consensus and weak human review audit",
+    "scores": {
+      "domain_strength": 0.912,
+      "risk_score": 0.8117,
+      "interpretation_readiness": 0.8255,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review synthetic narrative materials for provenance, source chain, automated consensus, vulnerability targeting, and human verification."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.82,
+        "overgeneralization": 0.84,
+        "formula_drift": 0.72,
+        "power_blindness": 0.8,
+        "missing_counterexamples": 0.86
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.68
+      }
+    }
+  }
+]
