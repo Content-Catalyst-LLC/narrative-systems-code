@@ -1,0 +1,12 @@
+{
+  "title": "Rhetorical Moves Governance Claim",
+  "type": "object",
+  "required": ["item", "persuasion_context", "evidence_truthfulness", "proportionality", "audience_agency"],
+  "properties": {
+    "item": {"type": "string"},
+    "persuasion_context": {"type": "string"},
+    "evidence_truthfulness": {"type": "number", "minimum": 0, "maximum": 1},
+    "proportionality": {"type": "number", "minimum": 0, "maximum": 1},
+    "audience_agency": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

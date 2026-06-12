@@ -1,0 +1,140 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "card_id": "bcc8ef4261e61dc4",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Rhetorical Moves and the Ethics of Persuasive Story",
+    "article_slug": "rhetorical-moves-and-the-ethics-of-persuasive-story",
+    "module_name": "catalyst_canvas",
+    "item": "Persuasive story core claim",
+    "claim_context": "article level conceptual and governance audit",
+    "scores": {
+      "domain_strength": 0.944,
+      "risk_score": 0.4092,
+      "interpretation_readiness": 0.8736,
+      "governance_priority_score": 0.2396
+    },
+    "review": {
+      "priority": "standard",
+      "confidence_band": "high",
+      "owner": "editorial",
+      "status": "active",
+      "governance_note": "Standard review sufficient. Record note: Core claim about persuasive story requiring evidence, proportionality, dignity, transparency, and audience agency is suitable for Canvas reuse."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.92,
+        "conceptual_depth": 0.94,
+        "structure_fit": 0.9,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.38,
+        "overgeneralization": 0.4,
+        "formula_drift": 0.36,
+        "power_blindness": 0.48,
+        "missing_counterexamples": 0.42
+      },
+      "readiness_signals": {
+        "method_limits": 0.9,
+        "counterexamples": 0.88,
+        "uncertainty_notes": 0.9,
+        "review_owner": 0.86,
+        "publication_ready": 0.82
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "5c34828ad51a7e2d",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Rhetorical Moves and the Ethics of Persuasive Story",
+    "article_slug": "rhetorical-moves-and-the-ethics-of-persuasive-story",
+    "module_name": "catalyst_canvas",
+    "item": "Manipulation and audience agency review",
+    "claim_context": "fear amplification urgency coercion social proof context omission and weak audience agency audit",
+    "scores": {
+      "domain_strength": 0.928,
+      "risk_score": 0.725,
+      "interpretation_readiness": 0.846,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Escalate persuasive stories that use emotional pressure, social proof, urgency, or omission to bypass judgment."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.88,
+        "conceptual_depth": 0.92,
+        "structure_fit": 0.88,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.74,
+        "overgeneralization": 0.72,
+        "formula_drift": 0.68,
+        "power_blindness": 0.78,
+        "missing_counterexamples": 0.7
+      },
+      "readiness_signals": {
+        "method_limits": 0.88,
+        "counterexamples": 0.86,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.84,
+        "publication_ready": 0.76
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "card_id": "1032504979414a85",
+    "card_type": "catalyst_canvas_article_governance",
+    "article_title": "Rhetorical Moves and the Ethics of Persuasive Story",
+    "article_slug": "rhetorical-moves-and-the-ethics-of-persuasive-story",
+    "module_name": "catalyst_canvas",
+    "item": "AI personalized persuasion governance",
+    "claim_context": "personalization targeting vulnerability exploitation synthetic evidence opaque testing and weak human review audit",
+    "scores": {
+      "domain_strength": 0.912,
+      "risk_score": 0.8087,
+      "interpretation_readiness": 0.8294,
+      "governance_priority_score": 0.45
+    },
+    "review": {
+      "priority": "medium",
+      "confidence_band": "high",
+      "owner": "governance",
+      "status": "review",
+      "governance_note": "Medium-priority editorial review recommended. Risk signals are elevated. Review power, omissions, ethical framing, and distortion. Record note: Review AI-personalized persuasion for hidden influence, vulnerability targeting, synthetic evidence, opaque tests, data opacity, and weak human review."
+    },
+    "signals": {
+      "metrics": {
+        "source_context": 0.84,
+        "conceptual_depth": 0.9,
+        "structure_fit": 0.86,
+        "ethical_framing": 0.98,
+        "governance_value": 0.98
+      },
+      "risk_signals": {
+        "context_loss": 0.78,
+        "overgeneralization": 0.82,
+        "formula_drift": 0.76,
+        "power_blindness": 0.86,
+        "missing_counterexamples": 0.82
+      },
+      "readiness_signals": {
+        "method_limits": 0.86,
+        "counterexamples": 0.84,
+        "uncertainty_notes": 0.88,
+        "review_owner": 0.86,
+        "publication_ready": 0.7
+      }
+    }
+  }
+]

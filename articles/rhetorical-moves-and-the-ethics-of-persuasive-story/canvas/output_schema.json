@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Rhetorical Moves Governance Canvas Output",
+  "type": "object",
+  "required": [
+    "item",
+    "persuasion_context",
+    "rhetorical_integrity",
+    "manipulation_risk",
+    "audience_agency_score",
+    "platform_persuasion_risk",
+    "ai_persuasion_risk",
+    "review_priority"
+  ],
+  "properties": {
+    "item": {"type": "string"},
+    "persuasion_context": {"type": "string"},
+    "rhetorical_integrity": {"type": "number"},
+    "manipulation_risk": {"type": "number"},
+    "audience_agency_score": {"type": "number"},
+    "platform_persuasion_risk": {"type": "number"},
+    "ai_persuasion_risk": {"type": "number"},
+    "governance_priority_score": {"type": "number"},
+    "review_priority": {"type": "string"}
+  }
+}

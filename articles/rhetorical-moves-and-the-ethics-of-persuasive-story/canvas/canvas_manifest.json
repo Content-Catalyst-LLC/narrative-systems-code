@@ -1,0 +1,38 @@
+{
+  "canvas_module": "rhetorical_moves_governance_canvas",
+  "article_title": "Rhetorical Moves and the Ethics of Persuasive Story",
+  "article_slug": "rhetorical-moves-and-the-ethics-of-persuasive-story",
+  "series": "Storytelling",
+  "version": "1.0.0",
+  "description": "Canvas module for rhetorical integrity, manipulation risk, audience agency, platform persuasion risk, and AI persuasion risk.",
+  "inputs": [
+    "rhetorical_moves_governance_claims",
+    "rhetorical_integrity_notes",
+    "manipulation_risk_notes",
+    "audience_agency_notes",
+    "ai_persuasion_risk_notes",
+    "catalyst_canvas_assessment"
+  ],
+  "outputs": [
+    "rhetorical_moves_governance_audit.csv",
+    "rhetorical_moves_governance_queue.csv",
+    "rhetorical_moves_governance_canvas_cards.json",
+    "rhetorical_moves_governance_queue.json",
+    "rhetorical_moves_governance_queue.md",
+    "catalyst_canvas_cards.json",
+    "catalyst_canvas_governance_queue.json"
+  ],
+  "governance": {
+    "requires_human_review": true,
+    "review_focus": [
+      "rhetorical integrity",
+      "evidence truthfulness",
+      "proportionality",
+      "dignity protection",
+      "audience agency",
+      "manipulation risk",
+      "platform persuasion",
+      "AI persuasion risk"
+    ]
+  }
+}
